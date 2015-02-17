@@ -1,3 +1,9 @@
 source 'https://rubygems.org'
 gem 'github-pages'
-
+gem 'jekyll-mentions'
+gem 'jekyll-sitemap'
+gem 'jekyll-assets'
+gem 'coffee-script'
+gem 'uglifier'
+gem 'sass'
+gem 'bootstrap-sass'

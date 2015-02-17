@@ -6,3 +6,30 @@ defaults:
       path: ""
     values:
       layout: "default"
+gems:
+    - jekyll-assets
+    - jekyll-mentions
+    - jekyll-sitemap
+
+assets:
+  js_compressor: uglifier
+  css_compressor: sass
+  sources:
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _vendors/javascripts
+
+name: Shane Starcher
+
+# Title for your site as it will appear in google
+# e.g. Resume, Curriculum Vitae, Work History
+title: Resume for Shane Starcher
+description: Digital resume for Shane Starcher
+url: 'https://shanestarcher.com/resume'
+personal: 'https://www.shanestarcher.com'
+email: shane.starcher@gmail.com
+twitter: sstarcher
+copyright: All rights reserved.
+navigation: navigation
+analytics: UA-1959564-1

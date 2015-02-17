@@ -1,0 +1,46 @@
+- Languages:
+    primary:
+      - "Java, J2EE, Spring, Camel, Maven, Gradle"
+      - Python
+      - PHP
+    secondary:
+      - Bash
+      - Ruby
+      - Javascript
+- Systems:
+    primary:
+      - Puppet
+    secondary:
+      - Chef
+- Frameworks:
+    primary:
+      - Flask
+      - Puppet
+    secondary:
+      - Chef
+      - Rails
+- DevOps:
+    primary:
+      - AWS
+      - Redhat
+      - Docker
+      - Jenkins
+      - Graphite
+    secondary:
+      - Debian
+      - Nginx
+      - Logstash
+- Databases:
+    primary:
+      - MySql
+    secondary:
+      - Oracle
+- Other:
+    primary:
+      - Vagrant
+      - JBoss/Tomcat/Weblogic
+      - SVN/GIT
+      - XML
+      - XSLT
+      - SOA/SOAP
+      - ESB(Aqualogic)
