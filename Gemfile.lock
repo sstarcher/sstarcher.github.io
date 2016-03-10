@@ -30,6 +30,8 @@ GEM
     fastimage (1.6.6)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.6)
+    font-awesome-sass (4.5.0)
+      sass (>= 3.2)
     gemoji (2.1.0)
     github-pages (33)
       RedCloth (= 4.2.9)
@@ -159,10 +161,12 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass
   coffee-script
-  github-pages
+  font-awesome-sass
+  github-pages (~> 33)
+  jekyll (~> 2.4.0)
   jekyll-assets
-  jekyll-mentions
-  jekyll-sitemap
   rake
-  sass
   uglifier
+
+BUNDLED WITH
+   1.11.2

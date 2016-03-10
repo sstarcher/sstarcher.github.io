@@ -1,5 +1,15 @@
+@import "font-awesome";
 @import "bootstrap";
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+img.icon {
+    height: 30px;
+    width: 30px;
+}
+
+.nav>li>a.icon {
+  padding-right: 0px;
+}
 
 .content{
   padding: 40px 15px;
@@ -14,7 +24,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 p, ul, ol, table, pre, dl {

@@ -18,9 +18,29 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             {% for section in site.pages %}
-              <li><a href="{{ section.dir }}">{{section.title}} <span class="sr-only">????</span></a></li>
+              <li><a href="{{ section.dir }}">{{section.title}}</a></li>
             {% endfor %}
-            <li><a href="https://github.com/sstarcher">GitHub</a></li>
+            <li>
+              <a class="icon" href="https://github.com/sstarcher">
+                <img class="icon" src="{{ site.url }}{{ site.baseurl }}/assets/github.png">
+              </a>
+            </li>
+            <li>
+              <a class="icon" href="https://www.linkedin.com/in/shanestarcher">
+                <img class="icon" src="{{ site.url }}{{ site.baseurl }}/assets/linkedin.png">
+              </a>
+            </li>
+            <li>
+              <a class="icon" href="https://www.facebook.com/shanestarcher">
+                <img class="icon" src="{{ site.url }}{{ site.baseurl }}/assets/facebook.png">
+              </a>
+            </li>
+            <li>
+              <a class="icon" href="https://untappd.com/user/sstarcher">
+                <img class="icon" src="{{ site.url }}{{ site.baseurl }}/assets/untappd.png">
+              </a>
+            </li>
+            
           </ul>
         </div>
         </div>
