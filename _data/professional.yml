@@ -1,14 +1,22 @@
-- org:  Booz Allen Hamilton 
-  role: Associtate
-  location: Fairmont, WV
-  when: Oct 2011 - Present
+- org:  Move, Inc. (Realtor.com) 
+  role: Software Wizard
+  location: Morgantown, WV
+  when: May 2014 - Present
   bullets: 
-    - After familiarizing myself with the teams processes and procedures, I wrote a white paper on recommendations for improvements.  The improvements were taken under advisement and I was given permission to implement the majority of the improvements.
+    - Something something Docker
+    - Something something Kubernetes
+    
+- org:  Booz Allen Hamilton 
+  role: Associate
+  location: Fairmont, WV
+  when: Oct 2011 - May 2014
+  bullets: 
+    - After familiarizing myself with the team's processes and procedures, I wrote a white paper on recommendations for improvements.  The improvements were taken under advisement and I was given permission to implement the majority of the improvements.
     - I used Puppet to automate the setup of developer workstations for onboarding new individuals.  This improved the time a new developer was prepared to learn the system from 2 weeks to less than a day.
     - I used both Puppet and a cloud deployment framework to bring both the developer workstation and our systems configuration under configuration management and automated deployment.  This allowed for automation of 70% of system setup for our tools and improved development into a new environment from 6 work days to 25 minutes for the 70% that was brought under automation and configuration management. 
     - Using Maven and Bamboo, I redesigned the system artifacts to become proper Software Configuration Items (SWCIs) to move the team closer to the CMMI and government goals for the project. 
     - Used Spring, Apache Camel, and OracleAQ to implement a multithreaded, redundant biometric system.
-    - Decompiled a third party library with a GUI to leverage it in the use of a command line tool to automate it’s use.
+    - Decompiled a third party library with a GUI to leverage it in the use of a command line tool to automate its use.
     - Used Spring to create a stand-alone tool for the customer to leverage system components for a significant system enhancement for a two day turnaround.
     - Used Python to manage 100+ disparate servers.  Allowing for quick deployment and fast testing of the code base and environmental synchronization between development, test, and quality assurance environments.
 
@@ -17,7 +25,7 @@
   location: Fairmont, WV
   when: Sept 2010 - Oct 2011
   bullets: 
-    - Evaluated 12 Enterprise Service Bus(ESB), Service Management, and Service Registry solutions to determine a proper fit for our customer.  Using a multi-stage elimination that gradually evaluated more of the products to eliminate products that could not fit the customers goals to allow for more focus on the remaining products.
+    - Evaluated 12 Enterprise Service Bus(ESB), Service Management, and Service Registry solutions to determine a proper fit for our customer.  Using a multi-stage elimination that gradually evaluated more of the products to eliminate products that could not fit the customer's goals to allow for more focus on the remaining products.
     - Implemented 2 Enterprise Service Bus(ESB) product suites to demonstrate a comparative POC for the customer.  To allow for a requirement by requirement comparison of the final recommended solutions.
     - Made enhancements to a 6 year old Swing application used by the FBI gun check NICS program
 
@@ -32,7 +40,7 @@
         One of two individuals who designed and implemented the phase 1 prototype biometric matching and sharing system.
         Developed a fully functional prototype to demonstrate proof of concept capability to integrate with external government agencies for data sharing.
         The system was designed and implemented using Oracle/BEA Aqualogic Enterprise Service Bus(ESB) and Business Process Modeler(BPM) using J2EE, SOAP and XSLT along with JNI to develop the module SOA interface.
-        Participated in customers meetings to help define the systems functional requirements.
+        Participated in customers meetings to help define the system's functional requirements.
         Mentored Jr. staff members for proper integration into the project along with developing programming priorities, goals and strategies.
         Used Microsoft Silverlight to implement a monitoring interface.
         Designed and Implemented a fully automated complex build system using ANT.
