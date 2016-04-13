@@ -1,5 +1,5 @@
 ---
-title: About
+title: Home
 subtitle: Developer
 ---
 
@@ -11,8 +11,15 @@ subtitle: Developer
         {% for section in site.data.things %}
         <div class="section">
             <h2>
-                {{ section }}
+                {{ section.title }}
             </h2>
+            <h4>
+                <ul>
+                {% for items in section.content %}
+                    <li>{{ items }}</li>
+                {% endfor %}
+                </ul>
+            </h4>
             <hr />
         </div>
         {% endfor %}
