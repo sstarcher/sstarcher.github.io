@@ -3,8 +3,11 @@
   location: Morgantown, WV
   when: May 2014 - Present
   bullets: 
+    - Something something Aws
     - Something something Docker
     - Something something Kubernetes
+    - Something something InfluxDB
+    - Something something Sensu
     
 - org:  Booz Allen Hamilton 
   role: Associate
