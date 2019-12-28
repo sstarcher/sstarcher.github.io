@@ -1,26 +1,18 @@
 - Languages:
     primary:
-      - "Java, J2EE, Spring, Camel, Maven, Gradle"
-      - Python
-    secondary:
+      - Java(J2EE, Spring, Camel, Maven, Gradle, JBoss, Tomcat)"
+      - Python(Flask, Django)
       - Bash
-      - Ruby
+      - Ruby(Rails)
       - Javascript
-- Systems:
+- Configuration Management:
     primary:
       - Puppet
-    secondary:
       - Chef
-- Frameworks:
-    primary:
-      - Flask
-      - Puppet
-    secondary:
-      - Chef
-      - Rails
 - DevOps:
     primary:
       - AWS
+      - Terraform
       - Redhat
       - Docker
       - Jenkins
@@ -32,14 +24,6 @@
 - Databases:
     primary:
       - MySql
-    secondary:
-      - Oracle
-- Other:
-    primary:
-      - Vagrant
-      - JBoss/Tomcat/Weblogic
-      - SVN/GIT
-      - XML
-      - XSLT
-      - SOA/SOAP
-      - ESB(Aqualogic)
+      - Postgres
+
+

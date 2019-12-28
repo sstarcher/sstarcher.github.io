@@ -9,7 +9,7 @@ GITHUB_REPONAME = 'sstarcher/sstarcher.github.io'.freeze
 desc 'Build site with Jekyll'
 task :serve, [:production] do |t, args|
     puts 'Rakefile: Building with a development configuration.'
-    sh 'jekyll serve --trace --config _config.yml,_development_config.yml --watch'
+    sh 'jekyll serve --trace --config _config.yml --watch'
 end
 
 desc 'Generate blog files'

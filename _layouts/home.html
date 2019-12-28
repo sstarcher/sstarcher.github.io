@@ -1,0 +1,21 @@
+---
+layout: page
+---
+<div class="row">
+    <div class="column-small">&nbsp;</div>
+    <div class="column">
+        {% for section in site.data.things %}
+        <div class="section">
+            <h3>
+                {{ section.title }}
+            </h3>
+            <hr />
+            <ul class="bullets home">
+            {% for items in section.content %}
+                <li>{{ items }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</div>

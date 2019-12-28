@@ -1,31 +1,24 @@
-highlighter: pygments
-encoding: utf-8
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-gems:
-    - jekyll-assets
+email: your-email@example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: test
+description: huh
+texture:
+  title: Shane Starcher
+  tagline: Resume
+  date_format: "%b %-d, %Y"
+  style: black
 
-assets:
-  js_compressor: uglifier
-  css_compressor: sass
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _vendors/javascripts
+  social_links:
+    untappd: sstarcher
+    github:  sstarcher
+    facebook: shanestarcher
+    linkedIn: us/sstarcher # format: locale/username
+  analytics_id: 'UA-1959564-1'
 
-name: Shane Starcher
+# Build settings
+markdown: texture
+theme: texture
+remote_theme: thelehhman/texture
 
-title: Resume for Shane Starcher
-description: Digital resume for Shane Starcher
-url: 'http://shanestarcher.com'
-baseurl: ""
-personal: 'http://shanestarcher.com'
-email: shane.starcher@gmail.com
-twitter: sstarcher
-copyright: All rights reserved.
-navigation: navigation
-analytics: UA-1959564-1
+

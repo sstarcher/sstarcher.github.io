@@ -2,26 +2,28 @@
     <div class="block">
         <div class="main-row">
             <div class="org">
-                <h3>{{ section.org }}</h3>
+                {{ section.org }}
             </div>
             <div class="when">
-                <h4>{{ section.when }}</h3>
+                {{ section.when }}
             </div>
         </div>
         <div class="sub-row">
             <div class="role">
-                <h4>{{ section.role }}</h4>
+                {{ section.role }}
             </div>
             <div class="location">
-                <h4>{{ section.location }}</h4>
+                {{ section.location }}
             </div>
         </div>
         {% if section.bullets %}
-        <ul>
-            {% for bullet in section.bullets %}
-            <li>{{ bullet | markdownify }}</li>
-            {% endfor %}
-        </ul>
+        <div class="sub-row">
+            <ul class="bullets">
+                {% for bullet in section.bullets %}
+                <li>{{ bullet }}</li>
+                {% endfor %}
+            </ul>
+        </div>
         {% endif %}
     </div>
 {% endfor %}

@@ -1,0 +1,18 @@
+<div id="header" class="container">
+    <ul class="social">
+        <li><a id="title" href="/"><h1>{{ site.texture.title }}</h1></a></li>
+        <li><a id="tagline" href="/resume.html"><h3>{{ site.texture.tagline }}</h3></a></li>
+        {%- if site.texture.social_links.github -%}
+        <li><a class="icon" href="https://github.com/{{ site.texture.social_links.github }}"><img class="icon" src="/images/github.png"></a></li>
+        {%- endif -%}
+        {%- if site.texture.social_links.linkedIn -%}
+        <li><a class="icon" href="https://linkedin.com/{{ site.texture.social_links.linkedIn }}"><img class="icon" src="/images/linkedin.png"></a></li>
+        {%- endif -%}
+        {%- if site.texture.social_links.facebook -%}
+        <li><a class="icon" href="https://facebook.com/{{ site.texture.social_links.facebook }}"><img class="icon" src="/images/facebook.png"></a></li>
+        {%- endif -%}
+        {%- if site.texture.social_links.untappd -%}
+        <li><a class="icon" href="https://untappd.com/user/{{ site.texture.social_links.untappd }}"><img class="icon" src="/images/untappd.png"></a></li>
+        {%- endif -%}
+    </ul>
+</div>
