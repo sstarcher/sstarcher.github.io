@@ -17,7 +17,6 @@ texture:
   analytics_id: 'UA-1959564-1'
 
 # Build settings
-markdown: texture
 theme: texture
 remote_theme: thelehhman/texture
 
