@@ -1,8 +1,5 @@
-email: your-email@example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-title: test
-description: huh
+title: Shane Starcher
+description: Random Software Developer
 texture:
   title: Shane Starcher
   tagline: Resume
