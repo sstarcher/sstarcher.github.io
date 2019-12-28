@@ -36,14 +36,21 @@ a>li {
     right: 0;
 }
 
+header {
+    min-width: 100px;
+    max-height: 110px;
+}
+
 header h3 {
     margin: 0px;
     margin-top: 0.8em;
     height: 100%;
 }
 
+.container {}
+
 main{
-    padding-top: 80px;
+    padding-top: 120px;
 }
 
 .social>li {
@@ -92,6 +99,11 @@ header {
 
 div.column-small>ul {
     margin-right: 30px;
+    padding: 0;
+}
+
+.column-small {
+    min-width: 100px;
 }
 
 .org {
