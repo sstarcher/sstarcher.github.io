@@ -14,5 +14,8 @@
         {%- if site.texture.social_links.untappd -%}
         <li><a class="icon" href="https://untappd.com/user/{{ site.texture.social_links.untappd }}"><img class="icon" src="/images/untappd.png"></a></li>
         {%- endif -%}
+        {%- if site.data.recipes == "bob" -%}
+        <li><a id="tagline" href="/recipes.html"><h3>Recipes</h3></a></li>
+        {%- endif -%}
     </ul>
 </div>

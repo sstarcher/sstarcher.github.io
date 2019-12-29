@@ -1,0 +1,13 @@
+---
+layout: page
+---
+<div class="row">
+    <div class="column-small">&nbsp;</div>
+    <div class="column">
+        <ul>
+        {% for section in site.data.recipes %}
+            <li><a href="/recipes/{{ section.name | downcase | replace: " ", "-" }}.html">{{ section.name  }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>

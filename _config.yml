@@ -17,4 +17,9 @@ texture:
 theme: texture
 remote_theme: thelehhman/texture
 
-
+page_gen:
+  - data: recipes
+    template: recipe
+    name: name
+    dir: recipes
+    extension: html
