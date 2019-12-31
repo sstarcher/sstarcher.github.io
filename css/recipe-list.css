@@ -5,15 +5,17 @@ main .container{
 }
 
 .text-hover {
-	font-size: 20px;
+	font-size: 14px;
 	color: black;
-	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	margin: 0px;
 }
 
 .bottom-left {
-	position: absolute;
-	bottom: 8px;
-	left: 16px;
+	/* position: absolute; */
+	/* bottom: 8px; */
+	/* left: 16px; */
+	height: 30px;
+	width: 100%;
 }
 
 .image-grid {
@@ -31,7 +33,7 @@ main .container{
 
 .photo-large {
 	width: 100%;
-	height: 100%;
+	height: 180px;
 	object-fit: cover;
 }
 
