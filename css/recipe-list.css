@@ -6,8 +6,8 @@ main .container{
 
 .text-hover {
 	font-size: 20px;
-	color: white;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: black;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 .bottom-left {
@@ -27,6 +27,11 @@ main .container{
 	float: left;
 	position: relative;
 	text-align: center;
-	color: white;
+}
+
+.photo-large {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
 }
 
