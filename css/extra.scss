@@ -38,8 +38,9 @@ a>li {
 }
 
 header {
-    min-width: 100px;
+    min-width: 300px;
     max-height: 110px;
+    min-height: 70px;
 }
 
 header h3 {
@@ -49,16 +50,18 @@ header h3 {
 }
 
 main{
-    padding-top: 80px;
+    padding-top: 90px;
 }
 
-.social {
+ul.social {
     margin: 0;
     line-height: 0.5em;
+    overflow: visible;
 }
 
 .social>li {
     padding-right: 15px;
+    height: 47px;
 }
 
 a.icon {
@@ -141,11 +144,6 @@ ul.bullets>li {
 p {
     display: block;
     margin: 0em;
-}
-
-.section{
-    overflow: hidden;
-
 }
 
 .section > h3 {
