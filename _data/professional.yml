@@ -3,87 +3,61 @@
   location: Remote
   when: Nov 2017 - Present
   bullets:
-    - Something something Infrastructure
-    - Something something Monitoring
-    - Something something Metrics
-    - Something something Clouds
+    - Designed and implemented the move from EC2 instances for all services to a container orchestrated system.  This migration allowed us to better utilized EC2 resources reducing our EC2 spend by 50% with a cost savings of over $500,000 a year.
+    - Reviewed and redesigned the terraform structure to use a modular approach that could be versioned and automated.
+    - Assessed the networking in AWS, and implemented changes to restructure the network in order to move instances into private subnets.
+    - Migrated to a three AWS account layout to give developers more access and to improve security for Protected Health Information.
+    - Brought the remaining AWS infrastructure and Github repositories under control of terraform.
+    - Documented best practices for developers around Docker and Kubernetes.  Gave introductory training to help transition them.
 
 - org:  Datapipe
-  role: Software Wizard
+  role: Platform Engineer
   location: Remote
   when: Dec 2016 - Nov 2017
   bullets:
-  - Management of a Kubernetes development and production cluster used to run services to create every other Kubernetes cluster.
-  - Implemented continued deployment to development on Kubernetes using Gitlab and Helm to properly semantic version artifacts and smoke test artifacts against development, with automated promotion to production on tagged releases.
-  - Wrote a command-line interface to communicate with several GRPC services to increase developer productivity.
-  - Implemented a wrapper Golang around Helm to allow for multiple charts to be installed in a single command in parallel.  This allowed developers to install and uninstall multiple components at once.  I also implemented continuous update features by installing this as a Helm chart that runs as a daemon for automatic helm upgrades.
-  - Spearheaded our infrastructure level monitoring, metrics to ensure alerting and debugging capabilities on system faults.
+    - Creation of a service to manage 100’s of Kubenretes cluster and create new cluster on demand.
+    - Implemented continued deployment on Kubernetes with Gitlab and Helm to version and test artifacts, with promotion on tagging.
+    - Created a CLI to allow for helm charts to be installed in a single command in parallel along with support for automatic updates.
+    - Lead infrastructure level monitoring and metrics to ensure alerting and debugging capabilities on system faults.
+
 
 - org:  Move, Inc. (Realtor.com)
-  role: Software Wizard
+  role: Senior Software Engineer
   location: Morgantown, WV
   when: May 2014 - Dec 2016
   bullets:
-    - Redesigned infrastructure from a separate service per server system to a highly scalable containerized and dynamic infrastructure.
-    - Created a robust, resilient and distributed job scheduler with a locking, task runner, and alerting system with flexible configurations.
+    - Created and implemented a strategy to move to Kubernetes from static EC2 infrastructure.
+    - Created a robust, resilient and distributed scheduler with a locking, tasks, and alerting.
     - Major overhaul from static logging to logging backed by ElasticSearch ELK stack.
-    - Created extensive monitoring and failure detection suite for early warning of system failures.
-    - Development, evolution and continued hardening of a Kubernetes cluster.
-    - Lead numerous training sessions on technologies such as Kibana, Grafana, ElasticSearch, InfluxDB, Vault.
-    - Leading a team to follow an efficient and Scrum implementation with very reliable commitment deliveries. (Manager's words not mine)
-    - Assisted other teams around the company to speed up their software delivery process and improved monitoring.
+    - Created extensive monitoring and failure detection suite for early warning of system failures using Sensu.
+    - Lead training sessions on technologies such as Kubenretes, Kibana, Grafana, ElasticSearch, InfluxDB.
+
 
 - org:  Booz Allen Hamilton
   role: Associate
   location: Fairmont, WV
   when: Oct 2011 - May 2014
   bullets:
-    - After familiarizing myself with the team's processes and procedures, I wrote a white paper on recommendations for improvements.  The improvements were taken under advisement and I was given permission to implement the majority of the improvements.
-    - I used Puppet to automate the setup of developer workstations for onboarding new individuals.  This improved the time a new developer was prepared to learn the system from 2 weeks to less than a day.
-    - I used both Puppet and a cloud deployment framework to bring both the developer workstation and our systems configuration under configuration management and automated deployment.  This allowed for automation of 70% of system setup for our tools and improved development into a new environment from 6 work days to 25 minutes for the 70% that was brought under automation and configuration management.
-    - Using Maven and Bamboo, I redesigned the system artifacts to become proper Software Configuration Items (SWCIs) to move the team closer to the CMMI and government goals for the project.
+    - Used Puppet to setup developer workstations for onboarding. Reducing onboarding from 2 weeks to 4 hours.
+    - Reduced infrastructure setup time from 6 days to 25 minutes using Puppet and Fabric.
     - Used Spring, Apache Camel, and OracleAQ to implement a multithreaded, redundant biometric system.
-    - Decompiled a third party library with a GUI to leverage it in the use of a command line tool to automate its use.
-    - Used Spring to create a stand-alone tool for the customer to leverage system components for a significant system enhancement for a two day turnaround.
-    - Used Python to manage 100+ disparate servers.  Allowing for quick deployment and fast testing of the code base and environmental synchronization between development, test, and quality assurance environments.
+    - Decompiled a library with a GUI use it as a command-line tool.
+
 
 - org: TEKSystems consulting for Lockheed Martin
   role: Software Engineer
   location: Fairmont, WV
   when: Sept 2010 - Oct 2011
   bullets:
-    - Evaluated 12 Enterprise Service Bus(ESB), Service Management, and Service Registry solutions to determine a proper fit for our customer.  Using a multi-stage elimination that gradually evaluated more of the products to eliminate products that could not fit the customer's goals to allow for more focus on the remaining products.
-    - Implemented 2 Enterprise Service Bus(ESB) product suites to demonstrate a comparative POC for the customer.  To allow for a requirement by requirement comparison of the final recommended solutions.
-    - Made enhancements to a 6 year old Swing application used by the FBI gun check NICS program
+    - Made enhancements to a legacy Swing application used by the FBI gun check NICS program
+
 
 - org: Computer Sciences Corporation (CSC)
   role: Software Engineer
   location: Fairmont, WV
   when: Jan 2008-Sept 2010
   bullets:
-    - |
-      Phase 1
-        Integrated and implementation of a software biometric system.
-        One of two individuals who designed and implemented the phase 1 prototype biometric matching and sharing system.
-        Developed a fully functional prototype to demonstrate proof of concept capability to integrate with external government agencies for data sharing.
-        The system was designed and implemented using Oracle/BEA Aqualogic Enterprise Service Bus(ESB) and Business Process Modeler(BPM) using J2EE, SOAP and XSLT along with JNI to develop the module SOA interface.
-        Participated in customers meetings to help define the system's functional requirements.
-        Mentored Jr. staff members for proper integration into the project along with developing programming priorities, goals and strategies.
-        Used Microsoft Silverlight to implement a monitoring interface.
-        Designed and Implemented a fully automated complex build system using ANT.
-    -  |
-        Phase 2
-          Implemented the EFTS/EBTS FBI specification for binary and mapped EFTS/EBTS into NIEM XML.
-          Re-architecture the phase 1 system to integrate new customer requirements along with transitioning from BPM to Oracle Business Process Execution Language(BPEL) product.
-          Lead a task team of 3 people to ensure proper and bug free integration of customer requests in a timely fashion using Agile processes.
-          The phase 2 system used Layer7's XML Gateway for WS-Security, X.509 and XML Validation.
-          The phase 2 system was implemented using Oracle ESB and BPEL along with Layer7 XML Gateways and J2EE.
-          Created a unit testing suite in JUnit to ensure proper integration testing and regression testing.
-          Experience using Hibernate and Oracle Toplink to manage the database tier of an enterprise application.
-          Implemented proper version control for the project using SVN.
-          System logging was implemented through Log4j and then upgraded to use SLF4J.
-          Overall system was deployed on Linux(Red Hat) with a few segments deployed on Windows Server 2008.
-          The QA/Production systems contained several server racks of approximately 100 blade servers.
+    - Created a biometric prototype system using Oracle Aqualogic Enterprise Service Bus and Business Process Modeler(BPM) using J2EE, SOAP, and XSLT along with JNI for low-level communication and implemented EFTS/EBTS FBI mappings to NIEM XML.
 
 
 - org: Advanced Acoustic Concepts.
@@ -91,6 +65,4 @@
   location: Uniontown, PA
   when: June 2006-Jan 2008
   bullets:
-    - Integrated and implemented a broad range of applications that enabled Content Management, Learning Management, and Content Discovery.
-    - Designed webservices in Java with Axis 2.3 and Eclipse to allow third parties to easily use our software.
-    - Implemented product enhancements and bug fixes with Java and Flash to extend current product functionality for the customer.
+    - Designed Java based web services to interact with Flash clients for product enhancements.

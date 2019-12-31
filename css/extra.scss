@@ -17,12 +17,12 @@ a>li {
 
 .column-small {
     float: left;
-    width: 25%;
+    width: 17%;
 }
 
 .column {
     float: left;
-    width: 75%;
+    width: 83%;
 }
 
 /* Header */
@@ -48,22 +48,22 @@ header h3 {
     height: 100%;
 }
 
-.container {}
-
 main{
-    padding-top: 120px;
+    padding-top: 80px;
+}
+
+.social {
+    margin: 0;
+    line-height: 0.5em;
 }
 
 .social>li {
     padding-right: 15px;
 }
 
-a {
-    display: block;
-}
-
 a.icon {
     padding-top: 15px;
+    display: block;
 }
 
 a#title {
@@ -132,8 +132,10 @@ ul.bullets>li {
     color:#494949;
 }
 
+
 .block {
     padding-bottom: 40px;
+    line-height: 0.9em;
 }
 
 p {

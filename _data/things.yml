@@ -2,12 +2,16 @@
   content:
     - I love metrics and monitoring.
     - I love building anti-fragile software systems and helping build and deploy software faster.
-    - I tend to focus on the pain points of systems and improving them.  
-    
+    - I tend to focus on the pain points of systems and improving them.
+
 - title: Travel
   content:
     - I spend time traveling mainly to experience the next category
 
 - title: Beer
-  content: 
+  content:
     - I enjoy craft beer and traveling for craft beer.
+
+- title: Cooking
+  content:
+    - I love cooking and you can see some of my favorite recipes [here](./recipes/)

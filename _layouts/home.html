@@ -12,7 +12,7 @@ layout: page
             <hr />
             <ul class="bullets home">
             {% for items in section.content %}
-                <li>{{ items }}</li>
+                <li>{{ items | markdownify }}</li>
             {% endfor %}
             </ul>
         </div>
