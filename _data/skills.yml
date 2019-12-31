@@ -1,9 +1,9 @@
 - Languages:
     primary:
-      - Java(J2EE, Spring, Camel, Maven, Gradle, JBoss, Tomcat)"
       - Python(Flask, Django)
+      - Golang
+      - Java(J2EE, Spring, Camel, Maven, Gradle, JBoss, Tomcat)"
       - Bash
-      - Ruby(Rails)
       - Javascript
 - Configuration Management:
     primary:
@@ -12,15 +12,25 @@
 - DevOps:
     primary:
       - AWS
+      - Kubernetes
+      - Helm
       - Terraform
       - Redhat
       - Docker
-      - Jenkins
       - Graphite
+      - InfluxDB
+      - Prometheus
+      - Grafana
+      - Sensu
     secondary:
       - Debian
       - Nginx
       - Logstash
+- CI/CD:
+    primary:
+      - Jenkins
+      - Gitlab
+      - CircleCI
 - Databases:
     primary:
       - MySql

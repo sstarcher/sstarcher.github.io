@@ -1,12 +1,23 @@
-- org:  Datapipe
-  role: Remote Software Wizard
+- org:  Syapse
+  role: Cloud Architect
   location: Remote
-  when: Dec 2016 - Present
+  when: Nov 2017 - Present
   bullets:
     - Something something Infrastructure
     - Something something Monitoring
     - Something something Metrics
     - Something something Clouds
+
+- org:  Datapipe
+  role: Software Wizard
+  location: Remote
+  when: Dec 2016 - Nov 2017
+  bullets:
+  - Management of a Kubernetes development and production cluster used to run services to create every other Kubernetes cluster.
+  - Implemented continued deployment to development on Kubernetes using Gitlab and Helm to properly semantic version artifacts and smoke test artifacts against development, with automated promotion to production on tagged releases.
+  - Wrote a command-line interface to communicate with several GRPC services to increase developer productivity.
+  - Implemented a wrapper Golang around Helm to allow for multiple charts to be installed in a single command in parallel.  This allowed developers to install and uninstall multiple components at once.  I also implemented continuous update features by installing this as a Helm chart that runs as a daemon for automatic helm upgrades.
+  - Spearheaded our infrastructure level monitoring, metrics to ensure alerting and debugging capabilities on system faults.
 
 - org:  Move, Inc. (Realtor.com)
   role: Software Wizard
