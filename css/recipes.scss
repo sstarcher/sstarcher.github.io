@@ -42,6 +42,10 @@ body {
 .clear {
     clear:both;
 }
+
+a:hover{
+    text-decoration: none !important;
+}
 a {
     color: #4990E2;
     text-decoration: none;
