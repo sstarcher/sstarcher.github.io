@@ -15,7 +15,7 @@
   location: Remote
   when: Dec 2016 - Nov 2017
   bullets:
-    - Creation of a service to manage 100’s of Kubenretes cluster and create new cluster on demand.
+    - Creation of a service to manage 100’s of Kubernetes cluster and create new cluster on demand.
     - Implemented continued deployment on Kubernetes with Gitlab and Helm to version and test artifacts, with promotion on tagging.
     - Created a CLI to allow for helm charts to be installed in a single command in parallel along with support for automatic updates.
     - Led infrastructure level monitoring and metrics to ensure alerting and debugging capabilities on system faults.
@@ -41,7 +41,7 @@
     - Used Puppet to setup developer workstations for onboarding. Reducing onboarding from 2 weeks to 4 hours.
     - Reduced infrastructure setup time from 6 days to 25 minutes using Puppet and Fabric.
     - Used Spring, Apache Camel, and OracleAQ to implement a multithreaded, redundant biometric system.
-    - Decompiled a library with a GUI use it as a command-line tool.
+    - Decompiled a library with a GUI to use it as a command-line tool.
 
 
 - org: TEKSystems consulting for Lockheed Martin
