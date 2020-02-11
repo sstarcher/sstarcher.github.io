@@ -104,7 +104,8 @@
   source_url: ''
   total_time: ''
   uid: 0398FBD1-F671-4FB6-91B9-B4131B4C6132-28802-00012426B6BA3875
-- categories: []
+- categories:
+  - Sides
   cook_time: 45 minutes
   created: '2019-11-10 17:19:25'
   description: ''
@@ -125,7 +126,7 @@
     combined.
   - After the potatoes come out of the oven, drizzle with sauce and garnish with parsley
     and minced scallions.
-  image_url: ''
+  image_url: null
   in_trash: false
   ingredients:
   - 2 pounds Dutch yellow baby potatoes (or any small potato)
@@ -394,21 +395,22 @@
   source_url: https://sweetpeasandsaffron.com/lighter-mongolian-beef-meal-prep/
   total_time: ''
   uid: 1CA50416-AB32-4740-8ABF-A83DDA1BCE26
-- categories: []
+- categories:
+  - Low Carb
   cook_time: ''
   created: '2019-09-17 16:08:14'
   description: ''
   difficulty: ''
   directions:
-  - 1. Preheat oven to 425 degrees F.
-  - 2. Add meat, eggs into mixing bowl. Add finely chopped scallions, garlic and onions.
+  - Preheat oven to 425 degrees F.
+  - Add meat, eggs into mixing bowl. Add finely chopped scallions, garlic and onions.
     Mix it up together.
-  - 3. Add cayenne, oregano, salt, pepper and mix up again.
-  - 4. Throw down some plastic wrap on the counter and then roll out your meat on
-    top of it. Try to flatten it out and create a rectangle and then add the spinach
-    and goat cheese to the middle.
-  - 5. Folder over and put into pan
-  - 6. Top with tomato paste and chopped rosemary
+  - Add cayenne, oregano, salt, pepper and mix up again.
+  - Throw down some plastic wrap on the counter and then roll out your meat on top
+    of it. Try to flatten it out and create a rectangle and then add the spinach and
+    goat cheese to the middle.
+  - Folder over and put into pan
+  - Top with tomato paste and chopped rosemary
   image_url: null
   in_trash: false
   ingredients:
@@ -417,25 +419,27 @@
   - 6 scallions
   - 1 yellow onion
   - 6 cloves garlic
-  - 4oz mushrooms
-  - 1/2 t cayenne pepper
-  - 2 t oregano
-  - 2 t salt
-  - 1 t pepper
+  - 8 oz mushrooms
+  - 1 tsp cayenne pepper
+  - 1 tbsp oregano
+  - 1 tbsp course salt
+  - 1 tbsp pepper
   - 8oz goat cheese
-  - 2 lg handful raw spinach
-  - 6oz tomato paste
+  - 4 oz raw spinach
+  - 12 oz tomato paste
   - 4 t rosemary
   is_pinned: false
-  name: MLBJ Meatloaf
-  notes: Split into 2 loafs to thin out the meat?
+  name: Meatloaf - Stuffed with Goat Cheese
+  notes: 'double the width of the meat loaf and fold width wise
+
+    '
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
   prep_time: ''
   rating: 0
   scale: null
-  servings: '4'
+  servings: '8'
   source: ''
   source_url: ''
   total_time: ''
@@ -1180,19 +1184,11 @@
   - 24 fresh basil leaves (divided)
   is_pinned: false
   name: Sun-Dried Tomato and Basil Pinwheels
-  notes: '*To prepare frozen spinach, thaw completely and transfer to a clean, thin
-    towel. Hold over the sink and squeeze firmly to drain out all water. Use as instructed.
-
-
-    *Inspired by, loosely adapted from Spoon, Fork, Bacon.
-
-
-    *Nutrition information is a rough estimate.
+  notes: '
 
 
     Careful not to use more dried tomatoes'
-  nutritional_info: 'Calories: 48 Fat: 4g Saturated fat: 1.8g Sodium: 61mg Carbohydrates:
-    2.3g Protein: 1g'
+  nutritional_info: ''
   on_favorites: true
   on_grocery_list: false
   prep_time: 15 minutes
@@ -1291,32 +1287,32 @@
   description: ''
   difficulty: Easy
   directions:
-  - '1. Add sliced steak to a large greased skillet and saute over medium heat 2-3
-    minutes til just browned - '
-  - 2. Saute onions
-  - 3. Saute peppers
-  - 4. In a medium bowl whisk together water, sugar, ketchup, vinegar, red pepper
-    flakes, and garlic. Add to pan with the steak and peppers and stir to coat. Cover
-    and bring to a boil.
-  - 5. In a small bowl stir together cold water and corn starch til dissolved. Add
-    to pan and stir until thickened. Serve over cooked rice.
-  image_url: /images/recipes/505FBD95-15B2-41FA-90B4-FD670AE1B265-18447-000330ECB446297B.jpg
+  - Add sliced steak to a large greased skillet and brown over medium heat 2-3 minutes
+  - "Saut\xE9 onions"
+  - "Saut\xE9 peppers"
+  - In a medium bowl whisk together water, sugar, ketchup, vinegar, red pepper flakes,
+    and garlic. Add to pan with the steak and peppers and stir to coat. Cover and
+    bring to a boil.
+  - 'In a small bowl stir together cold water and corn starch till dissolved. '
+  - 'Add to pan and stir until thickened. '
+  - Serve over cooked rice.
+  image_url: /images/recipes/6C8891FA-1669-40AC-B103-04A7A26D5114-74711-00007A26C7343F30.jpg
   in_trash: false
   ingredients:
-  - '* 3 pounds flank steak or skirt steak, sliced into trips (half inch, by inch)'
-  - '* 2 red pepper thinly sliced'
-  - '* 2 green pepper thinly sliced'
-  - '* 1 onion, sliced'
-  - '* 2/3 cup water'
-  - '* 2/3 cup sugar'
-  - '* 3/4 cup ketchup'
-  - '* 8 tablespoons rice vinegar (or white vinegar)'
-  - '* 1 teaspoon red pepper flakes (more if you want spicier)'
-  - '* 8 cloves minced garlic'
-  - '* 4 tablespoons cold water + 2 tablespoon corn starch'
-  - '* 3 cups dry rice cooked, for serving'
+  - 3 lbs flank steak or skirt steak, sliced into trips (half inch, by inch)
+  - 2 red pepper thinly sliced
+  - 2 green pepper thinly sliced
+  - 1 onion, sliced
+  - 2/3 cup water
+  - 2/3 cup sugar
+  - 3/4 cup ketchup
+  - 8 tbsp rice vinegar (or white vinegar)
+  - 2 tsp red pepper flakes
+  - 8 cloves minced garlic
+  - 4 tbsp cold water + 2 tablespoon corn starch
+  - 3 cups dry rice cooked, for serving
   is_pinned: false
-  name: 20 Minute Beijing Beef
+  name: Quick Beijing Beef
   notes: ''
   nutritional_info: ''
   on_favorites: false
@@ -1324,10 +1320,10 @@
   prep_time: ''
   rating: 4
   scale: null
-  servings: ''
+  servings: '6'
   source: ''
   source_url: ''
-  total_time: '30'
+  total_time: '1'
   uid: 40E3BA9E-D605-462A-B793-FDAD4973AF05-18447-000330E256ECECB3
 - categories:
   - Vegan
@@ -1647,7 +1643,29 @@
   notes: 'Chicken: For the grilled chicken, I drizzled 3 large chicken boneless skinless
     breasts with olive oil and seasoned with salt and pepper before grilling. This
     was about 5-6 cups of cubed chicken. You can also use store-bought rotisserie
-    chicken or just any leftover cooked chicken you have.'
+    chicken or just any leftover cooked chicken you have.''
+
+
+    Used
+
+
+    12oz of corn
+
+    1 can of black beans
+
+    1 large red onion
+
+    1 avocado
+
+    ...dice a tomatoe don''t use canned
+
+    full bunch of cilantro
+
+    1 jalepeno
+
+    1/2 of a packet of taco seasoning
+
+    '
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
@@ -1810,6 +1828,68 @@
   source_url: https://whatmollymade.com/healthy-instant-pot-mongolian-beef/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
   total_time: ''
   uid: 590D833F-B103-4801-BA22-79A26076F4E6
+- categories: []
+  cook_time: 6 hrs
+  created: '2020-01-30 17:15:55'
+  description: ''
+  difficulty: ''
+  directions:
+  - 'INSTANT POT: Heat the instant pot on the saute setting. Add in the ground beef
+    and onion. Brown in the instant pot and then turn off. Add in all of the other
+    ingredients except for the toppings: the chili powder, garlic powder, onion powder,
+    dried oregano, cumin, paprika, (red pepper flakes if desired), ranch seasoning
+    mix, minced garlic, undrained chili beans, undrained corn, undrained tomatoes,
+    undrained green chiles, and drained + rinsed black beans. Add salt and pepper
+    to taste (I like about 1/2 teaspoon of each)'
+  - Give everything a really good stir and then place on the lid. Select soup and
+    change to 10 minutes. Allow to cook for 10 minutes and then let the pressure release
+    naturally for 5 minutes. Then release any remaining pressure. Give it another
+    good stir and taste for additional salt/pepper.
+  - When it's finished top individual bowls with a generous handful of cheddar cheese,
+    a big scoop of sour cream and mix that in. Add fresh lime, fresh cilantro or green
+    onions, and/or avocado to individual bowls as desired. Add a handful of tortilla
+    strips if desired.
+  - 'CROCKPOT: Cook the ground beef and onion in a skillet over medium heat until
+    browned. Drain off any grease and place in the crockpot. Add all the other ingredients.
+    Stir it all together and cover. Cook on high for 3-4 hours or on low for 6-8 hours.'
+  - 'STOVETOP: Cook the ground beef and onion in a skillet over medium heat until
+    browned. Drain off any grease. Add in all of the other ingredients. Stir and allow
+    to simmer over low heat for 30 minutes.'
+  image_url: https://www.chelseasmessyapron.com/wp-content/themes/ChelseaTheme/images/Apron.png
+  in_trash: false
+  ingredients:
+  - 1 pound ground beef, extra lean
+  - 1 cup yellow onion, diced
+  - 1 tablespoon chili powder
+  - 1/4 teaspoon EACH garlic powder, onion powder, dried oregano
+  - 1 and 1/2 teaspoon ground cumin
+  - 1/2 teaspoon paprika
+  - 'Optional: 1/4-1/2 teaspoon red pepper flakes'
+  - 3 tablespoons ranch seasoning mix, dry
+  - 2 teaspoons minced garlic
+  - 2 cans (15.5 ounces EACH) chili beans (kidney beans in chili sauce), undrained
+  - 1 can (15 ounces) southwestern corn (poblano and red pepper is mixed in), undrained
+  - 1 can (14.5 ounces) fire roasted (with seasoning) diced tomatoes, undrained
+  - 1 can (10.5 ounces) diced tomatoes with green chiles (such as Ro*Tel), undrained
+  - 1 can (4 ounces) fire-roasted diced green chiles, undrained
+  - 1 can (15 ounces) black beans, drained and rinsed
+  - Salt and pepper, to taste
+  - 'Toppings: sour cream, freshly shredded cheddar cheese, avocado, lime, tortilla
+    strips (I find them by salad dressings)'
+  is_pinned: false
+  name: Taco Chili (Instant Pot, Crockpot, or Stovetop)
+  notes: ''
+  nutritional_info: 'Calories: 355 kcal'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 15 mins
+  rating: 0
+  scale: null
+  servings: 'Servings: 8 servings'
+  source: Chelseasmessyapron.com
+  source_url: https://www.chelseasmessyapron.com/taco-chili-instant-pot-crockpot/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
+  total_time: ''
+  uid: 60EA3FEE-13A9-4BCA-94D5-F6BD5591004B
 - categories:
   - Pork
   cook_time: ''
@@ -1917,7 +1997,7 @@
   - I also prepare this dressing as part of my Summer Meal Prep series. Make sure
     to watch that video more for delicious recipes ideas.
   image_url: https://downshiftology.com/wp-content/uploads/2018/08/Greek-Salad-Dressing-3.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 1/3 cup red wine vinegar
   - 1 lemon, juiced
@@ -2295,6 +2375,70 @@
   source_url: https://www.simplyrecipes.com/recipes/stuffed_pork_chops_with_kielbasa_and_sauerkraut/
   total_time: ''
   uid: 83E03A75-CED4-4969-987F-6B9F3557EF58
+- categories: []
+  cook_time: ''
+  created: '2020-01-21 01:16:44'
+  description: ''
+  difficulty: ''
+  directions: ''
+  image_url: https://lh3.googleusercontent.com/OFjgEeYVlHgdmB3QArPgdFAUfBjvL5frGJOINCWhMyCVbSss2pipzidokJlpxOSE2cJwyGCh_rUCTSpyxG9dKqs=w1500-h1500-c-rj-v1-e365
+  in_trash: true
+  ingredients:
+  - 1 pound spaghetti
+  - 3 tablespoons unsalted butter (divided)
+  - 1 tablespoon olive oil
+  - 1 pound cremini mushrooms (cleaned, caps removed, and sliced)
+  - kosher salt
+  - freshly ground black pepper
+  - 6 cloves garlic
+  - 1/2 cup pecorino romano cheese (grated, plus more for serving)
+  - 2 tablespoons parsley leaves (coarsely chopped fresh flat-leaf)
+  is_pinned: false
+  name: Mushroom and Garlic Spaghetti Dinner
+  notes: ''
+  nutritional_info: 'Calories 540 Calories from Fat 160
+
+    % DAILY VALUE
+
+    Total Fat 18g 28%
+
+    Saturated Fat 9g 45%
+
+    Trans Fat
+
+    Cholesterol 40mg 13%
+
+    Sodium 440mg 18%
+
+    Potassium 650mg 19%
+
+    Protein 22g 43%
+
+    Calories from Fat 160
+
+    Total Carbohydrate 74g 25%
+
+    Dietary Fiber 4g 16%
+
+    Sugars 5g 10%
+
+    Vitamin A 10%
+
+    Vitamin C 6%
+
+    Calcium 30%
+
+    Iron 15%'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: Servings:5
+  source: Yummly.com
+  source_url: https://www.yummly.com/recipe/Mushroom-and-Garlic-Spaghetti-Dinner-2287198?utm_medium=email&utm_campaign=popular-searches-email_2020-01-18&personalizedFor=9c14aaf0-2693-4002-b362-75913dd44566&utm_content=dinner
+  total_time: 30 min
+  uid: 853CC31E-E6AD-4C38-A77A-156F885DFF05
 - categories: []
   cook_time: ''
   created: '2019-08-13 14:36:47'
@@ -2897,12 +3041,11 @@
   image_url: /images/recipes/E711D0F5-EDFA-4E16-AFED-FE62D42D6830-682-000314BAAEEE7949.jpg
   in_trash: false
   ingredients:
-  - 1 (14-ounce) can refried beans
-  - 1 recipe guacamole
+  - 14 oz can refried beans
   - 1 cup halved cherry tomatoes
   - "\xBD bunch scallions, diced"
   - "\xBD cup cilantro, chopped"
-  - "1 jalape\xF1o, thinly sliced or diced, optional"
+  - "1 jalape\xF1o, thinly sliced or diced"
   - Tortilla Chips
   - Cashew Cream
   - 1 cup raw cashews
@@ -2927,7 +3070,7 @@
   - 6 cloves of Garlic
   - Salt to taste I used 1/2 tbsp of course ground salt
   is_pinned: false
-  name: Vegan Seven Layer Bean Dip
+  name: Vegan Layer Bean Dip
   notes: ''
   nutritional_info: ''
   on_favorites: false
@@ -3117,6 +3260,91 @@
   source_url: ''
   total_time: ''
   uid: B61BD99E-6EBE-45FE-8E4E-E8BB12084FFB-12081-00041F1623B03574
+- categories: []
+  cook_time: ''
+  created: '2020-01-21 01:17:27'
+  description: ''
+  difficulty: ''
+  directions:
+  - Bring a large pot of salted water to a boil. Add the pasta and cook until al dente,
+    7 to 9 minutes or according to package instructions. Meanwhile, cook the mushrooms.
+  - "Heat 1 tablespoon of the butter and the oil in a large skillet over medium heat\
+    \ until shimmering. Add the mushrooms, season with salt and pepper, and saut\xE9\
+    \ until browned and tender, about 5 minutes. Add the garlic, red pepper flakes\
+    \ if using, and remaining 2 tablespoons butter and saut\xE9 for 1 minute more."
+  - When the pasta is ready, reserve 3/4 cup of the cooking water, then drain the
+    pasta. Add the pasta, reserved cooking water, and cheese to the skillet. Toss
+    over medium heat until the cheese is melted and the sauce thickens and coats the
+    pasta, about 2 minutes. Add the parsley and toss to combine. Serve in shallow
+    bowls with more cheese for serving.
+  image_url: https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2017%2F09%2F8bb9554ca41aadb3995d0adbd907f11c62994b99.jpeg
+  in_trash: false
+  ingredients:
+  - 1 pound dried spaghetti
+  - 3 tablespoons unsalted butter, divided
+  - 1 tablespoon olive oil
+  - 1 pound cremini mushrooms, sliced
+  - Kosher salt
+  - Freshly ground black pepper
+  - 6 cloves garlic, minced
+  - 1/4 teaspoon red pepper flakes (optional)
+  - 1/2 cup grated Pecorino Romano cheese, plus more for serving
+  - 2 tablespoons coarsely chopped fresh parsley leaves
+  is_pinned: false
+  name: Mushroom and Garlic Spaghetti Dinner
+  notes: 'Storage: Leftovers can be refrigerated in an airtight container for up to
+    4 days.'
+  nutritional_info: 'shellfish-free
+
+    fish-free
+
+    alcohol-free
+
+    vegetarian
+
+    peanut-free
+
+    pork-free
+
+    pescatarian
+
+    balanced
+
+    sugar-conscious
+
+    tree-nut-free
+
+    soy-free
+
+    egg-free
+
+    red-meat-free
+
+    Calories 417
+
+    Fat 12.2 g (18.8%)
+
+    Saturated 6.1 g (30.4%)
+
+    Carbs 61.5 g (20.5%)
+
+    Fiber 3.1 g (12.4%)
+
+    Sugars 3.4 g
+
+    Protein 15.6 g (31.2%)
+
+    Sodium 168.9 mg (7.0%)'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 4 to 6
+  source: Thekitchn.com
+  source_url: https://www.thekitchn.com/recipe-mushroom-and-garlic-spaghetti-dinner-243627?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
+  total_time: ''
+  uid: B64B777F-DADE-4845-A3EC-71D96BFF1189
 - categories: []
   cook_time: 1 hr 10 min
   created: '2019-09-03 18:29:21'
@@ -3765,50 +3993,48 @@
   total_time: ''
   uid: DE81546D-0D0B-4352-A9C0-BD2A34BF3C36-83577-00005EF6EFF7E6A7
 - categories: []
-  cook_time: 4 hrs
+  cook_time: 1 hour
   created: '2019-07-11 22:13:05'
   description: ''
   difficulty: Easy
   directions:
-  - 'Combine all ingredients for the chili in the bowl of a slow-cooker and give it
-    a stir to combine. Cook until the beans are tender and chicken falls apart easily,
-    3-4 hours on high or 7-8 hours on low. (Note: dried beans can vary in cook time
-    depending on how long they''ve been stored, so plan for the higher end of the
-    cook time range if you think yours might have sat on the shelf for a bit.)'
-  - Shred the chicken with a fork, allowing some large pieces to remain. Season with
-    salt and pepper. (If you want a creamier chili, you can stir in 1/3 cup sour cream
-    or plain yogurt.)
-  - Ladle soup in to bowls and serve with any (or all!) the toppings you like.
+  - Pour enough chicken broth to coat the bottom of the pressure cooker.
+  - Add chicken breasts and a generous amount of salt and pressure cook for 30 minutes.
+  - Shred the chicken with a fork and return to cooker.
+  - Add beans, salsa, garlic, cumin, chili powder, and chicken broth and cook for
+    20 minutes.
+  - Add in greek yogurt and chopped cilantro(cut off the stem and use the remainder
+    to taste).
+  - Top with any optional ingredients and serve.
   image_url: https://inquiringchef.com/wp-content/uploads/2015/10/White-Chicken-Chili-Slow-Cooker-2.jpg
   in_trash: false
   ingredients:
   - 'For the Chili:'
-  - 2 lb Dried White Beans (like cannellini)
+  - 2 lb Dried White Beans
   - 3 lb Chicken Breasts
-  - 24 oz jarred Salsa Verde
+  - 32 oz jarred Salsa Verde
   - 1 Yellow Onion, chopped
   - 9 cloves Garlic, chopped
   - 1 tbsp Ground Cumin
   - 1 tbsp Chili Powder
-  - 8 cups Chicken Stock
+  - 6 cups Chicken Stock
+  - 2 cups plain non-fat greek yogurt
+  - 1 bunch of Cilantro
+  - 1 lime
   - 'For Serving (optional):'
-  - Fresh Lime Juice
   - Sharp Cheddar Cheese, shredded
   - Avocado, cubed
-  - Cilantro, chopped
-  - Greek Yogurt
   - Tortilla Chips
   is_pinned: false
-  name: Slow-Cooker White Chicken Chili
+  name: White Chicken Chili - Pressure Cooker
   notes: ''
-  nutritional_info: 'Serving: 1g | Calories: 401kcal | Carbohydrates: 52g | Protein:
-    52g | Fat: 3g | Cholesterol: 80mg | Sodium: 1217mg | Fiber: 16g | Sugar: 5g'
+  nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
-  prep_time: 5 mins
+  prep_time: 10 minutes
   rating: 4
   scale: null
-  servings: '8'
+  servings: '16'
   source: Inquiringchef.com
   source_url: https://inquiringchef.com/slow-cooker-white-chicken-chili/
   total_time: ''
