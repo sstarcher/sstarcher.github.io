@@ -30,7 +30,7 @@
     - Created a robust, resilient and distributed scheduler with a locking, tasks, and alerting.
     - Major overhaul from static logging to logging backed by ElasticSearch ELK stack.
     - Created extensive monitoring and failure detection suite for early warning of system failures using Sensu.
-    - Led training sessions on technologies such as Kubenretes, Kibana, Grafana, ElasticSearch, InfluxDB.
+    - Led training sessions on technologies such as Kubernetes, Kibana, Grafana, ElasticSearch, InfluxDB.
 
 
 - org:  Booz Allen Hamilton
