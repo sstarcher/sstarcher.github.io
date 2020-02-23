@@ -5,7 +5,7 @@
   bullets:
     - Designed and implemented the move from EC2 instances for all services to a container orchestrated system.  This migration allowed us to better utilized EC2 resources reducing our EC2 spend by 50% with a cost savings of over $500,000 a year.
     - Reviewed and redesigned the terraform structure to use a modular approach that could be versioned and automated.
-    - Assessed the networking in AWS, and implemented changes to restructure the network in order to move instances into private subnets.
+    - Assessed the networking in AWS, and implemented changes to restructure the network to move instances into private subnets.
     - Migrated to a three AWS account layout to give developers more access and to improve security for Protected Health Information.
     - Brought the remaining AWS infrastructure and Github repositories under control of terraform.
     - Documented best practices for developers around Docker and Kubernetes.  Gave introductory training to help transition them.
@@ -15,7 +15,7 @@
   location: Remote
   when: Dec 2016 - Nov 2017
   bullets:
-    - Creation of a service to manage 100’s of Kubernetes cluster and create new cluster on demand.
+    - Creation of a service to manage 100’s of Kubernetes clusters and create new clusters on demand.
     - Implemented continued deployment on Kubernetes with Gitlab and Helm to version and test artifacts, with promotion on tagging.
     - Created a CLI to allow for helm charts to be installed in a single command in parallel along with support for automatic updates.
     - Led infrastructure level monitoring and metrics to ensure alerting and debugging capabilities on system faults.

@@ -2,11 +2,12 @@
     primary:
       - Python(Flask, Django)
       - Golang
-      - Java(J2EE, Spring, Camel, Maven, Gradle, JBoss, Tomcat)"
+      - Java(J2EE, Spring, Camel, Maven, Gradle, JBoss, Tomcat)
       - Bash
       - Javascript
 - Configuration Management:
     primary:
+      - Salt
       - Puppet
       - Chef
 - DevOps:
