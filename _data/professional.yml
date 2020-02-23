@@ -27,7 +27,7 @@
   when: May 2014 - Dec 2016
   bullets:
     - Created and implemented a strategy to move to Kubernetes from static EC2 infrastructure.
-    - Created a robust, resilient and distributed scheduler with a locking, tasks, and alerting.
+    - Created a robust, resilient and distributed scheduler with locks, tasks, and alerts.
     - Major overhaul from static logging to logging backed by ElasticSearch ELK stack.
     - Created extensive monitoring and failure detection suite for early warning of system failures using Sensu.
     - Led training sessions on technologies such as Kubernetes, Kibana, Grafana, ElasticSearch, InfluxDB.
