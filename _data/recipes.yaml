@@ -549,40 +549,42 @@
   description: ''
   difficulty: ''
   directions:
-  - 1. Season chicken breasts on both sides with about 2 teaspoons of Cajun seasoning.
+  - Season chicken breasts on both sides with about 2 teaspoons of Cajun seasoning.
     Drizzle a large pan or skillet (one that has a lid) with oil and cook chicken
     breasts for about 1 minute on each side over medium-high heat, just long enough
     to brown each side of the chicken. Transfer to a plate.
-  - 2. Saute the onions in oil until translucent.  Add the mushrooms until they shrink
+  - Saute the onions in oil until translucent.  Add the mushrooms until they shrink
     down.
-  - 3. Reduce heat to medium-low and add rice, peppers, chicken broth, and remaining
+  - Reduce heat to medium-low and add rice, peppers, chicken broth, and remaining
     2-3 teaspoons Cajun seasoning and stir to combine.
-  - 4. Place chicken on top of the rice, cover, and simmer for 20-25 minutes until
-    liquid is absorbed and chicken is cooked through. Sprinkle with cilantro and serve.
+  - Place chicken on top of the rice, cover, and simmer for 20-25 minutes until liquid
+    is absorbed and chicken is cooked through. Sprinkle with cilantro and serve.
   image_url: /images/recipes/14BFD84E-F3C4-42B5-9E43-D85D1494047C-6651-0000D9D0ABA55F9F.jpg
   in_trash: false
   ingredients:
-  - Ingredients
-  - '* 4 boneless skinless chicken breasts pounded to even thickness'
-  - '* 2 cup rice (uncooked)'
-  - '* 36oz chicken broth'
-  - '* 3 whole bell pepper'
-  - '* 1 package of mushrooms'
-  - '* 2 red onions'
-  - '* roughly chopped cilantro'
-  - '* 4-5 teaspoons cajun seasoning, divided'
+  - 4 boneless skinless chicken breasts pounded to even thickness
+  - 2 cup rice (uncooked)
+  - 36oz chicken broth
+  - 3 whole bell pepper
+  - 1 package of mushrooms
+  - 2 red onions
+  - roughly chopped cilantro
+  - 4-5 teaspoons cajun seasoning, divided
   - Cajun seasoning
-  - '* 2 teaspoon salt'
-  - '* 2 teaspoon garlic powder'
-  - '* 3 teaspoon paprika'
-  - '* 1 teaspoon pepper'
-  - '* 1 teaspoon onion powder'
-  - '* 1 teaspoon cayenne pepper'
-  - '* 1 teaspoon oregano'
-  - '* 1/2 teaspoon red pepper flakes'
+  - 2 teaspoon salt
+  - 2 teaspoon garlic powder
+  - 3 teaspoon paprika
+  - 1 teaspoon pepper
+  - 1 teaspoon onion powder
+  - 1 teaspoon cayenne pepper
+  - 1 teaspoon oregano
+  - 1/2 teaspoon red pepper flakes
   is_pinned: false
   name: Spicy Cajun Chicken & Rice
-  notes: ''
+  notes: '4lbs of chicken was to much... this should likely be reduced to 2 lbs seasoning
+    is correct for 2lbs
+
+    stop dicing up the chicken leave the breast whole'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
@@ -691,6 +693,41 @@
   source_url: https://www.fooduzzi.com/2016/01/healthy-buffalo-chickpea-dip/
   total_time: ''
   uid: 26E94632-A1F2-4B31-9C11-5B271E3307ED
+- categories:
+  - Sides
+  cook_time: ''
+  created: '2020-05-01 12:42:44'
+  description: ''
+  difficulty: ''
+  directions:
+  - Combine non-vegetable ingredients Vinegar, Oil, Sugar
+  - Combine remaining and let sit for 8 hours refrigerated
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 1/2 cup Vinegar
+  - 1/2 cup Oil
+  - 1/3 cup Sugar
+  - 1 tsp Salt
+  - 1 can Cut Green Beans
+  - 1 can Wax Beans
+  - 1 can Kidney Beans
+  - 1 small Green Pepper
+  - 1 small Yellow Onion
+  is_pinned: false
+  name: Three Bean Salad
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: null
+  prep_time: ''
+  rating: 4
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 2853CA1E-6335-44C6-81BB-B6BEF04A77A8-5107-000266589BDD226D
 - categories: []
   cook_time: 40 mins
   created: '2019-06-30 17:43:31'
@@ -825,7 +862,9 @@
   - 3 packages taco seasoning
   is_pinned: false
   name: Taco Salad
-  notes: ''
+  notes: 'Used  two 32oz bags of lettuce
+
+    Consider using a different recipe combo'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
@@ -1099,6 +1138,62 @@
   total_time: ''
   uid: 3076E6B0-6DD2-48AA-AA37-769BFA76E6D0
 - categories: []
+  cook_time: ''
+  created: '2020-03-17 18:12:14'
+  description: ''
+  difficulty: ''
+  directions:
+  - "In a large saut\xE9 pan over medium heat, warm canola oil."
+  - "Add the onion and saut\xE9 a few minutes until translucent, stirring constantly. "
+  - Add garlic and green chiles, stirring to mix with the onion. Increase the heat
+    to medium-high and add ground meat, salt and pepper.
+  - Break up crumbled meat, and stir occasionally to make sure all the meat is cooked,
+    approximately 3 to 5 minutes.
+  - Lower the heat to medium-low, add pureed tomatoes, barbecue sauce, ketchup, mustard,
+    brown sugar and cayenne powder. Stir to combine sauce with the meat, and let simmer
+    until the sauce has reduced and thickened, about 10 to 12 minutes.
+  - "Meanwhile, make the slaw: Using a box grater set over a medium bowl, grate carrots,\
+    \ jalape\xF1os and onion. Add salt to taste, and combine with enough sour cream\
+    \ to hold the slaw together."
+  - Heap sloppy-joe mixture on top of the hamburger bun bottoms. Garnish sloppy joes
+    with slaw, add the bun top, and serve.
+  image_url: https://www.seriouseats.com/recipes/images/20100420sloppyjoeLARGE.jpg
+  in_trash: false
+  ingredients:
+  - 1 teaspoon canola oil
+  - 1 medium onion, finely chopped
+  - 3 cloves garlic, minced
+  - 1 (4-ounce) can chopped green chiles
+  - 1 pound lean ground beef
+  - Salt and freshly ground pepper
+  - "1 cup canned pur\xE9ed tomatoes"
+  - 3/4 cup barbecue sauce
+  - 1/2 cup ketchup
+  - 1 tablespoon mustard
+  - 1 to 2 tablespoons brown sugar
+  - 1/2 teaspoon cayenne powder
+  - 6 to 8 toasted hamburger buns, to serve
+  - 'For the slaw:'
+  - 3 carrots
+  - "2 jalape\xF1os"
+  - 1/4 small red onion
+  - Salt
+  - 1/4 cup to 1/2 cup sour cream
+  is_pinned: false
+  name: "Sloppy Joes with Carrot-Jalape\xF1o Slaw"
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: '6'
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2010/04/sloppy-joes-with-barbecue-sauce-carrot-jalapeno-slaw-recipe.html
+  total_time: ''
+  uid: 31DF4432-A725-4119-9AE9-4DFB1CBDAE44
+- categories: []
   cook_time: 15 minutes
   created: '2019-12-17 18:20:46'
   description: ''
@@ -1248,7 +1343,7 @@
     or plain yogurt.)
   - Ladle soup in to bowls and serve with any (or all!) the toppings you like.
   image_url: https://inquiringchef.com/wp-content/uploads/2015/10/White-Chicken-Chili-Slow-Cooker-2.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 'For the Chili:'
   - 1 lb Dried White Beans (like cannellini)
@@ -1602,6 +1697,63 @@
   total_time: ''
   uid: 4E9D98A5-08FD-4198-8ABB-C0B810619F9A-54951-0000F0F870E19635
 - categories: []
+  cook_time: 4 hours
+  created: '2020-02-23 17:33:38'
+  description: ''
+  difficulty: ''
+  directions:
+  - Rinse ribs and dry COMPLETELY with paper towels.
+  - Douse dry ribs with liquid smoke if using and rub it in.
+  - Lightly coat ribs in olive oil.
+  - Mix together seasoning and sprinkle generously over ribs, front and back. (You
+    don't have to use all of seasoning mix)
+  - Massage the spices into the ribs, adding more olive oil to help distribute the
+    spices well if needed.
+  - Place the ribs in a large ziplock bag or covered bowl and marinate in the fridge
+    for 1-2 hours.
+  - Preheat the oven to 250 F.
+  - Place the ribs on a foil lined baking tray in a single layer.
+  - Add another piece of foil on top to create a pouch for the ribs to cook in. Be
+    sure to seal the edges of the foil so that it's tight and steam won't seep out.
+  - Bake on the middle rack of 3 1/2 -4 hours. (Mine only needed 3 1/2 hours) Check
+    on it after the 3 1/2 hour mark. The oven temperature is very low so you can afford
+    to cook it a bit longer without worry)
+  - When the ribs are done to your liking, drain off the excess fat.
+  - Brush the ribs with desired amount of BBQ sauce.
+  - Broil on low until the sauce is sticky. (this won't take long so keep an eye on
+    it)
+  - Serve hot and enjoy!!
+  image_url: https://divascancook.com/wp-content/uploads/2014/09/IMG_8296.jpg
+  in_trash: false
+  ingredients:
+  - 3 lbs meaty beef ribs (grass-fed)
+  - Liquid smoke optional
+  - 2-4 tablespoons olive oil
+  - 1 tablespoon garlic powder
+  - 1 tablespoon onion powder
+  - 1 tablespoon cajun seasoning
+  - 2 tablespoons dark brown sugar packed
+  - 1 teaspoon chili powder
+  - "1 teaspoon salt can use smoked salt as well. (I used 1 \xBD teaspoons because\
+    \ we kinda like our ribs a tad salty)"
+  - 1 teaspoon paprika
+  - 2 teaspoons oregano
+  - Favorite BBQ Sauce I only used a few tablespoons of Sweet Baby Ray's
+  is_pinned: false
+  name: Oven Baked Bbq Beef Ribs
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 10 minutes
+  rating: 0
+  scale: null
+  servings: Servings 4
+  source: Divascancook.com
+  source_url: https://divascancook.com/easy-oven-baked-beef-ribs-recipe-bbq/
+  total_time: ''
+  uid: 4EE2DD4C-2966-4EF4-A49C-C0273F77DE9C
+- categories: []
   cook_time: 0 minutes
   created: '2019-06-30 18:22:07'
   description: ''
@@ -1855,7 +2007,7 @@
   - 'STOVETOP: Cook the ground beef and onion in a skillet over medium heat until
     browned. Drain off any grease. Add in all of the other ingredients. Stir and allow
     to simmer over low heat for 30 minutes.'
-  image_url: https://www.chelseasmessyapron.com/wp-content/themes/ChelseaTheme/images/Apron.png
+  image_url: null
   in_trash: false
   ingredients:
   - 1 pound ground beef, extra lean
@@ -2488,6 +2640,52 @@
   source_url: ''
   total_time: ''
   uid: 8BFB87F4-49DF-40D3-9021-DFE413155E08-60977-0001D964CE626B8E
+- categories: []
+  cook_time: ''
+  created: '2020-04-30 15:05:56'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Bring a large pot of water to a boil. Toss in about 3 tablespoons of salt.
+  - 2. Meanwhile, pour 1 tablespoon of the oil into a large skillet over medium heat.
+    Add the garlic and onions. Cook for 5 minutes, stirring occasionally, or until
+    the onions are translucent. Remove the vegetables from the skillet and set aside.
+  - 3. Pour another tablespoon of olive oil to the now empty skillet, turn the heat
+    to high, and then add the mushrooms. Season with salt. Cook for 10 to 12 minutes.
+  - 4. Pour the sherry in to deglaze the skillet. Scrap the bottom with a wooden spoon,
+    dislodging any browned bits. Cook for 2 minutes. Toss in the parsley, reduce the
+    heat to medium-low.
+  - 5. While the mushrooms are cooking, start the pasta. Cook according to package
+    instructions, subtracting about a minute off the finished time. When ready, scoop
+    out about a quarter cup of the pasta water and set aside. Drain the pasta and
+    then immediately toss with the mushroom sauce. Add the water if it needs to be
+    more substantial. Sprinkle with Parmesan.
+  image_url: https://www.seriouseats.com/recipes/images/20080416-pastaz.jpg
+  in_trash: false
+  ingredients:
+  - 4 tablespoons olive oil
+  - 1 clove garlic, minced
+  - 1/2 medium onion, finely chopped
+  - 1 pound of assorted mushrooms (chanterelles, porcini, etc.), cut into large pieces
+  - 2 tablespoons fino sherry
+  - 1 tablespoon parsley, chopped
+  - 1/2 pound tube-shaped pasta (such as rigatoncini or penne)
+  - 1 1/2 ounces Parmigiano-reggiano, freshly grated
+  - Salt and pepper
+  is_pinned: false
+  name: 'Dinner Tonight: Tube-Shaped Pasta with Wild Mushrooms'
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2008/04/dinner-tonight-tubeshaped-pasta-with-wild-mus.html
+  total_time: ''
+  uid: 8D853E5B-64A5-4BC8-85C9-DD13B5845D19
 - categories: []
   cook_time: 8 hours 30 minutes
   created: '2019-12-09 18:54:20'
@@ -3283,7 +3481,7 @@
   - 1 pound dried spaghetti
   - 3 tablespoons unsalted butter, divided
   - 1 tablespoon olive oil
-  - 1 pound cremini mushrooms, sliced
+  - 1 pound crimini mushrooms, sliced
   - Kosher salt
   - Freshly ground black pepper
   - 6 cloves garlic, minced
@@ -3292,55 +3490,18 @@
   - 2 tablespoons coarsely chopped fresh parsley leaves
   is_pinned: false
   name: Mushroom and Garlic Spaghetti Dinner
-  notes: 'Storage: Leftovers can be refrigerated in an airtight container for up to
-    4 days.'
-  nutritional_info: 'shellfish-free
+  notes: 'consider more mushrooms
 
-    fish-free
+    Also split the mushrooms up into batches so they don''t steam
 
-    alcohol-free
-
-    vegetarian
-
-    peanut-free
-
-    pork-free
-
-    pescatarian
-
-    balanced
-
-    sugar-conscious
-
-    tree-nut-free
-
-    soy-free
-
-    egg-free
-
-    red-meat-free
-
-    Calories 417
-
-    Fat 12.2 g (18.8%)
-
-    Saturated 6.1 g (30.4%)
-
-    Carbs 61.5 g (20.5%)
-
-    Fiber 3.1 g (12.4%)
-
-    Sugars 3.4 g
-
-    Protein 15.6 g (31.2%)
-
-    Sodium 168.9 mg (7.0%)'
+    might need more butter'
+  nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: ''
-  rating: 0
+  rating: 4
   scale: null
-  servings: 4 to 6
+  servings: '4'
   source: Thekitchn.com
   source_url: https://www.thekitchn.com/recipe-mushroom-and-garlic-spaghetti-dinner-243627?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
   total_time: ''
@@ -3421,18 +3582,18 @@
   description: ''
   difficulty: Easy
   directions:
-  - '* Preheat the oven to 400 degrees F. Line a baking sheet with aluminum foil.'
-  - '* Make a series of 1/8-inch slices along each potato, slicing 2/3 of the way
-    through.'
-  - '* Stir together the butter, oil, thyme, garlic, 1/4 teaspoon salt and 1/4 teaspoon
+  - 'Preheat the oven to 400 degrees F. '
+  - Make a series of 1/8-inch slices along each potato, slicing 2/3 of the way through.
+  - Stir together the butter, oil, thyme, garlic, 1/4 teaspoon salt and 1/4 teaspoon
     pepper in a small bowl. Rub the potatoes all over with the mixture, getting in
-    between the slices.'
-  - '* Place on the baking sheet and roast until the center of the potatoes are tender
-    and the outside is crisp, 1.5 hours. Halfway through the roasting time, remove
-    the potatoes from the oven and run a fork gently across the tops of the potatoes,
-    using light pressure, to fan the slices and separate them from one another.'
-  - '* Meanwhile, stir the yogurt and scallions with a pinch salt and a pinch pepper.
-    Serve the sauce with the potatoes.'
+    between the slices.
+  - 'Place on a foil lined baking sheet and roast until the center of the potatoes
+    are tender and the outside is crisp, 1.5 hours. '
+  - Halfway through the roasting time, remove the potatoes from the oven and run a
+    fork gently across the tops of the potatoes, using light pressure, to fan the
+    slices and separate them from one another.
+  - Meanwhile, stir the yogurt and scallions with a pinch salt and a pinch pepper.
+    Serve the sauce with the potatoes.
   image_url: /images/recipes/0C6881C1-1EEB-4C15-B4CE-FC57A590D706-16139-000144FEE6021043.jpg
   in_trash: false
   ingredients:
@@ -3440,22 +3601,22 @@
   - 1 tablespoon unsalted butter, melted
   - 1 teaspoon olive oil
   - 1 teaspoon finely chopped fresh thyme leaves
-  - 1 garlic clove, finely grated on a microplane
-  - Kosher salt and freshly ground black pepper
+  - 1 garlic clove, finely grated
+  - Kosher salt and freshly ground black pepper to taste
   - Herbed Sour Cream
   - 2 scallion, white and green parts chopped
   - 1/2 cup nonfat Greek-style yogurt
   - 1 teaspoon garlic powder
   - 1 tablespoon finely chopped fresh parsley leaves
-  - Kosher salt and freshly ground black pepper
+  - Kosher salt and freshly ground black pepper to taste
   is_pinned: false
   name: Hasselback Sweet Potatoes
-  notes: ''
+  notes: less parsley stems
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
   prep_time: ''
-  rating: 0
+  rating: 3
   scale: null
   servings: '4'
   source: ''
@@ -3703,36 +3864,30 @@
   description: ''
   difficulty: ''
   directions:
-  - 'In a large pot or Dutch oven with a lid, heat the olive oil over high for 1 minute,
-    then add the chicken breast halves. '
-  - '* Sprinkle each side with salt and pepper'
-  - '* Cook the chicken on one side for 8 minutes allowing a crust to form. Flip and
-    cook for an additional 5 minutes until cooked.'
-  - '* Add the diced tomatoes and water. Stir in the pasta and cook, uncovered, for
-    5 minutes. Cover and let cook an additional 10 minutes.'
-  - '* Remove the lid, stir, then add three-quarters of the feta. Stir once more,
-    then let cook uncovered for 5 additional minutes. Serve warm, sprinkled with the
-    remaining feta cheese and fresh basil.'
-  image_url: /images/recipes/C30708FE-CD3B-4ABA-A5BE-91A438130DAB-77223-0000802C48457CBF.jpg
+  - 'Halve Chicken breasts and season both sides with salt and pepper.  '
+  - With olive oil cook the chicken on one side for 8 minutes allowing a crust to
+    form. Flip and cook for an additional 5 minutes until cooked.
+  - Slice chicken and set aside.
+  - In a pot put diced tomatoes and water. Stir in the pasta and cook, uncovered over
+    medium heat, for 5 minutes. Cover and add chicken and let cook an additional 10
+    minutes.
+  - Remove the lid, stir, then add three-quarters of the feta. Stir once more, then
+    let cook uncovered for 5 additional minutes. Serve warm, sprinkled with the remaining
+    feta cheese and fresh basil.
+  image_url: /images/recipes/46E2930F-D25F-4B04-99E1-211B53315F51-38782-000287E3A231DE12.jpg
   in_trash: false
   ingredients:
-  - 2 tablespoons extra-virgin olive oil
-  - "1 1/2 pounds boneless skinless breasts, \u2014 split in half"
-  - "1 teaspoon kosher salt \u2014 divided"
-  - 1/4 teaspoon freshly ground black pepper
-  - "2 cans diced tomatoes with basil, garlic, and oregano \u2014 (14.5-ounce cans)"
+  - 2 tbsp extra-virgin olive oil
+  - 1.5 lbs boneless skinless breasts, halved
+  - 2 cans diced tomatoes with basil, garlic, and oregano
   - 2 cups water
-  - "1 pound whole wheat fettuccini pasta \u2014 or substitute another long, straight\
-    \ pasta such as spaghetti"
-  - "4 ounces reduced-fat feta cheese \u2014 divided"
-  - "Finely chopped fresh basil \u2014 optional"
+  - 1 lb fettuccini pasta
+  - 4 oz feta cheese
+  - Finely chopped fresh basil
   is_pinned: false
   name: 5 Ingredient Chicken Feta Pasta
-  notes: gaaah cook noodles for 5 mins bbefore adding any chicken etc and stir or
-    they will stick
-  nutritional_info: "Amount per serving (1 (of 5)) \u2014 Calories: 390, Fat: 11g,\
-    \ Saturated Fat: 2g, Cholesterol: 56mg, Sodium: 531mg, Carbohydrates: 56g, Fiber:\
-    \ 6g, Sugar: 6g, Protein: 19g"
+  notes: ''
+  nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: 5 mins
@@ -3751,8 +3906,7 @@
   directions:
   - Combine beans, onion, chili peppers, corn, tomato sauce, diced tomato, cumin,
     chili powder and taco seasoning in a slow cooker and mix well.
-  - Nestle the chicken in to completely cover and cook on LOW for 8 to 10 hours or
-    on HIGH for 4 to 6 hours.
+  - Nestle the chicken in to completely cover and cook on high pressure for 45 minutes.
   - Half hour before serving, remove chicken and shred.
   - Return chicken to slow cooker and stir in.
   - Top with fresh cilantro and your favorite toppings!
@@ -3764,9 +3918,8 @@
   - 1 15.5 oz can kidney beans, drained
   - 1 8 oz can tomato sauce
   - 10 oz package frozen corn kernels
-  - 2 10 oz cans diced tomatoes w/chilies
-  - 4 oz can chopped green chili peppers, chopped
-  - 1 packet reduced sodium taco seasoning or homemade, see below
+  - 2 10 oz cans diced tomatoes
+  - 7 oz can chopped green chili peppers, chopped
   - 1 tbsp cumin
   - 1 tbsp chili powder
   - 24 oz 3 boneless skinless chicken breasts
@@ -3780,15 +3933,13 @@
   - 1 teaspoon kosher salt
   - 1/2 teaspoon black pepper
   is_pinned: false
-  name: Crock Pot Chicken Taco Chili
+  name: Chicken Taco Chili - Pressure Cooker
   notes: ''
-  nutritional_info: 'Serving: 1scant cup, Calories: 220kcal, Carbohydrates: 28g, Protein:
-    21g, Fat: 3g, Cholesterol: 44mg, Sodium: 729mg, Fiber: 8.5g, Sugar: 6g Blue Smart
-    Points: 0 Green Smart Points: 5 Purple Smart Points: 0 Points +: 5'
+  nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: 5 mins
-  rating: 4
+  rating: 3
   scale: null
   servings: 'Yield: 10'
   source: Skinnytaste.com
@@ -3993,6 +4144,51 @@
   total_time: ''
   uid: DE81546D-0D0B-4352-A9C0-BD2A34BF3C36-83577-00005EF6EFF7E6A7
 - categories: []
+  cook_time: 35 minutes
+  created: '2020-03-17 18:22:54'
+  description: ''
+  difficulty: ''
+  directions:
+  - 'For the Dressing: Whisk together vinegar, sugar, oil, garlic, black pepper, and
+    celery seeds in small bowl.'
+  - 'For the Slaw: Combine cabbage, carrot, and onion in a large bowl. Sprinkle with
+    sugar and salt and toss to combine. Let stand five minutes, then transfer to a
+    large colander and rinse thoroughly under cold running water.'
+  - Transfer vegetables to a salad spinner and spin dry. Alternatively, transfer to
+    a large rimmed baking sheet lined with a triple layer of paper towels or a clean
+    kitchen towel and blot mixture dry with more towels. Return to large bowl.
+  - Pour dressing over vegetables and toss to coat. Adjust seasoning to taste with
+    salt, pepper, and/or sugar.
+  image_url: https://www.seriouseats.com/recipes/images/2014/06/20140604-294806-vinegar-slaw.jpg
+  in_trash: false
+  ingredients:
+  - 'For the Dressing:'
+  - 1 cup apple cider vinegar
+  - 1 cup sugar
+  - 3 tablespoons extra-virgin olive oil
+  - 1 teaspoon finely minced garlic (about 1 medium clove)
+  - 1 teaspoon freshly ground black pepper
+  - 1 teaspoon celery seeds
+  - 'For the Slaw:'
+  - 1 large head green cabbage (about 3 1/2 pounds), finely chopped
+  - 1 large carrot, peeled and grated on the large
+  - 1 medium yellow onion, diced
+  - 1/3 cup coarse salt to taste
+  is_pinned: false
+  name: Vinegar Coleslaw
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 30 minutes
+  rating: 0
+  scale: null
+  servings: Serves 10-12
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/06/vinegar-coleslaw-recipe.html
+  total_time: ''
+  uid: DFC4A9DB-EFDE-43D0-97D7-F25F1A9D03F2
+- categories: []
   cook_time: 1 hour
   created: '2019-07-11 22:13:05'
   description: ''
@@ -4082,6 +4278,64 @@
   source_url: https://letsdishrecipes.com/chicken-with-rosemary-butter-sauce
   total_time: ''
   uid: E5F429C0-B173-4EA0-AC65-DB48EDDD0BB4
+- categories: []
+  cook_time: 20 minutes
+  created: '2020-02-23 17:33:27'
+  description: ''
+  difficulty: ''
+  directions:
+  - Combine all of the dressing ingredients in a glass jar.
+  - Shake well to incorporate the ingredients. Store in fridge until ready to use.
+  - Refrigerate overnight if possible. (flavor increases greatly overnight)
+  - To prepare the pasta, place the cooked and cooled rotini pasta in a large bowl.
+  - Stir in tomatoes, black olive, pepperoni, banana peppers, red bell peppers, &
+    green bell peppers in a large bowl.
+  - Pour on the desired amount of dressing and toss to combine. ( I use it all!)
+  - Stir in basil and mozzarella.
+  - Add parsley for more color if desired.
+  - Refrigerate overnight if possible.
+  - Toss and serve!
+  image_url: https://divascancook.com/wp-content/uploads/2018/05/italian-pasta-salad-2.jpg
+  in_trash: false
+  ingredients:
+  - Italian Dressing
+  - 3/4 cup extra-virgin olive oil
+  - 1/4 cup white wine vinegar
+  - 1 tablespoon lemon juice
+  - 1 tablespoon garlic minced
+  - 1 tablespoon red bell peppers minced
+  - 1 tablespoon white onions minced
+  - 1 tablespoon parmesan cheese freshly grated
+  - 1 tablespoon Italian seasonings
+  - 2 teaspoons granulated sugar
+  - 2 1/2 teaspoons salt
+  - 1/4 -1/2 teaspoon black pepper
+  - PASTA
+  - 3 cups rotini pasta prepared al dente *
+  - 1 cup cherry tomatoes halved
+  - 1/2 cup black olives
+  - 3/4 cup pepperoni diced
+  - 3 tablespoons banana peppers diced
+  - 1/4 cup red bell peppers diced
+  - 1/2 cup green bell peppers diced
+  - 1/2 cup fresh basil leaves use small leaves
+  - 1/2 cup Fresh Mozzarella pearls
+  - parsley
+  is_pinned: false
+  name: Italian Pasta Salad
+  notes: I cook my pasta until al dente and then immediately rinse with cool water.Feel
+    free to up the amount or decrease the amount of any pasta salad add-ins!
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 20 minutes
+  rating: 0
+  scale: null
+  servings: Servings 8
+  source: Divascancook.com
+  source_url: https://divascancook.com/easy-italian-pasta-salad-recipe/
+  total_time: ''
+  uid: ED791F2B-3848-4C2C-AA13-281D657D2FDA
 - categories:
   - Pasta
   cook_time: 30 minutes
