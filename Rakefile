@@ -22,6 +22,7 @@ end
 
 desc 'Download recipe updates'
 task :recipes do
+  system 'git checkout source'
   system 'mkdir -p temp/images'
   system 'cd temp; ~/github/paprika-exporter/export.py'
   system 'rm -rf images/recipes'
