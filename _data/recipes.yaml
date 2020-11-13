@@ -1,3 +1,62 @@
+- categories: []
+  cook_time: 25 minutes
+  created: '2020-06-12 23:27:20'
+  description: ''
+  difficulty: ''
+  directions:
+  - "1. Heat olive oil in a large, deep skillet or straight-sided saut\xE9 pan over\
+    \ high heat until shimmering. Add onion, red pepper, and chili and spread into\
+    \ an even layer. Cook, without moving, until vegetables on the bottom are deeply\
+    \ browned and beginning to char in spots, about 6 minutes. Stir and repeat. Continue\
+    \ to cook until vegetables are fully softened and spottily charred, about another\
+    \ 4 minutes. Add garlic and cook, stirring, until softened and fragrant, about\
+    \ 30 seconds. Add paprika and cumin and cook, stirring, until fragrant, about\
+    \ 30 seconds. Immediately add tomatoes and stir to combine (see note). Reduce\
+    \ heat to a bare simmer and simmer for 10 minutes, then season to taste with salt\
+    \ and pepper and stir in half of cilantro or parsley."
+  - 2. Using a large spoon, make a well near the perimeter of the pan and break an
+    egg directly into it. Spoon a little sauce over edges of egg white to partially
+    submerge and contain it, leaving yolk exposed. Repeat with remaining 5 eggs, working
+    around pan as you go. Season eggs with a little salt, cover, reduce heat to lowest
+    setting, and cook until egg whites are barely set and yolks are still runny, 5
+    to 8 minutes.
+  - 3. Sprinkle with remaining cilantro or parsley, along with any of the optional
+    toppings. Serve immediately with crusty bread.
+  image_url: https://www.seriouseats.com/recipes/images/2016/09/20160926-shakshuka-17.jpg
+  in_trash: true
+  ingredients:
+  - 3 tablespoons (45ml) extra-virgin olive oil, plus more for drizzling
+  - 1 medium onion, thinly sliced
+  - 1 large red pepper (bell pepper for milder heat, or a hotter variety, such as
+    red horned pepper, depending on your heat preference), stems, seeds, and ribs
+    removed, thinly sliced
+  - "1 fresh small hot chili (such as jalape\xF1o, serrano, or Fresno), stems, seeds,\
+    \ and ribs removed, thinly sliced"
+  - 2 to 3 cloves garlic, thinly sliced
+  - 1 1/2 tablespoons (15g) sweet Hungarian or smoked Spanish paprika
+  - 2 teaspoons (8g) whole or ground cumin seed
+  - 1 (28-ounce; 800g) can whole peeled tomatoes, crushed by squeezing between your
+    fingers or with a pastry blender (see note)
+  - Kosher salt and freshly ground black pepper
+  - Large handful minced cilantro, parsley, or a mix
+  - 6 eggs
+  - Sliced oil-cured black olives, feta cheese, or artichoke hearts, for serving (all
+    optional)
+  - Crusty bread, for serving
+  is_pinned: false
+  name: "Shakshuka (North African\u2013Style Poached Eggs in Spicy Tomato Sauce)"
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 25 minutes
+  rating: 0
+  scale: null
+  servings: Serves 4 to 6
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2016/09/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe.html
+  total_time: ''
+  uid: 004E2A3C-28E9-4694-9C94-90B1564DF9FC
 - categories:
   - Sides
   cook_time: 30 minutes
@@ -5,32 +64,27 @@
   description: ''
   difficulty: ''
   directions:
-  - 1. Light 1 chimney full of charcoal. When all charcoal is lit and covered with
-    gray ash, pour out and spread coals evenly over half of coal grate. Alternatively,
-    set half the burners of a gas grill to high heat. Set cooking grate in place,
-    cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate.
-  - 2. While coals heat, combine mayonnaise, sour cream or crema, cheese, chili powder,
-    garlic, and cilantro in a large bowl. Stir until homogeneous and set aside.
-  - 3. When grill is hot, place corn directly over hot side of grill and cook, rotating
-    occasionally, until cooked through and charred in spots on all sides, about 8
-    minutes total.
-  - 4. Transfer corn to bowl with cheese mixture and use a large spoon to evenly coat
-    corn on all sides with mixture. Sprinkle with extra cheese and chili powder and
-    serve immediately with lime wedges.
+  - Cook on a hot grill for 8 mins per side or in an oven at 400 for 40 minutes(boil
+    if not browning)
+  - Combine mayonnaise, sour cream or crema, cheese, chili powder, garlic, and cilantro
+    in a large bowl. Stir until homogeneous and set aside.
+  - 'Transfer corn to bowl with cheese mixture and use a large spoon to evenly coat
+    corn on all sides with mixture. '
+  - Sprinkle with extra cheese and chili powder and serve immediately with lime wedges.
   image_url: null
   in_trash: false
   ingredients:
-  - 1/4 cup (60ml) mayonnaise
-  - 1/4 cup (60ml) sour cream or Mexican crema
-  - 1/2 cup (110g) finely crumbled Cotija or feta cheese, plus more for serving
+  - 1/4 cup mayonnaise
+  - 1/4 cup sour cream or Mexican crema
+  - 1/2 cup finely crumbled Cotija plus more for serving
   - 1/2 teaspoon ancho or guajillo chili powder, plus more for serving
-  - 1 medium clove garlic, finely minced (about 1 teaspoon)
+  - '1 medium clove garlic, finely minced '
   - 1/4 cup finely chopped cilantro leaves and tender stems
   - 4 ears shucked corn
   - 1 lime, cut into wedges
-  is_pinned: false
-  name: Elote (Grilled Mexican Street Corn)
-  notes: Use very fine powdered cheese
+  is_pinned: true
+  name: Elote - Mexican Street Corn
+  notes: ''
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
@@ -140,7 +194,7 @@
   - salt/pepper to taste.
   is_pinned: false
   name: Smashed Potatoes with Chimichurri Sauce
-  notes: ''
+  notes: 'Did not love the chimichurri sauce '
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
@@ -168,7 +222,7 @@
   in_trash: false
   ingredients:
   - 3 packages (8 ounces) cream cheese, softened
-  - 2 can (10 ounces) chunk white chicken, drained
+  - 10 oz cooked chopped chicken breast
   - 2 cup Franks Red Hot
   - 1 cup ranch salad dressing
   - 2 cups (8 ounces) shredded Colby-Monterey Jack cheese
@@ -181,7 +235,7 @@
   on_grocery_list: null
   prep_time: ''
   rating: 5
-  scale: null
+  scale: 1/2
   servings: '6'
   source: ''
   source_url: ''
@@ -336,6 +390,103 @@
   total_time: ''
   uid: 13BAA010-FE83-401E-A472-E120FFD9A7D1
 - categories: []
+  cook_time: overnight (if using dried beans), 30 minutes if using canned
+  created: '2020-07-02 17:38:15'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Place beans in a large bowl and add 1 gallon water. Stir in two tablespoons
+    kosher salt. Set aside at room temperature and let rest overnight. The next day,
+    drain and rinse beans. Transfer to a large Dutch oven. Add bay leaf, split onion,
+    and 3 quarts water. Bring to a boil over high heat, reduce to a bare simmer, cover,
+    and cook until beans are completely tender and skins are loose, 2 to 2 1/2 hours.
+    Discard onion and bay leaves. Drain beans, reserving liquid. (See note for pressure
+    cooker or canned bean variations).
+  - "2. Heat vegetable oil in a large Dutch oven over medium-high heat until shimmering.\
+    \ Add onions, garlic, and jalape\xF1o (if using) and cook, stirring frequently,\
+    \ until softened but not browned, about 3 minutes. Add beans and chipotle (if\
+    \ using) and cook, folding with a wooden spoon until homogenous. Add 2 cups of\
+    \ reserved bean liquid. Mash beans with a potato masher until desired consistency\
+    \ is reached, adding extra cooking liquid as necessary to loosen to desired texture.\
+    \ If smoother texture is required, use a hand blender or a food processor to process\
+    \ beans to desired texture. Season with salt to taste. Serve. Uneaten beans can\
+    \ be stored in an airtight container in the refrigerator for up to 5 days."
+  image_url: https://www.seriouseats.com/recipes/images/2013/02/20130220-hearts-of-palm-grilled-tacos-refried-beans-cabbage-slaw-vegan-07.jpg
+  in_trash: true
+  ingredients:
+  - 1 pound dried pinto beans (see note)
+  - Kosher salt
+  - 1 bay leaf
+  - 2 medium onions, one split in half, one chopped (about 1 cup)
+  - 1/4 cup vegetable oil
+  - 3 medium cloves garlic, minced on a microplane grater (about 1 tablespoon)
+  - "1 jalape\xF1o pepper, seeded and finely minced (about 1 tablespoon, optional)"
+  - 2 tablespoons finely chopped canned chipotle chilies in adobo sauce (optional)
+  is_pinned: false
+  name: Spicy Vegan Refried Beans
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 15 minutes
+  rating: 0
+  scale: null
+  servings: About 2 quarts beans, serving 8 to 10
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2013/02/spicy-vegan-refried-beans.html
+  total_time: ''
+  uid: 15851613-245C-42B7-A13A-326562BFFE2B
+- categories: []
+  cook_time: 20 minutes
+  created: '2020-08-25 23:57:27'
+  description: ''
+  difficulty: ''
+  directions:
+  - '1. Make the Cole Slaw: In a large bowl, combine the vinegar, mayonnaise, salt,
+    celery seed, dry mustard, and black pepper. Stir until combined. Add the cabbage,
+    and mix until it is evenly coated in the dressing. Set aside.'
+  - '2. Cook the Hot Dogs: Pour 1/2 cup water into a large skillet set over medium
+    heat. Add the hot dogs. Cook until the hot dogs are thoroughly warmed. If the
+    water has not evaporated, pour any remaining water off. Add one tablespoon of
+    butter. When it has melted, roll the hot dogs around until they are coated in
+    the butter. Cook until the hot dogs are lightly browned on both sides, about 6
+    minutes total. Remove and set aside.'
+  - 3. Add remaining butter to the skillet, then add the buns, cut-side down. Cook
+    until browned, about 1 minute. Rotate the buns. Continue this process until the
+    buns are lightly browned on four sides, about 4 minutes total.
+  - 4. To serve, place one hot dog in each bun. Top all of them with mustard and a
+    few spoonfuls of the slaw. Serve immediately.
+  image_url: https://www.seriouseats.com/recipes/images/2012/11/20121121-231027-dinner-tonight-slaw-dogs-primary.jpg
+  in_trash: true
+  ingredients:
+  - 'For the Coleslaw:'
+  - 3 tablespoons apple cider vinegar
+  - 1/2 cup mayonnaise
+  - 1/2 teaspoon kosher salt
+  - 1/4 teaspoon celery seed
+  - 1 teaspoon dry mustard
+  - 1/4 teaspoon freshly ground black pepper
+  - 1/2 head cabbage, core removed, thinly sliced (about 1 1/2 quarts)
+  - 'For the Hot Dogs:'
+  - 8 hot dogs, preferably with a natural casing
+  - 8 side-split hot dog buns
+  - 1 to 2 tablespoons butter
+  - Mustard, for serving
+  is_pinned: true
+  name: Slaw Dogs with Mustard
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 15 minutes
+  rating: 0
+  scale: null
+  servings: Serves 4 to 6
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2012/11/slaw-dogs-with-mustard-recipe.html
+  total_time: ''
+  uid: 194CE1E1-9145-43A5-A893-1FBF03AC4ACC
+- categories: []
   cook_time: 20 mins
   created: '2019-10-21 15:48:31'
   description: ''
@@ -361,7 +512,7 @@
   - Storage- store in the fridge for up to 4 days.
   - Reheat- heat in the microwave until steaming hot.
   image_url: https://sweetpeasandsaffron.com/wp-content/uploads/2018/04/Lighter-Mongolian-Beef-Meal-Prep-4.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - Sauce
   - 1/4 cup honey
@@ -414,7 +565,7 @@
   image_url: /images/recipes/47AD3502-1D43-4BD1-AC05-07360F53FB1E-66067-0000577E1B13B6C9.jpg
   in_trash: false
   ingredients:
-  - 3 lb ground beef
+  - '3 lb ground beef - 80% '
   - 3 eggs
   - 6 scallions
   - 1 yellow onion
@@ -432,7 +583,12 @@
   name: Meatloaf - Stuffed with Goat Cheese
   notes: 'Goes great with salad and smashed potatoes
 
-    Try to lighten it up some it''s still fairly dense'
+    2 lb loaf worked good to not overfill the pan.  I used one sheet of plastic wrap
+    and it was slightly to wide.
+
+    8oz of mushrooms was to much... could probably use 2 eggs
+
+    Rosemary on off the tomato paste had cooked did not stick well'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
@@ -603,11 +759,12 @@
   description: ''
   difficulty: ''
   directions:
-  - Set a large skillet over medium heat. Add in the olive oil. When hot, add in the
-    onion and cook for about 2 to 3 minutes, until it starts to soften. Add in the
-    green peppers, jalapeno, corn, cumin, paprika, cinnamon, salt and cayenne. Cook
-    for about 5 minutes, until the veggies are all tender. Add in the tomato paste
-    and brown rice. Cook for 1 to 2 minutes, stirring almost constantly.
+  - Warm up a large pot over medium heat.  Add oil and brown ground beef.
+  - 'Add onions and cook for about 2 to 3 minutes, until it starts to soften. '
+  - 'Add in the green peppers, jalapeno, corn, cumin, paprika, cinnamon, salt and
+    cayenne. Cook for about 5 minutes, until the veggies are all tender. '
+  - Add in the tomato paste and brown rice. Cook for 1 to 2 minutes, stirring almost
+    constantly.
   - Add in the drained tomatoes, black beans and veggie broth. Give the mixture a
     good stir then bring to a boil. Turn down the heat, cover and let simmer for about
     10 to 15 minutes (or according to the time on the package directions for the rice),
@@ -619,27 +776,30 @@
   image_url: null
   in_trash: false
   ingredients:
-  - 1lb ground beef
+  - 1 lb ground beef
   - 3 tablespoons olive oil
   - 2 red onions, chopped
   - "2\_green peppers, chopped"
-  - 4 jalapeno, seeded and diced ( used adobe peppers this round 1 small can)
+  - '4 jalapeno, seeded and diced '
   - 32oz frozen corn kernel
-  - "2\_tsp ground cumin"
-  - 2 tsp smoked paprika
+  - "1\_tbsp ground cumin"
+  - 1 tbsp smoked paprika
   - "\xBD\_tsp cinnamon"
-  - "\xBD\_\_tsp cayenne, or to taste"
-  - 1 teaspoon salt, or to taste
+  - "\xBD\_\_tsp cayenne to taste"
+  - 2 teaspoon salt to taste
   - 2 (15 ounce) can black beans, drained and rinsed
-  - 2 cup brown rice
-  - "4\_cups vegetable broth"
-  - "1\_small can tomato paste"
-  - 2 (14 ounce) can fire-roasted diced tomatoes, drained well
-  - "2\_cups freshly shredded cheddar or pepper jack cheese"
+  - 2 cup rice
+  - "4\_cups chicken broth"
+  - 6 oz tomato paste
+  - 2 (14 ounce) can fire-roasted diced tomatoes, drained
+  - "2\_cups freshly shredded cheddar "
   - chopped fresh cilantro, for garnish
   is_pinned: false
   name: Skillet Mexican Brown Rice Casserole
-  notes: ''
+  notes: 'maybe lower the corn?
+
+    In the past I used ( used adobe peppers this round 1 small can)... consider testing
+    again'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
@@ -744,7 +904,7 @@
     Top each serving with about 3 tablespoons yogurt mixture; sprinkle with remaining
     1 1/2 teaspoons dill.
   image_url: https://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1516908504/mediterranean-chicken-and-couscous-bowls-ck-1803.jpg?itok=fb6SLm47
-  in_trash: false
+  in_trash: true
   ingredients:
   - 1 tablespoon olive oil
   - 1 1/2 cups uncooked whole-wheat Israeli couscous
@@ -838,12 +998,11 @@
   description: ''
   difficulty: Easy
   directions:
-  - 1. Brown beef in skillet and set aside
-  - 2. Break mushrooms in half and saute until no longer letting off water
-  - 3. Add half of the onions to the mushrooms and saute until soft
-  - 4. Combine beef, sauteed onions and mushrooms with  3/4 cup of water and the taco
-    seasoning.
-  - 5. Simmer for about 5 min. then add a can of black beans
+  - Using a 6-8 qt pot brown beef in skillet
+  - Add diced mushrooms and saute until no longer letting of water
+  - Add half of the onions and saute until soft
+  - Add 3/4 cup of water and taco seasoning and mix
+  - Simmer for about 5 min. then add a can of black beans
   - 6. Salt to taste
   - 7. Then add as much of this mixture as you want to a plateful of shredded lettuce,
     1 chopped up tomato, & salsa. Mix & enjoy!
@@ -857,14 +1016,31 @@
   - 8oz mushrooms
   - 2 cans diced tomatoes
   - 2 cans black beans
-  - Mild Salsa
+  - 32 oz Salsa
   - 8oz Shredded Cheese
   - 3 packages taco seasoning
   is_pinned: false
   name: Taco Salad
   notes: 'Used  two 32oz bags of lettuce
 
-    Consider using a different recipe combo'
+    Consider using a different recipe combo
+
+
+    cooking 1.5 lbs of beef at a time
+
+
+    beef mixture was good with 2.5 packages of taco seasoning
+
+    Cooked beans for 11 mins and it was to long
+
+
+    corn mixture
+
+    half a lime, 10oz of corn saute and add yogurt off heat, handful of cilantro,
+    salt, pepper
+
+
+    consider using less beef and more corn'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
@@ -1048,6 +1224,61 @@
   total_time: ''
   uid: 2EC60BB5-CDBD-426D-AC97-9DA97809E48A
 - categories: []
+  cook_time: 40 minutes
+  created: '2020-06-20 02:18:19'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Heat butter in a pressure cooker over medium-high heat ("sear" setting on an
+    electric pressure cooker) until foaming subsides. Add onions, garlic, and ginger.
+    Cook, stirring frequently, until pale brown, about 5 minutes. Add cumin, paprika,
+    coriander, turmeric, cayenne pepper, and black pepper and cook, stirring frequently,
+    until aromatic, about 30 seconds. Add crushed tomatoes and spinach. Cover and
+    cook, stirring occasionally, until spinach is wilted, about 2 minutes.
+  - 2. Add half of cilantro, chicken stock, and chicken pieces. Stir to combine. Seal
+    pressure cooker and heat to high pressure. Once high pressure is reached, cook
+    for 15 minutes.
+  - 3. Allow to cool, release pressure, remove lid, add heavy cream, drained chickpeas,
+    2 tablespoons lemon juice, and simmer, stirring frequently, until sauce is thickened.
+    Stir in remaining lemon juice and season to taste with salt. Serve immediately,
+    garnished with remaining cilantro leaves.
+  image_url: https://www.seriouseats.com/recipes/images/2014/01/20140125-pressure-cooker-chicken-chickpea-spinach-masala-recipe-18.jpg
+  in_trash: false
+  ingredients:
+  - 2 tablespoons unsalted butter
+  - 1 medium onion, finely diced (about 1 cup)
+  - 4 cloves garlic, minced (about 4 teaspoons)
+  - 1 tablespoon grated fresh ginger
+  - 1 tablespoon ground cumin
+  - 1 1/2 teaspoons paprika
+  - 1 1/2 teaspoons ground coriander
+  - 1 teaspoon ground turmeric
+  - 1/4 teaspoon cayenne pepper (more or less to taste)
+  - 1/2 teaspoon ground black pepper
+  - 1 (15 ounce) can crushed tomatoes
+  - 1 pound fresh spinach leaves, trimmed
+  - 1/4 cup fresh juice from 2 to 3 lemons
+  - 1/2 cup chopped fresh cilantro leaves
+  - 3 pounds chicken drumsticks and thighs (4 to 6 of each)
+  - 1/2 cup homemade or store-bought low-sodium chicken stock
+  - 2 (15-ounce) cans chickpeas, drained
+  - 1/2 cup heavy cream
+  - Kosher salt
+  is_pinned: false
+  name: Easy Pressure Cooker Chicken and Chickpea Masala
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 10 minutes
+  rating: 0
+  scale: null
+  servings: Serves 4
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/01/quick-easy-pressure-cooker-chicken-and-chickpea-masala.html
+  total_time: ''
+  uid: 2EFA8685-3604-41E5-ABB5-A83DE7A189C9
+- categories: []
   cook_time: ''
   created: '2019-11-10 17:20:42'
   description: ''
@@ -1063,7 +1294,7 @@
   - Lay a piece of parchment paper on top of the veggies to stop them from burning.
     Bake for 30-35 minutes or until all the vegetables are soft.
   image_url: https://www.staceyhomemaker.com/wp-content/uploads/2015/07/IMG_9762.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - Pesto Sauce
   - 1 cup fresh basil leaves
@@ -1193,6 +1424,49 @@
   source_url: https://www.seriouseats.com/recipes/2010/04/sloppy-joes-with-barbecue-sauce-carrot-jalapeno-slaw-recipe.html
   total_time: ''
   uid: 31DF4432-A725-4119-9AE9-4DFB1CBDAE44
+- categories: []
+  cook_time: 20 minutes
+  created: '2020-09-02 14:29:57'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Light one chimney full of charcoal. When all the charcoal is lit and covered
+    with gray ash, pour out and arrange the coals on one side of the charcoal grate.
+    Set cooking grate in place, cover grill and allow to preheat for 5 minutes. Alternatively,
+    set half the burners on a gas grill to the highest heat setting, cover, and preheat
+    for 10 minutes. Clean and oil the grilling grate.
+  - 2. Whisk together garlic, rosemary, lemon juice, and olive oil in a large bowl.
+    Season to taste with salt and pepper. Transfer half of mixture to a separate container
+    and set aside. Add chicken to the large bowl and turn pieces to thoroughly coat.
+  - 3. Place chicken directly over the hot side of the grill, cover, and cook, rotating
+    the pieces occasionally (but not flipping them), until the chicken is almost completely
+    cooked through and only a few pink spots remain on the top side, about 4 minutes.
+    Flip chicken and cook on second side until just done, about 30 seconds. Transfer
+    to a serving platter. Re-whisk reserved marinade and pour it over the chicken.
+    Serve immediately.
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 3 medium cloves garlic, minced (about 1 tablespoon)
+  - 3 tablespoons minced fresh rosemary
+  - 2 tablespoons fresh juice from 2 lemons
+  - 6 tablespoons extra-virgin olive oil
+  - Kosher salt and freshly ground black pepper
+  - 4 boneless, skinless chicken breasts (5 to 7 ounces each), cut into 8 cutlets
+  is_pinned: false
+  name: Five-Minute Grilled Chicken Cutlets with Rosemary, Garlic, and Lemon
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 3
+  scale: null
+  servings: Serves 4
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2015/09/five-minute-grilled-chicken-cutlet-rosemary-garlic-lemon-recipe.html
+  total_time: ''
+  uid: 36BFF5A7-7ACE-4294-A9F2-697C2460F439
 - categories: []
   cook_time: 15 minutes
   created: '2019-12-17 18:20:46'
@@ -1420,6 +1694,41 @@
   source_url: ''
   total_time: '1'
   uid: 40E3BA9E-D605-462A-B793-FDAD4973AF05-18447-000330E256ECECB3
+- categories: []
+  cook_time: 5 minutes
+  created: '2020-08-25 23:45:45'
+  description: ''
+  difficulty: ''
+  directions:
+  - Whisk cream cheese, butter, sugars, vanilla, and cinnamon together.
+  - Add milk a tablespoon at a time to even out consistency. You want the sauce to
+    be thick enough to coat a fry, but you can also tweak it to your personal preference.
+  - Serve with sweet potato fries. Try to not drink this with a straw.
+  - Enjoy!
+  image_url: https://extrablackolives.com/wp-content/themes/ebo/images/background-1.png
+  in_trash: true
+  ingredients:
+  - 2 ounces of softened cream cheese
+  - 2 tablespoons of softened butter
+  - 1 tablespoon of brown sugar
+  - 2 tablespoons of powdered sugar
+  - 1/2 teaspoon of vanilla
+  - 1/2 teaspoon of cinnamon
+  - "2\u20133 tablespoons of milk"
+  is_pinned: true
+  name: Cinnamon Dipping Sauce for Sweet Potato Fries
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: Extrablackolives.com
+  source_url: https://extrablackolives.com/2013/08/sinful-cinnamon-dipping-sauce.html
+  total_time: ''
+  uid: 4373ECFF-B225-4B47-8755-86BF2C74540C
 - categories:
   - Vegan
   cook_time: 25 minutes
@@ -1438,7 +1747,7 @@
     \ by the mashed cauliflower, and end with the topping. Bake for around 15 minutes\
     \ at 405\xB0F, done."
   image_url: https://www.contentednesscooking.com/wp-content/uploads/2016/12/Mashed-Cauliflower-Green-Bean-Casserole-10_FB.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 3/4 cup coconut milk
   - 1/2 cup nutritional yeast
@@ -1491,7 +1800,7 @@
     5 minutes before adding to the kale. Top with the pepitas and toss everything
     to combine and enjoy.
   image_url: https://www.asaucykitchen.com/wp-content/uploads/2016/10/Spicy-Chipotle-Roasted-Butternut-Squash-and-Chickpea-Kale-Salad-480x480.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - SALAD
   - 1 very large bunch of kale, ribs removed and chopped
@@ -1554,7 +1863,7 @@
   - Bake until the potatoes are nice and golden on the edges, about 25 to 30 minutes.
     Sprinkle them with chopped fresh herbs, and serve hot.
   image_url: https://cookieandkate.com/images/2019/05/baked-smashed-potatoes.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 2 pounds small-to-medium red or yellow potatoes
   - "1 tablespoon plus \xBC teaspoon fine sea salt, divided"
@@ -1577,6 +1886,44 @@
   source_url: https://cookieandkate.com/crispy-smashed-potatoes-recipe/
   total_time: ''
   uid: 4768ED20-505F-4945-BCBE-61173DF66014
+- categories: []
+  cook_time: 40 minutes
+  created: '2020-07-17 22:23:43'
+  description: ''
+  difficulty: ''
+  directions:
+  - "1. Heat the oven to 375\xB0F (190\xB0C/gas 5)."
+  - 2. Put the carrots in a roasting pan. In a small bowl, whisk together the olive
+    oil, honey, and 2 teaspoons vinegar. Pour over the carrots. Season with 1/2 teaspoon
+    salt and a generous grinding of pepper. Toss gently to combine. Roast the carrots
+    for 10 minutes; toss, and roast for 15 minutes more, or until the carrots are
+    tender and browned in spots.
+  - 3. Transfer to a serving dish and sprinkle a few more drops of vinegar and some
+    sea salt on top. Serve hot or warm.
+  image_url: https://www.seriouseats.com/recipes/images/2013/08/090413-264844-cook-the-book-honey-balsamic-roasted-carrots.jpg
+  in_trash: true
+  ingredients:
+  - 1 pound (455 g) carrots, cut in half crosswise, each half cut lengthwise into
+    quarters
+  - 2 tablespoons extra-virgin olive oil
+  - 1 tablespoon good-quality flavorful honey
+  - 2 teaspoons aged balsamic vinegar, plus more for sprinkling
+  - 1/2 teaspoon coarse sea salt, plus more for sprinkling
+  - Freshly ground black pepper
+  is_pinned: true
+  name: Honey-Balsamic Roasted Carrots From 'The Glorious Vegetables of Italy'
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 15 minutes
+  rating: 0
+  scale: null
+  servings: Serves 4
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2013/09/honey-balsamic-roasted-carrots-recipe-from-the-glorious-vegetables-of-italy-cookbook-domenica-marchetti.html
+  total_time: ''
+  uid: 47995BD6-2616-4C88-9845-91FE2719755D
 - categories: []
   cook_time: ''
   created: '2019-09-09 08:19:23'
@@ -1629,6 +1976,44 @@
   source_url: ''
   total_time: ''
   uid: 48060FF5-7F79-42AD-8357-050FE7DBD72C-26919-000081362AE904BA
+- categories: []
+  cook_time: ''
+  created: '2020-06-20 02:05:37'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. In a small dry saucepan, toast hazelnuts over medium-high heat, until they
+    just start to brown and become fragrant, about 1 1/2 to 2 minutes. Remove from
+    heat and immediately transfer to mortar and crush with pestle to form coarse powder.
+    (Alternatively, use a spice grinder.)
+  - 2. Trim and discard ends of cucumbers. Cut each cucumber in half lengthwise and
+    then into thin slices. Place sliced cucumbers in a medium mixing bowl.
+  - 3. Using a whisk or fork, thoroughly mix mustard oil and lime juice in small bowl
+    and pour over cucumbers. Add toasted hazelnuts and pepper flakes. Stir to combine.
+    Season to taste with salt. Serve immediately.
+  image_url: https://www.seriouseats.com/2020/02/20200207-mustard-oil-cucumbers-vicky-wasik-7.jpg
+  in_trash: false
+  ingredients:
+  - 1/2 cup (2 oz; 60g) raw hazelnuts or peanuts, skinned
+  - 2 English cucumbers (25 oz; 700g)
+  - 2 tablespoons (30ml) mustard oil
+  - 2 tablespoons (30ml) lime juice, from 1 lime
+  - 2 teaspoons (1/8 oz; 4g) red pepper flakes
+  - Kosher salt
+  is_pinned: false
+  name: Mustard Oil-Dressed Cucumber Salad
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 10 minutes
+  rating: 0
+  scale: null
+  servings: Serves 4 as a side salad.
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2020/02/cucumber-salad-mustard-oil-dressing.html
+  total_time: 10 min
+  uid: 4A71E729-51FF-4ECC-A342-EB376D4CFA4C
 - categories:
   - Pork
   cook_time: 3hrs 20mins
@@ -1689,6 +2074,57 @@
   source_url: https://www.food.com/recipe/grandpas-sauerkraut-and-kielbasa-110223?oc=linkback
   total_time: ''
   uid: 4BE795FC-1497-414A-BF9D-836B36DA8267
+- categories: []
+  cook_time: ''
+  created: '2020-08-25 23:16:47'
+  description: ''
+  difficulty: ''
+  directions:
+  - Sweet Potato Fries
+  - First, preheat your oven to 425 degrees F.
+  - Next, wash the potatoes and cut them lengthwise into fries. (julienning)
+  - Then, place the fries into a large mixing bowl and toss them with the oil and
+    salt.
+  - Last, place them on a sheet pan and let them bake in your preheated oven for 30
+    minutes or until they slightly crisp.
+  - Cinnamon and Brown Sugar Dipping Sauce
+  - First, while the fries cook, place a small saucepan on your stovetop over medium-low
+    heat.
+  - Next, add the brown sugar, cinnamon, and the heavy cream to the butter.
+  - Then, as the butter melts, whisk everything together into a sauce.
+  - Last, serve the dipping sauce with your fries.
+  image_url: https://tornadoughalli.com/wp-content/uploads/2017/08/Sweet-Potato-Fries-with-Cinnamon-Sugar-Dipping-Sauce-1.jpg
+  in_trash: true
+  ingredients:
+  - Sweet Potato Fries
+  - 2 Large Sweet Potatoes (sliced, approx. 260g)
+  - 1 Teaspoon Season Salt (or other salty seasoning mix)
+  - 1 Tablespoon Extra Virgin Olive Oil (for tossing)
+  - Cinnamon and Brown Sugar Dipping Sauce
+  - 5 Tablespoons Unsalted Butter
+  - 4 Tablespoons Brown Sugar
+  - 1 Teaspoon Ground Cinnamon
+  - 1/4 Cup Heavy Whipping Cream
+  is_pinned: true
+  name: Sweet Potato Fries with Cinnamon Sugar Dipping Sauce
+  notes: The calorie count listed is based on the ingredients in the dish. Actual
+    calorie count may vary due to portion sizes and substitutions. The sweet potato
+    fries should be served hot. I would not recommend making this recipe ahead. The
+    fries can be stored in your fridge in a sealed container for up to two days.
+  nutritional_info: 'Calories: 401kcal | Carbohydrates: 47g | Protein: 3g | Fat: 23g
+    | Saturated Fat: 13g | Cholesterol: 58mg | Sodium: 686mg | Potassium: 600mg |
+    Fiber: 5g | Sugar: 19g | Vitamin A: 24775IU | Vitamin C: 4mg | Calcium: 80mg |
+    Iron: 1.1mg'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: Tornadoughalli.com
+  source_url: https://tornadoughalli.com/sweet-potato-fries-cinnamon-sugar-dipping-sauce/
+  total_time: ''
+  uid: 4C01D7D8-F904-48E7-BB8A-656FF649B67E
 - categories: []
   cook_time: ''
   created: '2019-09-20 07:54:54'
@@ -1806,6 +2242,105 @@
   total_time: ''
   uid: 4EE2DD4C-2966-4EF4-A49C-C0273F77DE9C
 - categories: []
+  cook_time: 95 minutes
+  created: '2020-08-26 00:25:34'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Combine all chiles in a medium microwave-safe bowl and cover with water. Microwave
+    on full power for 2 minutes. Remove bowl from microwave and allow chiles to soak
+    for 10 minutes. Using immersion blender or upright blender, blend soaked chiles
+    until smooth, adding soaking water as needed to keep texture loose.
+  - 2. Melt butter over medium-high heat in Dutch oven. When foaming subsides, add
+    onions and garlic. Cook, stirring frequently, until onions are softened but no
+    browned, about 6 minutes. Add ground spices and oregano and continue to cook,
+    stirring frequently, until aromatic, about 1 1/2 minutes. Add tomato paste, soy
+    sauce, anchovy, Marmite (if using), and sugar, and cook, stirring frequently until
+    paste begins to stick to bottom of pan, about 1 1/2 minutes.
+  - 3. Remove pan from heat and add 2 cups of chicken broth. Scrape up any browned
+    bits from bottom of pan with wooden spoon. Add ground beef and break up using
+    whisk until mixture is completely homogeneous (no large chunks of beef should
+    remain). Add remaining chicken stock and return to stovetop and set over medium
+    high heat. Cook, whisking frequently, until mixture comes to a simmer. Cover with
+    lid slightly ajar, reduce heat to low, and cook for 75 minutes, stirring occasionally,
+    until mixture is thick and intense.
+  - 4. Combine masa harina and 2 tablespoons water in a small bowl and mix until homogeneous.
+    Add masa mixture, hot sauce, and bourbon to chili and stir to combine. Bring to
+    a boil and simmer until thickened, about 2 minutes. Season to taste with salt
+    and serve immediately on top of burgers, hot dogs, or fries.
+  image_url: https://www.seriouseats.com/recipes/images/20100903-burgerlab-primary.jpg
+  in_trash: false
+  ingredients:
+  - 2 whole Ancho or Pasilla chiles, stemmed, seeded, and torn into strips
+  - "1 whole New Mexico red, California, Coste\xF1o, or Choricero chile, stemmed,\
+    \ seeded, and torn into strips"
+  - 1 whole Cascabel, Arbol, or Pequin chile, stemmed, seeded, and torn in half
+  - 2 tablespoons butter
+  - 1 medium yellow onion, diced fine (about 1 1/2 cups)
+  - 2 cloves garlic
+  - 1 1/2 teaspoons whole cumin seed, toasted and ground
+  - 1 teaspoon coriander seed, toasted and ground
+  - 1 whole clove, toasted and ground
+  - 1 whole star anise, toasted and ground
+  - 1/2 teaspoon dried oregano
+  - 3 tablespoons tomato paste
+  - 2 teaspoons soy sauce
+  - 1 anchovy filet, minced (optional)
+  - 1/2 teaspoon Marmite (optional)
+  - 1 teaspoon sugar
+  - 1 1/2 pounds 80/20 ground chuck or short rib
+  - 1 quart chicken stock
+  - 2 tablespoons masa harina
+  - 1 tablespoon Frank's Red Hot
+  - 1 tablespoon bourbon (optional)
+  - Kosher salt
+  is_pinned: false
+  name: Chili for Chili Burgers, Chili Dogs, or Chili Fries
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: About 8
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2010/09/chili-for-chili-burgers-dogs-fries-recipe.html
+  total_time: ''
+  uid: 4F32A7CB-52C5-4FD1-9A9E-B8890A770105
+- categories: []
+  cook_time: ''
+  created: '2020-09-06 17:10:07'
+  description: ''
+  difficulty: ''
+  directions:
+  - Combine all ingredients in blender until smooth, scraping down sides of blender
+    with rubber spatula as necessary. Makes about 3/4 cup sauce.
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 1/2 cup mayonnaise
+  - 1 tablespoon ketchup
+  - 1 tablespoon yellow mustard
+  - 4 slices kosher dill pickle
+  - 1/4 teaspoon garlic powder
+  - 1/4 teaspoon paprika
+  - Pinch cayenne pepper
+  is_pinned: false
+  name: Shake Shack Burger Sauce
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: '4'
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2009/10/the-fake-shack-shake-shack-burger-recipe.html
+  total_time: ''
+  uid: 50CC2C45-C982-47D3-B72B-DBB6094D43A1
+- categories: []
   cook_time: 0 minutes
   created: '2019-06-30 18:22:07'
   description: ''
@@ -1822,15 +2357,14 @@
   image_url: null
   in_trash: false
   ingredients:
-  - 6 cups chopped romaine lettuce
-  - 6 cups cubed cooked chicken*
-  - 1 and 1/2 cups corn
-  - 1 and 1/2 cups black beans
+  - 50 oz chopped romaine lettuce
+  - 3 lbs cooked chicken, chopped
+  - 12 oz corn
   - 2 tomatoes, diced
   - 1 avocado, diced
-  - 1/2 red onion, diced
+  - 1 red onion, diced
+  - 12 oz black beans
   - 3/4 cup shredded cheddar cheese
-  - 1 cup crushed tortilla chips
   - handful chopped cilantro
   - Dressing
   - 1/2 cup plain Greek yogurt (I use nonfat)
@@ -1842,32 +2376,33 @@
   - "1/2 jalape\xF1o, finely diced"
   - 2 heaping teaspoons taco seasoning (I use mild)
   - salt, to taste and if needed
+  - Dressing Creamy
+  - 1/2 cup Greek yogurt
+  - 1/4 cup packed cilantro with stems
+  - 1/2 lime, juiced
+  - 1/4 teaspoon salt
   is_pinned: false
   name: Southwestern Chopped Chicken Salad
-  notes: 'Chicken: For the grilled chicken, I drizzled 3 large chicken boneless skinless
-    breasts with olive oil and seasoned with salt and pepper before grilling. This
-    was about 5-6 cups of cubed chicken. You can also use store-bought rotisserie
-    chicken or just any leftover cooked chicken you have.''
+  notes: 'Try chicken with
+
+    1 tablespoon taco seasoning
+
+    1/2 teaspoon  cumin
+
+    1/4 teaspoon salt
+
+    1/2 lime juiced
+
+    Olive oil
+
+    Marinate chicken?
+
+    Cook on skillet
 
 
-    Used
+    Try creamy dressing
 
 
-    12oz of corn
-
-    1 can of black beans
-
-    1 large red onion
-
-    1 avocado
-
-    ...dice a tomatoe don''t use canned
-
-    full bunch of cilantro
-
-    1 jalepeno
-
-    1/2 of a packet of taco seasoning
 
     '
   nutritional_info: ''
@@ -1875,7 +2410,7 @@
   on_grocery_list: false
   prep_time: 10 minutes
   rating: 3
-  scale: null
+  scale: ''
   servings: Serves 6
   source: Sallysbakingaddiction.com
   source_url: https://sallysbakingaddiction.com/southwestern-chopped-chicken-salad/
@@ -2026,12 +2561,170 @@
   on_grocery_list: false
   prep_time: 5 mins
   rating: 3
-  scale: 2/1
+  scale: 1/1
   servings: '6'
   source: Whatmollymade.com
   source_url: https://whatmollymade.com/healthy-instant-pot-mongolian-beef/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
   total_time: ''
   uid: 590D833F-B103-4801-BA22-79A26076F4E6
+- categories: []
+  cook_time: 1 1/2 hours
+  created: '2020-10-31 18:45:36'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Adjust broiler rack to 8 inches below element and preheat broiler to high.
+    Place poblanos, onion, tomatillos, serranos, and garlic on a foil-lined rimmed
+    baking sheet. Place under broiler and broil, turning vegetables occasionally,
+    until tomatillos are completely softened and lightly charred, about 10 minutes.
+    Transfer tomatillos to a bowl. Continue broiling until poblanos are charred on
+    all sides, about 2 minutes longer. Transfer to a separate bowl and cover tightly
+    with foil. Continue broiling until onion, Serranos, and garlic are softened and
+    charred, about 5 minutes longer. Transfer to bowl with tomatillos along with any
+    juices and set aside.
+  - "2. Adjust oven rack to middle position and set oven to 375\xB0F. Add chicken\
+    \ stock to bowl with poblanos and peel poblanos while submerged in stock. Transfer\
+    \ flesh to bowl with tomatillos, leaving skin and seeds with the stock. Strain\
+    \ the stock through a fine mesh strainer into the bowl with the tomatillo/pepper\
+    \ mixture. Discard skins and seeds. Add cilantro to mixture. Set mixture aside."
+  - 3. Season chicken pieces on all sides with salt and pepper. Heat oil in a large
+    Dutch oven over high heat until shimmering. Add chicken skin side-down and cook
+    without moving until well browned on first side, about 6 minutes. Flip chicken
+    and continue cooking until lightly browned on second side, about 2 minutes longer.
+    Transfer chicken to a bowl and pour off excess fat from Dutch oven, reserving
+    any brown liquid.
+  - 4. Add tomatillo/pepper mixture to the Dutch oven and scrape up any browned bits
+    from the bottom. Using an immersion blender, puree mixture into a chunky sauce.
+    Season to taste with salt and pepper. Return chicken to pot, bring to a simmer,
+    cover with lid slightly ajar, and simmer until chicken is cooked through, about
+    15 minutes. Meanwhile, wrap tortillas in aluminum foil and place in oven to warm.
+  - 5. When chicken is cooked, remove from heat and transfer chicken to a large bowl
+    using tongs. Allow to rest until cool enough to handle. Shred chicken into thin
+    strips, discarding skin and bones. Add 1 cup of sauce, half of cheese, and half
+    of Mexican crema to chicken and toss to combine. Season to taste with salt and
+    pepper.
+  - 6. Remove tortillas from oven and unwrap. Spread 1/3 of the remaining sauce in
+    the bottom of a 13- by 9-inch casserole dish. Dip each tortilla in the remaining
+    sauce and stack on a cutting board. Working one tortilla at at time, place 2 tablespoons
+    of chicken filling in a line down the center and roll up tightly. Place in the
+    casserole dish seam side-down. Continue until all the tortillas and filling are
+    used (the casserole will be tightly packed).
+  - 7. Spread remaining sauce on top of enchiladas and lay the remaining cheese down
+    in a line through the middle of each row of enchiladas. Cover tightly with aluminum
+    foil and bake for 15 minutes. Remove foil and continue baking until cheese is
+    lightly browned and bubbly, about 10 minutes longer.
+  - 8. Remove enchiladas from oven, drizzle with remaining crema, sprinkle with chopped
+    cilantro, and serve immediately.
+  image_url: https://www.seriouseats.com/recipes/images/2014/12/20141204-chicken-enchilada-verde-food-lab-recipe-26.jpg
+  in_trash: false
+  ingredients:
+  - 3 poblano peppers
+  - 1 large onion, roughly chopped
+  - 1 1/2 pounds tomatillos, husks removed
+  - 2 Serrano peppers
+  - 3 medium cloves garlic
+  - 2 cups homemade or store-bought low-sodium chicken stock
+  - 1 cup loosely packed picked fresh cilantro leaves and fine stems, plus chopped
+    cilantro for garnish
+  - Kosher salt and freshly ground black pepper
+  - 2 pounds bone in, skin-on chicken thighs (see note)
+  - 1 tablespoon vegetable oil
+  - 16 soft corn tortillas
+  - 8 ounces shredded pepper Jack cheese, divided
+  - 1 cup Mexican-style crema, divided (see note)
+  is_pinned: true
+  name: The Best Creamy Chicken Enchiladas
+  notes: some issues did not love the sauce
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: Serves 6
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/12/the-best-chicken-enchiladas-recipe.html
+  total_time: ''
+  uid: 5A33A1B7-0126-4766-B244-9DADF2E46B6E
+- categories: []
+  cook_time: 20 minutes
+  created: '2020-08-25 23:50:59'
+  description: ''
+  difficulty: ''
+  directions:
+  - '1. Make the Cole Slaw: In a large bowl, combine the vinegar, mayonnaise, salt,
+    celery seed, dry mustard, and black pepper. Stir until combined. Add the cabbage,
+    and mix until it is evenly coated in the dressing. Set aside.'
+  - '2. Cook the Hot Dogs: Pour 1/2 cup water into a large skillet set over medium
+    heat. Add the hot dogs. Cook until the hot dogs are thoroughly warmed. If the
+    water has not evaporated, pour any remaining water off. Add one tablespoon of
+    butter. When it has melted, roll the hot dogs around until they are coated in
+    the butter. Cook until the hot dogs are lightly browned on both sides, about 6
+    minutes total. Remove and set aside.'
+  - 3. Add remaining butter to the skillet, then add the buns, cut-side down. Cook
+    until browned, about 1 minute. Rotate the buns. Continue this process until the
+    buns are lightly browned on four sides, about 4 minutes total.
+  - 4. To serve, place one hot dog in each bun. Top all of them with mustard and a
+    few spoonfuls of the slaw. Serve immediately.
+  image_url: https://www.seriouseats.com/recipes/images/2012/11/20121121-231027-dinner-tonight-slaw-dogs-primary.jpg
+  in_trash: true
+  ingredients:
+  - 'For the Coleslaw:'
+  - 3 tablespoons apple cider vinegar
+  - 1/2 cup mayonnaise
+  - 1/2 teaspoon kosher salt
+  - 1/4 teaspoon celery seed
+  - 1 teaspoon dry mustard
+  - 1/4 teaspoon freshly ground black pepper
+  - 1/2 head cabbage, core removed, thinly sliced (about 1 1/2 quarts)
+  - 'For the Hot Dogs:'
+  - 8 hot dogs, preferably with a natural casing
+  - 8 side-split hot dog buns
+  - 1 to 2 tablespoons butter
+  - Mustard, for serving
+  is_pinned: false
+  name: Slaw Dogs with Mustard
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 15 minutes
+  rating: 0
+  scale: null
+  servings: Serves 4 to 6
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2012/11/slaw-dogs-with-mustard-recipe.html
+  total_time: ''
+  uid: 5A939C1A-3A87-4BFB-AE18-4CFA7C9704B5
+- categories:
+  - Salad
+  - Sides
+  cook_time: ''
+  created: '2020-09-07 11:08:07'
+  description: ''
+  difficulty: ''
+  directions: ''
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 4oz - Spring Mix Lettuce
+  - Lemon
+  - Olive oil
+  - Salt/Pepper to taste
+  is_pinned: false
+  name: Simple Salad with Lemon & Olive Oil
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: null
+  prep_time: ''
+  rating: 3
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 5B9D7DFF-7502-4255-ACCC-BE61D19D7D2F-47594-00005AA51FDF28A9
 - categories: []
   cook_time: 20 minutes
   created: '2020-05-16 20:46:32'
@@ -2050,7 +2743,7 @@
   - Open the lid and stir in 1/2 cup parmesan with 1/3 cup chopped parsley. Serve
     with more cheese and garnish with parsley if desired.
   image_url: https://natashaskitchen.com/wp-content/uploads/2019/12/wwfoafrcbwm.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 2 Tbsp olive oil
   - 2 Tbsp unsalted butter
@@ -2127,7 +2820,7 @@
     browned. Drain off any grease. Add in all of the other ingredients. Stir and allow
     to simmer over low heat for 30 minutes.'
   image_url: null
-  in_trash: false
+  in_trash: true
   ingredients:
   - 1 pound ground beef, extra lean
   - 1 cup yellow onion, diced
@@ -2382,6 +3075,88 @@
   total_time: ''
   uid: 6D706652-9AD5-4438-8340-6C39014A18D2
 - categories: []
+  cook_time: 5 hours
+  created: '2020-09-21 16:23:22'
+  description: ''
+  difficulty: ''
+  directions:
+  - "1. Adjust oven rack to lower middle position and preheat oven to 275\xB0F. Add\
+    \ dried chilies to large heavy-bottomed Dutch oven or stock pot and cook over\
+    \ medium-high heat, stirring frequently, until slightly darkened with intense,\
+    \ roasted aroma, 2 to 5 minutes. Do not allow to smoke. Remove chilies to small\
+    \ bowl and set aside. Alternatively, place dried chilies on a microwave-safe plate\
+    \ and microwave on high power in 15-second increments until pliable and toasted-smelling,\
+    \ about 30 seconds total. Transfer to a 2-quart microwave-safe liquid measuring\
+    \ cup or bowl. Add 2 cups chicken broth, cover with plastic wrap, and microwave\
+    \ on high power until gently simmering, about 5 minutes. Remove from microwave\
+    \ and set aside."
+  - 2. Meanwhile, heat 1 tablespoon oil in now-empty Dutch oven over high heat until
+    shimmering. Cook oxtails until well-browned on all sides, about 8 minutes total.
+    Remove oxtails and set aside. Reduce heat to medium.
+  - 3. Add remaining two tablespoons oil and heat along with onions and garlic and
+    cook, stirring frequently, until deep brown and just starting to burn, about 10
+    minutes. Add cumin, cloves, and oregano and cook, stirring constantly until fragrant,
+    about 30 seconds. Add chipotle chilies, vinegar, and remaining chicken broth.
+    Scrape up browned bits from bottom of pan, simmer until reduced by about half,
+    then transfer entire contents to the jar of a blender.
+  - 4. Add soaked chilies and their liquid to the blender along with fish sauce. Start
+    blender on low and slowly increase speed to high. Puree until smooth, about 1
+    minute. Set aside.
+  - 5. Place beef chuck in Dutch oven. Add oxtails, bay leaves, and sauce. Bring to
+    a boil over high heat. Place lid on pot slightly cracked, then transfer to oven.
+    Cook, turning beef occasionally, until completely tender and a cake tester or
+    metal skewer inserted into meat shows little to no resistance, about 4 hours.
+    Discard bay leaves and oxtails (meat from oxtails can be eaten if desired). Transfer
+    chuck to a large plate. Return Dutch oven to stovetop and cook, stirring frequently,
+    over medium-high heat until liquid is reduced to about 1 1/2 cups, about 5 minutes.
+  - 6. Beef can be cut and served immediately, but for best flavor, transfer beef
+    to a sealed container along with liquid and refrigerate up to five days. When
+    ready to serve, slice beef against the grain into 1 1/2- to 2-inch slices, then
+    shred into large chunks with fingers or two forks. Return beef to a pot along
+    with the sauce. Bring to a simmer and cook, gently stirring and folding until
+    beef is hot, tender, and coated in sauce. Season to taste with salt. Serve immediately,
+    piling the beef into warm corn tortillas with onions, cilantro, salsa, limes,
+    or other condiments as desired. Alternatively, serve as-is with rice, noodles,
+    grits, or cornbread.
+  image_url: https://www.seriouseats.com/recipes/images/2012/04/20120423-barbacoa-tacos-primary.jpg
+  in_trash: false
+  ingredients:
+  - "1 whole dried New Mexico, coste\xF1o, or choricero chili, seeds and stem removed\
+    \ (see note)"
+  - 1 whole chile ancho or pasilla, seeds and stem removed (see note)
+  - 1 whole chile negro, seeds and stem removed (see note)
+  - 1 quart low sodium store-bought or homemade chicken stock, divided
+  - 3 tablespoons vegetable or canola oil, divided
+  - 1 pound oxtails
+  - 1 small onion, finely sliced
+  - 6 medium cloves garlic, smashed
+  - 2 teaspoons ground cumin
+  - 1/2 teaspoon ground cloves
+  - 2 teaspoons dried oregano
+  - 4 chipotle chilis packed in adobo, roughly chopped, with 2 tablespoons adobo sauce
+  - 1/4 cup apple cider vinegar
+  - 2 teaspoons fish sauce
+  - 1 whole chuck-eye roast (about 4 pounds), or 4 pounds boneless shortribs
+  - Kosher salt and freshly ground black pepper
+  - 2 whole bay leaves
+  - Kosher salt
+  - Warm corn tortillas, onions, cilantro, salsa, limes, and other condiments for
+    serving
+  is_pinned: false
+  name: Better Than Chipotle's Beef Barbacoa
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: Serves 6 to 10
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2012/04/tender-beef-barbacoa-chipotle-tacos-recipe.html
+  total_time: ''
+  uid: 764CD17D-3885-46CC-A650-985DDFD842D8
+- categories: []
   cook_time: ''
   created: '2019-09-01 18:33:06'
   description: ''
@@ -2528,6 +3303,64 @@
   source_url: https://downshiftology.com/recipes/greek-salad-dressing/
   total_time: ''
   uid: 7D9C6F2C-7FC8-4762-BBF0-C9F14BE4BAEF
+- categories:
+  - Pasta
+  cook_time: 6 hours
+  created: '2020-09-10 23:29:32'
+  description: ''
+  difficulty: ''
+  directions:
+  - "1. Adjust oven rack to lower position and preheat oven to 300\xB0F (165\xB0C).\
+    \ Place tomatoes in a large bowl. Using your hands, crush the tomatoes by squeezing\
+    \ them in your fingers until pieces no larger than 1/2-inch remain. Transfer 3\
+    \ cups of crushed tomatoes to a sealed container and reserve in the refrigerator\
+    \ until step 4."
+  - 2. Heat olive oil and butter over medium heat in a large Dutch oven until butter
+    is melted. Add garlic and cook, stirring, until softened and fragrant but not
+    browned, about 2 minutes. Add pepper flakes and oregano and cook, stirring, until
+    fragrant, about 1 minute. Add tomatoes, carrot, onion, and basil, and stir to
+    combine. Season lightly with salt and pepper. Bring to a simmer over high heat.
+  - 3. Cover Dutch oven with lid slightly ajar and transfer to oven. Cook, stirring
+    once every 1 to 2 hours, until reduced by about half and darkened to a deep red,
+    5 to 6 hours (reduce oven temperature if the sauce is bubbling too rapidly or
+    the browned bits begin to turn too dark).
+  - 4. Remove from oven. Using tongs, discard onion halves, carrots, and basil stems.
+    Add reserved tomatoes to sauce and stir to combine. Add fish sauce, if using.
+    Season generously with salt and pepper and stir in minced herbs along with additional
+    olive oil as desired. Serve immediately, or allow to cool at room temperature,
+    transfer to airtight containers, and refrigerate for up to 1 week. Sauce can also
+    be frozen in sealed containers for up to 6 months. To reheat, warm very gently
+    in a saucepan with 1/2 cup water, stirring until it all melts and heats through.
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 4 (28-ounce) cans whole peeled tomatoes, preferably imported D.O.P. San Marzano
+    tomatoes (see note)
+  - 1/4 cup extra-virgin olive oil, plus more for finishing.
+  - 4 tablespoons butter
+  - 8 cloves garlic, minced (about 3 tablespoons)
+  - 1 teaspoon red pepper flakes
+  - 1 tablespoon dried oregano
+  - 1 medium carrot, cut into large chunks
+  - 1 medium onion, split in half
+  - 1 large stem fresh basil
+  - Kosher salt and freshly ground black pepper
+  - 1 tablespoon fish sauce (optional), such as Red Boat
+  - 1/2 cup minced fresh parsley or basil leaves (or a mix of the two)
+  is_pinned: false
+  name: The Best Slow-Cooked Tomato Sauce Pasta
+  notes: Very good
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 20 minutes
+  rating: 3
+  scale: 1/1
+  servings: About 2 quarts
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/09/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe.html
+  total_time: ''
+  uid: 8203AC0E-D27C-4800-B4E5-641D8D4E09B7
 - categories: []
   cook_time: 18 mins
   created: '2019-10-21 15:47:43'
@@ -2614,7 +3447,7 @@
   - '10: Serve: Spoon sauerkraut on to a large serving plate. Place the chops and
     kielbasa on top of the sauerkraut, sprinkle with fresh parsley.'
   image_url: https://www.simplyrecipes.com/wp-content/uploads/2007/01/stuffed-pork-chops-kielbasa-horiz-1800.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 'Stuffing:'
   - 1 cup finely chopped onion
@@ -2718,38 +3551,35 @@
   description: ''
   difficulty: ''
   directions:
-  - Preheat oven to 375F
-  - 'Cook brown rice '
+  - Preheat oven to 400F
+  - Cook rice by package instructions
   - Cook ground beef
-  - Saute onions until almost translucent and add mushrooms for 10 mins until cooked
-    down
+  - Blanche Bell Peppers for 5 mins or until they have a slight give.
+  - Add to cooked ground beef - saute onions with olive oil until almost translucent
+    and add mushrooms for 10 mins until cooked down
   - Combine yogurt, taco seasoning, black beans, to the cooked rice
-  - Combine ground beef, and onions if you have room.  If not spread each of them
-    separately in the pan.
-  - Cut tops from bell peppers; remove membrane and seeds.  Slice peppers flat into
-    strips.
-  - Layer rice mixture, meat mixture, and green peppers.  Repeat
-  - Bake for 30-40 minutes or until peppers are tender.
-  image_url: null
+  - Combine ground beef, and onions if you have room or use a seperate pan.
+  - Cut tops and bottoms from bell peppers; remove membrane and seeds.  Cut peppers
+    in half to create 2 pieces that can be laid down.  Dice up the top and bottom
+    of the peppers.
+  - Layer rice & meat mixture and green peppers.  Repeat
+  - Bake for 10 minutes and finish with a broil until the top has a crisp.
+  image_url: /images/recipes/EF21C316-C82E-4D90-BF36-7BD18BC38F02-43296-000013B0979A17BA.jpg
   in_trash: false
   ingredients:
   - 2 large green bell peppers
   - 8oz of Mushrooms; diced
   - 1 red onions; diced
-  - 1 lb  ground beef
-  - 1.5 cup  brown uncooked rice
+  - 1 lb ground beef
+  - 1.5 cup uncooked rice
+  - 2 tbsp olive oil
   - '1 packet HOT Taco Seasoning '
-  - 0.5 packet Taco seasoning
+  - 1 - 2 packet Taco seasoning
   - 1 can Black Beans
-  - 18oz  Greek, Non-Fat, Plain Yogurt
+  - 24oz  Greek, Non-Fat, Plain Yogurt
   is_pinned: false
   name: Green Pepper Casserole
-  notes: 'Use a pot at least twice the size for the rice so you can mix the ingrediants
-    together after the fact.
-
-    Did not use enough taco seasoning
-
-    '
+  notes: ''
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: null
@@ -2782,7 +3612,7 @@
     then immediately toss with the mushroom sauce. Add the water if it needs to be
     more substantial. Sprinkle with Parmesan.
   image_url: https://www.seriouseats.com/recipes/images/20080416-pastaz.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 4 tablespoons olive oil
   - 1 clove garlic, minced
@@ -2808,6 +3638,66 @@
   total_time: ''
   uid: 8D853E5B-64A5-4BC8-85C9-DD13B5845D19
 - categories: []
+  cook_time: '20'
+  created: '2020-07-02 17:50:05'
+  description: ''
+  difficulty: ''
+  directions:
+  - "Preheat oven to 350\xBA and butter and flour two 9\" cake pans. Prepare red velvet\
+    \ cake batter according to box instructions."
+  - Divide batter among prepared cake pans and bake until a toothpick inserted in
+    the center comes out clean, 30 to 32 minutes. Let cool slightly in cake pans,
+    then invert onto a wire rack to cool completely. Using a serrated knife, level
+    out tops of the cake so they're flat (save scraps for decorating!).
+  - 'Make cheesecake layer: Line a 9" springform pan with parchment and spray with
+    cooking spray. In a large bowl using a hand mixer or the bowl of a stand mixer
+    fitted with the paddle attachment, beat cream cheese and sugar until fluffy and
+    combined, 3 minutes. Add eggs, one a time, until combined. Add sour cream, flour,
+    vanilla, and salt and beat until combined.'
+  - Pour filling into prepared springform pan and bake until only slightly jiggly
+    in the center, about 1 hour. Let cool slightly, then transfer to the freezer to
+    cool completely and firm up before assembling.
+  - 'Make cream cheese frosting: In a large bowl, beat cream cheese and butter until
+    light and fluffy, then add powdered sugar and vanilla and beat until combined.'
+  - 'Assemble cake: On a cake platter, place one red velvet cake. Top with cheesecake
+    layer, pressing down firmly, then top with second red velvet cake.'
+  - Using an offset spatula, frost cake with cream cheese frosting.
+  - Garnish with red velvet cake crumbs before serving.
+  image_url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-red-velvet-cheesecake-cake-horizontal-1544827804.jpg
+  in_trash: true
+  ingredients:
+  - FOR THE RED VELVET LAYERS
+  - Butter, for cake pans
+  - All-purpose flour, for cake pans
+  - 1 box red velvet cake mix, plus ingredients called for on the box
+  - 'FOR THE CHEESECAKE LAYER:'
+  - 2 8-oz. packages cream cheese, softened
+  - 2/3 c. granulated sugar
+  - 2 large eggs
+  - 1/3 c. sour cream
+  - 1 tbsp. all-purpose flour
+  - 1 tsp. pure vanilla extract
+  - 1/4 tsp. kosher salt
+  - 'FOR THE CREAM CHEESE FROSTING:'
+  - 2 8-oz. packages cream cheese, softened
+  - 1/2 c. (1 stick) butter, softened
+  - 2 1/4 c. powdered sugar
+  - 1 tsp. pure vanilla extract
+  is_pinned: false
+  name: Red Velvet Cheesecake Cake
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: '0'
+  rating: 0
+  scale: null
+  servings: '1'
+  source: Delish.com
+  source_url: https://www.delish.com/cooking/recipe-ideas/recipes/a50687/red-velvet-cheesecake-cake-recipe/
+  total_time: ''
+  uid: 8EB75559-FE34-4606-9AFF-86B36FB796F5
+- categories: []
   cook_time: 8 hours 30 minutes
   created: '2019-12-09 18:54:20'
   description: ''
@@ -2824,12 +3714,6 @@
   - Skim any fat from the cooking juices, place it in a sauce pan, bring to a simmer,
     add the mixture of the cornstarch and water and cook until the glaze has thickened
     a bit.
-  - 'Option: Skip steps 1 & 2 and just place everything into the slow cooker!'
-  - 'Option: Instead of transferring to a slow cooker in step 3, place everything
-    in the pot that you cooked the beef in, bring to a boil, reduce the heat and simmer,
-    covered, until the meat is pull apart tender, about 3-4 hours. OR Transfer the
-    pot to a preheated 275F and braise until the meat is pull apart tender, about
-    3-4 hours.'
   image_url: null
   in_trash: false
   ingredients:
@@ -2840,7 +3724,7 @@
   - 1/2 teaspoon red pepper flakes
   - 1 cup chicken broth
   - 1/2 cup balsamic vinegar
-  - 2 tablespoons soy sauce (or tamari)
+  - 2 tablespoons soy sauce
   - 2 tablespoons brown sugar
   - 1 tablespoon Worcestershire sauce
   - 1 pound baby carrots (optional)
@@ -2848,15 +3732,21 @@
   - 2 tablespoons cornstarch + 2 tablespoons water
   is_pinned: false
   name: Slow Cooker Balsamic Glazed Roast Beef
-  notes: '* Rachael does not like this recipe'
-  nutritional_info: 'Calories 524, Fat 33.6g (Saturated 12.3g, Trans 0), Cholesterol
-    116mg, Sodium 464mg, Carbs 20.9g (Fiber 3.5g, Sugars 6.9g), Protein 32.2g
+  notes: '* Rachael does not like this recipe
 
-    Nutrition by:'
+    Pressure cooker
+
+    * 30 mins + 15 mins on beef was not enough to shred.  Tried chopping it, but I
+    really like shredding better.
+
+    * 15 mins on potatoes was to much and with quick release they got shredded
+
+    * 15 mins on carrots was good'
+  nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: 10 minutes
-  rating: 4
+  rating: 3
   scale: null
   servings: 'Servings: 8'
   source: Closetcooking.com
@@ -2890,7 +3780,7 @@
     can let it sit for a while so the caramelised flavour seeps into the mashed potatoes.
   - Serve with black pepper (optional) and an extra pat of butter.
   image_url: https://jessicainthekitchen.com/wp-content/uploads/2014/11/The-Best-Garlic-Mashed-Potatoes-with-Caramelised-Onions-are-so-creamy-done-in-under-30-minutes-and-are-a-definite-crowd-pleaser-vegan-thanksgiving-mashedpotatoes-30minutes.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 1 lb 8 ounces gold potatoes (aim for small potatoes, and if large cut in half)
   - 1/2 onion, sliced
@@ -2931,7 +3821,7 @@
     for 10-15 more minutes, until the pecans are lightly toasted, cauliflower is well
     browned, and onions are starting to caramelize.
   image_url: https://www.wholesomeyum.com/wp-content/uploads/2017/10/www.wholesomeyum.com-low-carb-paleo-cauliflower-stuffing-recipe-1.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 1 large head Cauliflower (cut into small florets)
   - 1 large Onion (sliced)
@@ -3032,64 +3922,159 @@
   description: ''
   difficulty: ''
   directions:
-  - "Press the \u201CSaut\xE9\u201D function on your Instant Pot, set to high (timer:\
-    \ 10 minutes). Add a splash of vegetable oil. While it heats, season the cubed\
-    \ beef with salt and pepper. When the oil is hot, brown the beef in batches. Remove\
-    \ the beef to a plate, and add the diced onion and thyme sprigs to the pot. Sprinkle\
-    \ the onion with a pinch of salt and stir it around, scraping up browned bits\
-    \ from the bottom, 1-2 minutes."
-  - "Return the beef and any juices to the pot. Add the mushrooms. Sprinkle over the\
-    \ flour, onion and garlic powders, mushroom umami powder if using, and a few good\
-    \ grinds of black pepper. Stir everything together until the flour disappears.\
-    \ Add the beef stock and Worcestershire sauce and stir to incorporate. Press \u201C\
-    Cancel.\u201D"
-  - "Clamp on the lid and press \u201CPressure Cook\u201D on high, setting timer for\
-    \ 20 minutes."
-  - "Once the 20 minutes are up, use a long wooden spoon to carefully flip the valve\
-    \ to \u201CVenting\u201D to release the steam. Be careful\u2014a steam geyser\
-    \ will shoot out of the top and you don\u2019t want your arm anywhere near it."
-  - "With the lid off, press \u201CSaut\xE9\u201D again to simmer the sauce down a\
-    \ little if it seems soupy. Once reduced to your liking, hit \u201CCancel\u201D\
-    \ and let the beef mixture cool a little. Taste to see if you\u2019d like more\
-    \ pepper or salt or Worcestershire sauce\u2014you might even consider a splash\
-    \ of soy sauce\u2014and stir in any if needed. Add the sour cream and stir gently\
-    \ but thoroughly to mix in. The sauce should be the tawny color of baby owls."
+  - Cut the beef chuck roast to a thickness of 1 inch into slabs and season with salt
+    and pepper.
+  - Heat oil in a pan over medium high heat and brown the slabs of beef (approx 5
+    mins per side).  Once done cut into approximately 1 inch cubes.
+  - Saute onions and thyme sprigs until soft and starting to brown over medium heat.
+  - Toss into the pressure cooker beef, beef juices, onions, thyme, mushrooms, flour,
+    chicken stock, Worcestershire, soy sauce, garlic powder, and salt and pepper and
+    stir.
+  - Pressure cook on high for 20 minutes and afterwards quick release.
+  - Begin cooking the egg noodles following the directions.  When complete drain and
+    add butter and stir to combine.
+  - To get desired thickness mix corn starch with water and pour into the pressure
+    cooker while stirring.  Apply heat to pressure cooker to return to a boil for
+    5 mins to set the corn starch.
+  - Turn off heat and allow to cool for 5 to 10 minutes.  Mix in sour cream.
+  - Season to taste with additional salt, pepper, soy sauce and Worcestershire sauce.
   - Ladle your Stroganoff over buttered egg noodles and sprinkle with parsley or chives.
-  image_url: https://i.kinja-img.com/gawker-media/image/upload/s--Q-WfRQxy--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/odz1yrmv2nbpovmfmnav.jpg
+  image_url: /images/recipes/D79EE026-8F5E-40E5-BC6D-E0CE542DF89C-53322-000030E5619E536E.jpg
   in_trash: false
   ingredients:
-  - 1 1/2 lbs. beef chuck roast, trimmed of any large blocks of fat and cut into one-inch
-    cubes
+  - 1.5 lbs beef chuck roast trimmed
   - 1 cup diced onion (half of a large onion)
-  - "2 packages (8 oz.) mushrooms (one button mushroom, one \u201Cwild\u201D variety,\
-    \ cleaned and quartered or thickly sliced if large. If mushrooms are small, trim\
-    \ stalk ends, but leave intact"
+  - 8 oz white mushrooms, sliced or quartered
+  - 8 oz crimini mushrooms, sliced or quartered
   - 1 sprig of thyme (3-4 slim stalks)
-  - 2 Tbsp. all-purpose flour
-  - 2 cups beef broth or stock, preferably low-sodium
+  - 2 tbsp all-purpose flour
+  - 1 tbsp corn starch
+  - 2 tbsp butter
+  - 1.5 cups low sodium chicken stock
   - 1 tsp. onion powder
   - 1 tsp. garlic powder
-  - "1 tsp. Trader Joe\u2019s Umami Seasoning Powder (optional)"
-  - 2 Tbsp. Worcestershire sauce
+  - 2 tbsp Worcestershire sauce
+  - 2 tbsp Soy sauce
   - 1 cup full-fat sour cream
   - Vegetable oil
   - Salt and black pepper
-  - Cooked egg noodles with a pat of butter stirred in
-  - Minced parsley or chives to garnish
+  - 12 oz egg noodles
+  - chives to garnish
   is_pinned: false
-  name: Use an Instant Pot to Turn Beef Stroganoff Into Pot Roast Stroganoff
+  name: Simple pressure cooker Beef Stroganoff
   notes: ''
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: 10-15 minutes
-  rating: 0
+  rating: 3
   scale: null
   servings: Serves 4
   source: Thetakeout.com
   source_url: https://thetakeout.com/recipe-how-to-make-beef-stroganoff-instant-pot-1834875387
   total_time: ''
   uid: 9D0B96DE-6EB0-4DF6-BC75-C5D705B6578E
+- categories: []
+  cook_time: 6 hours
+  created: '2020-06-20 02:06:22'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Combine flour, yeast, salt, and sugar in the bowl of a stand mixer and whisk
+    until combined. Add yogurt and knead with dough hook on low speed until dough
+    comes together into a smooth ball. Dough should stick slightly to bottom of bowl
+    as it kneads (add slightly more yogurt or milk as necessary). Continue to knead
+    for 5 minutes. Cover tightly with plastic wrap and allow to rise at room temperature
+    until roughly doubled in volume, about 2 hours.
+  - 2. Turn dough out onto floured work surface. Using a bench scraper or a knife,
+    cut the dough into 12 even pieces. Roll each piece into a ball, then place on
+    a well-floured surface (leaving a few inches of space between each one) and cover
+    with a floured cloth. Alternatively, place each ball of dough in an individual
+    covered pint-sized deli container. Allow dough to rise at room temperature until
+    doubled in volume, about 2 hours.
+  - 3. Ignite a large chimney full of coals (about 5 quarts of coals) and spread evenly
+    over half of the grill. Set grill grates in place, cover, and allow to preheat
+    for 5 minutes. Scrape grill grates clean with a brush.
+  - 4. Working with two to three balls of dough at a time, stretch with your hands
+    into an oblong roughly 10-inches long and 6-inches across (you can use a rolling
+    pin for this as well). Once you have two or three pieces stretched, lay them out
+    on the grill above the coals. Cook without moving until bottom side is charred
+    in spots and light golden brown. Flip with a large spatula, pizza pell, or with
+    tongs and cook until second side is charred and browned. Remove naan from the
+    grill and immediately brush with melted butter. Transfer the naan to a large plate
+    and cover it with a clean dish towel while you cook the remaining bread.
+  image_url: https://www.seriouseats.com/recipes/images/2011/08/20110803-grilled-naan-primary.jpg
+  in_trash: false
+  ingredients:
+  - 22 ounces (about 4 cups) bread flour
+  - 0.25 ounces (1 packet, about 2 teaspoons) instant or rapid rise yeast
+  - 0.44 ounces salt (about 2 1/2 teaspoons) salt
+  - 0.8 ounces (about 2 tablespoons) sugar
+  - 14 ounces (about 1 3/4 cups) full fat yogurt or whole milk
+  - 1 stick butter, melted
+  is_pinned: false
+  name: Grilled Naan
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 1 hour
+  rating: 0
+  scale: null
+  servings: 12 pieces
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2011/08/grilled-naan-recipe.html
+  total_time: ''
+  uid: 9D87404F-0CD9-4830-8AA1-8B8F75546429
+- categories: []
+  cook_time: ''
+  created: '2020-07-30 12:36:53'
+  description: ''
+  difficulty: ''
+  directions:
+  - Preheat the oven to 350 degrees F. Spray a square (8in) baking dish with non stick
+    spray and place eggplant on the bottom of the dish. Set aside.
+  - Brown the ground beef(does not need to fully cook) in a skillet and reuse the
+    fat for the next step
+  - Add onion and saute for 2 mins
+  - Add mushrooms and saute for 5 mins
+  - Add the tomato paste, allspice, cinnamon and dried oregano and mix to incorporate
+    saute for 5 mins
+  - Add ground beef and incorporate
+  - Puree the cottage cheese in a blender
+  - In a baking dish lay down a layer of egg plant, layer the ground beef mixture,  add
+    another egg plant layer, top with shredded mozzarella cheese.
+  - Bake for 20 mins or until cheese on top is golden brown
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 1 large Eggplant, sliced crosswise 1/4 inch thick
+  - 1  onion, chopped
+  - 8oz mushrooms, chopped
+  - 6 clove garlic, finely chopped
+  - 12oz Tomato paste
+  - 2 lbs lean ground beef (91% lean)
+  - 3 cup 2% low fat cottage cheese
+  - 1 cup shredded part skim shredded mozzarella cheese
+  - 1 teaspoon allspice
+  - 1 teaspoon cinnamon
+  - 2 teaspoon black pepper
+  - 2 teaspoon dried oregano
+  - Salt to taste
+  is_pinned: false
+  name: Moussaka
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: null
+  prep_time: ''
+  rating: 3
+  scale: ''
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 9EC8FA98-8639-47D7-B522-6CA0555D7075-30573-00002814A3EED5BC
 - categories:
   - Pork
   cook_time: 8 hrs
@@ -3134,6 +4119,90 @@
   source_url: https://www.allrecipes.com/recipe/73634/colleens-slow-cooker-jambalaya/
   total_time: ''
   uid: 9F3E2778-9060-4641-9CF6-B5BD1EAA4D7F
+- categories: []
+  cook_time: 1 minute
+  created: '2020-10-06 21:40:09'
+  description: ''
+  difficulty: ''
+  directions:
+  - Place the cucumbers in a colander and sprinkle the salt over them.
+  - Toss to coat the cucumber slices in salt. Let sit 10 minutes.
+  - Use a paper towel to blot the cucumber slices dry.
+  - Place the rice vinegar and sugar in a small bowl. Microwave for 30 seconds and
+    stir until sugar is dissolved.
+  - Place the cucumbers and red onion in a large bowl, then pour the rice vinegar
+    mixture over the top.
+  - Add the cilantro to the cucumber mixture and stir until combined. Cover and refrigerate
+    for at least 20 minutes, or up to 24 hours.
+  - Sprinkle the peanuts over the top, then serve.
+  image_url: https://www.dinneratthezoo.com/wp-content/uploads/2017/02/thai-cucumber-salad-13.jpg
+  in_trash: true
+  ingredients:
+  - 1 lb cucumbers, peeled and thinly sliced I prefer the small persian cucumbers
+  - 2 teaspoons salt
+  - 1/4 cup thinly sliced red onion
+  - 1/2 cup rice vinegar
+  - 1/4 cup sugar
+  - 1/4 cup chopped fresh cilantro
+  - 1/3 cup chopped peanuts
+  is_pinned: true
+  name: Thai Cucumber Salad
+  notes: ''
+  nutritional_info: 'Calories 143kcal
+
+    Calories: 143kcal | Carbohydrates: 26g | Protein: 2g | Fat: 3g | Saturated Fat:
+    1g | Sodium: 891mg | Fiber: 1g | Sugar: 12g'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 25 minutes
+  rating: 0
+  scale: null
+  servings: ''
+  source: Dinneratthezoo.com
+  source_url: https://www.dinneratthezoo.com/thai-cucumber-salad/
+  total_time: ''
+  uid: 9F4D3363-D098-49AB-B61E-216634B3E585
+- categories: []
+  cook_time: 30 minutes
+  created: '2020-08-05 16:38:50'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Using a mortar and pestle, combine garlic and sea salt and grind to a paste.
+  - 2. Add pine nuts and continue to crush with pestle, smashing and grinding them,
+    until a sticky, only slightly chunky, beige paste forms.
+  - 3. Add basil leaves, a handful at a time, and pound and grind against the walls
+    of the mortar. Continue until all basil leaves have been crushed to fine bits.
+  - 4. Add both cheeses, then slowly drizzle in olive oil, working it into the pesto
+    with the pestle until a fairly smooth, creamy, emulsified, sauce forms. Add more
+    oil, if desired.
+  - 5. Pesto can be served with pasta right away, or transferred to a jar or container,
+    covered with a small layer of olive oil, sealed, and refrigerated overnight.
+  image_url: https://www.seriouseats.com/2018/08/20180731-pesto-reshoot-vicky-wasik-10-.jpg
+  in_trash: false
+  ingredients:
+  - 2 medium cloves garlic
+  - Coarse sea salt, as needed
+  - 3 ounces basil leaves (from about a 4-ounce bunch), washed with water still clinging
+    to the leaves
+  - 2 tablespoons (30g) pine nuts
+  - 3/4 ounce (about 2 tablespoons) grated Parmigiano Reggiano
+  - 3/4 ounce (about 2 tablespoons) Pecorino Fiore Sardo (see note)
+  - 3/4 cup (175ml) mildly flavored extra-virgin olive oil
+  is_pinned: false
+  name: The Best Pesto Alla Genovese (Classic Basil Pesto Sauce)
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 30 minutes
+  rating: 0
+  scale: null
+  servings: Enough for 4 servings
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/07/best-pesto-recipe.html
+  total_time: ''
+  uid: A37EF484-CC6E-4943-9517-F1C5660FE922
 - categories:
   - Salad Dressing
   cook_time: 3 minutes
@@ -3235,7 +4304,7 @@
     minute on other side. Place the breasts on the prepared baking sheet.                                                      '
   - 4. Bake in the preheated oven until at 160 degrees
   image_url: null
-  in_trash: false
+  in_trash: true
   ingredients:
   - 3 teaspoon paprika
   - ' 1 teaspoon salt '
@@ -3390,7 +4459,13 @@
   - Salt to taste I used 1/2 tbsp of course ground salt
   is_pinned: false
   name: Vegan Layer Bean Dip
-  notes: ''
+  notes: 'specify to soak cashews
+
+    mix cilantro into quinoa layer instead of topping
+
+    quinoa layer needed a little more kick
+
+    canned refried beans work great'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
@@ -3480,7 +4555,8 @@
   - 'Heat 1.5 tsp sesame oil in a large nonstick skillet over medium-high heat. '
   - "Add 2/3rds green onions, 2 cloves garlic, lemongrass, and ginger; saut\xE9 1\
     \ minute. "
-  - "Add chicken, bell pepper, and peas; saut\xE9 2 minutes. "
+  - "Add chicken, bell pepper saut\xE9 2 minutes. "
+  - "Add snap peas and saut\xE9 2 more minutes"
   - 'Stir in barley mixture, juice mixture, and milk; bring to a boil. '
   - 'Reduce heat; simmer 5 minutes or until sauce thickens, stirring occasionally. '
   - 'Stir in 1/2 cilantro. '
@@ -3512,28 +4588,124 @@
   - 4 tsp chopped peanuts
   is_pinned: false
   name: Thai Chicken Barley Risotto
-  notes: 'don''t pull the chicken make sure to cut it
+  notes: '
+
+    Next round
+
+    * used 3 tbsp red curry when doulbling recipe
+
+    * used all chicken breasts in a 4 lb package minus 3
+
+    * slightly to hot... use less jalepnos or de-seed
+
+    * slightly to much lime.. only had half and add the rest to taste
+
+    * don''t use 2 cans of coconut milk for double the recipe... it should be 16oz
+
+    * cook red peppers prior to snap peas as the peas will turn brown if cooked to
+    long
 
 
-    make sure  not use a ton of chicken
+    * instapot for chicken.. should I skillet it and bake it? or skillet and instapot
+    it?... I don''t don''t pull it.. so no instapot?
 
 
-    recipe heavily modified
 
+    Last batch
 
-    last time 3 lbs of chicken and 1 cup of pearled barley... way to much chicken
-    to barley ratio'
+    * only used half of the lemon grass as I did not have enough
+
+    * used 3 tbsp of curry paste'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: ''
   rating: 3
-  scale: 1/1
+  scale: 2/1
   servings: '4'
   source: Myrecipes.com
   source_url: https://www.myrecipes.com/recipe/thai-chicken-barley-risotto
   total_time: ''
   uid: B5DDF9D4-B24A-4C28-B46F-0C7375D3B6FB
+- categories: []
+  cook_time: 1 hour 45 minutes
+  created: '2020-06-20 02:05:20'
+  description: ''
+  difficulty: ''
+  directions:
+  - '1. For the Marinade: Heat 1 tablespoon ghee in a heavy bottomed saucepan over
+    medium heat until shimmering. Add half of the onion and cook, stirring, until
+    brown browned, about 10 minutes. Transfer to a bowl. In a large bowl, combine
+    yogurt, turmeric, green chillies, ginger, garlic, 1 tablespoon ground cumin, 1
+    tablespoon ground coriander, chilli powder, and 2 teaspoons salt. Roughly chop
+    the onions and add to the mix. Add the lamb, mix well to coat, and refrigerate
+    at least 2 hours and up to overnight.'
+  - '2. For the gravy: When ready to cook, add the remaining ghee to the heavy bottomed
+    saucepan and heat over medium heat until shimmering. Add the potatoes and cook,
+    turning occasionally, until golden brown, about 10 minutes. Transfer to a plate.
+    Add remaining onions and cook, stirring, until golden brown, about 10 minutes.
+    Add 2 bay leaves, cloves, cinnamon, star anise, black cardamom, peppercorns, fennel
+    seeds. Cook, stirring, until fragrant, about 2 minutes. Add the crushed tomatoes
+    and cook until the oil separates from the tomatoes, bout 4 minutes. Add the garam
+    masala and stir for 1 minute.'
+  - 3. Add half of the cilantro and the marinated lamb (discard excess marinade).
+    Add 1 cup of water and stir to combine. Bring to a boil, reduce to a bare simmer,
+    cover, and cook until lamb is completely tender, about 3 hours. (See note.)
+  - 4. Meanwhile, bring a large pot of water to a boil. Add lime juice and remaining
+    2 bay leaves. Season well with salt. Add rice and cook until almost tender. Drain
+    well and spread on a plate to dry.
+  - '5. To Asemble: Add remaining tablespoon ghee to a large Dutch oven and spread
+    evenly over bottom. Add a 2 inch layer of rice. Next add the lamb gravy and sprinkle
+    some coriander leaves. Add another layer of rice, lamb gravy and coriander, repeating
+    until all of the rice and lamb is used up, finishing with a layer of rice. Cover
+    and place the dutch oven on low heat. Cook until the rice is fragrant and completely
+    cooked, about 20 minutes. Serve immediately.'
+  image_url: https://www.seriouseats.com/recipes/images/2014/02/2014.20.02%20Indian%20Lamb%20Biryani.jpg
+  in_trash: false
+  ingredients:
+  - 'For the Marinade:'
+  - 3 tablespoons ghee (clarified butter)
+  - 6 finely sliced medium onions (about 6 cups), divided
+  - 1 1/2 pounds cubed lamb shoulder (see note)
+  - 2 cups whole milk yogurt
+  - 2 hot green chilies (such as Serrano or Thai)
+  - 1 teaspoon turmeric powder
+  - 1 tablespoon grated fresh ginger
+  - 1 tablespoon grated fresh garlic (about 3 medium cloves)
+  - 2 tablespoons toasted and ground cumin seeds, divided
+  - 2 tablespoons toasted and ground coriander seeds, divided
+  - 1 1/2 tablespoons red chilli powder
+  - Kosher Salt
+  - 'For the Sauce:'
+  - 2 medium potatoes, quartered
+  - 4 dry bay leaves, divided
+  - 5 cloves
+  - 2 inch piece of cinnamon broken into shards
+  - 2 star anise pods
+  - 1 black cardamom pod
+  - 2 mace petals
+  - 5 black peppercorns
+  - 2 teaspoons whole fennel seed
+  - 1 cup crushed tomatoes
+  - 1 tablespoon garam masala powder
+  - 1 cup fresh cilantro leaves, chopped, divided
+  - 'For the Rice:'
+  - 2 1/2 cups Basmati rice
+  - 1 teaspoon juice from 1 lime
+  is_pinned: false
+  name: Lamb or Chicken Biryani
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: prep 15 minutes, cooking time 1 hour 30 mins
+  rating: 0
+  scale: null
+  servings: Serves 4
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/02/beyond-curry-lamb-biryani-recipe.html
+  total_time: ''
+  uid: B5EE4F0C-5216-46E1-9928-1BB6BEB59367
 - categories:
   - Sides
   cook_time: ''
@@ -3579,43 +4751,42 @@
   source_url: ''
   total_time: ''
   uid: B61BD99E-6EBE-45FE-8E4E-E8BB12084FFB-12081-00041F1623B03574
-- categories: []
+- categories:
+  - Pasta
   cook_time: ''
   created: '2020-01-21 01:17:27'
   description: ''
   difficulty: ''
   directions:
-  - Bring a large pot of salted water to a boil. Add the pasta and cook until al dente,
-    7 to 9 minutes or according to package instructions. Meanwhile, cook the mushrooms.
-  - "Heat 1 tablespoon of the butter and the oil in a large skillet over medium heat\
-    \ until shimmering. Add the mushrooms, season with salt and pepper, and saut\xE9\
-    \ until browned and tender, about 5 minutes. Add the garlic, red pepper flakes\
-    \ if using, and remaining 2 tablespoons butter and saut\xE9 for 1 minute more."
-  - When the pasta is ready, reserve 3/4 cup of the cooking water, then drain the
-    pasta. Add the pasta, reserved cooking water, and cheese to the skillet. Toss
-    over medium heat until the cheese is melted and the sauce thickens and coats the
-    pasta, about 2 minutes. Add the parsley and toss to combine. Serve in shallow
-    bowls with more cheese for serving.
+  - 'Bring a large pot of salted water to a boil. Add the pasta and cook until al
+    dente, 7 to 9 minutes or according to package instructions. '
+  - "Cooking the mushrooms in 2 to 3 batches. Heat 1 tablespoon of the butter and\
+    \ the oil in a large skillet over medium heat until shimmering. Add the mushrooms,\
+    \ season with salt and pepper, and saut\xE9 until browned and tender, about 5\
+    \ minutes. Repeat until all mushrooms are cooked."
+  - "Add all mushrooms to the pan and add the garlic, red pepper flakes, and remaining\
+    \ 2 tablespoons butter and saut\xE9 for 1 minute more."
+  - 'When the pasta is ready, reserve 3/4 cup of the cooking water, then drain the
+    pasta. '
+  - Add the pasta, reserved cooking water, and cheese to the skillet. Toss over medium
+    heat until the cheese is melted and the sauce thickens and coats the pasta, about
+    2 minutes. Add the parsley and toss to combine. Serve in shallow bowls with more
+    cheese for serving.
   image_url: null
   in_trash: false
   ingredients:
-  - 1 pound dried spaghetti
-  - 3 tablespoons unsalted butter, divided
-  - 1 tablespoon olive oil
-  - 1 pound crimini mushrooms, sliced
-  - Kosher salt
-  - Freshly ground black pepper
+  - 1 lb dried spaghetti
+  - 5 tbsp unsalted butter, divided
+  - 3 tbsp olive oil
+  - 1.5 lb crimini mushrooms, sliced
   - 6 cloves garlic, minced
-  - 1/4 teaspoon red pepper flakes (optional)
-  - 1/2 cup grated Pecorino Romano cheese, plus more for serving
+  - '1/2 teaspoon red pepper flakes '
+  - 2/3 cup grated Pecorino Romano cheese, plus more for serving
   - 2 tablespoons coarsely chopped fresh parsley leaves
+  - Salt and Pepper to taste
   is_pinned: false
-  name: Mushroom and Garlic Spaghetti Dinner
-  notes: 'consider more mushrooms
-
-    Also split the mushrooms up into batches so they don''t steam
-
-    might need more butter'
+  name: Mushroom and Garlic Spaghetti Pasta
+  notes: Chicken works as a good addition.  Look into making it slightly less dry
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
@@ -3627,6 +4798,144 @@
   source_url: https://www.thekitchn.com/recipe-mushroom-and-garlic-spaghetti-dinner-243627?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
   total_time: ''
   uid: B64B777F-DADE-4845-A3EC-71D96BFF1189
+- categories: []
+  cook_time: 45 minutes
+  created: '2020-07-13 16:04:42'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Sprinkle gelatin over chicken stock in a small bowl or liquid measuring cup.
+    Set aside. Bring a large pot of salted water to a boil.
+  - "2. Combine 1 tablespoon salt, 1 teaspoon pepper, and half of paprika in a small\
+    \ bowl. Season steaks generously on all sides with mixture (you may not need all\
+    \ the mixture) and press with the flat of your hand to adhere. Heat half of vegetable\
+    \ oil in a large skillet or saut\xE9 pan over high heat until lightly smoking.\
+    \ Add meat and cook, turning occasionally, until well browned on both sides and\
+    \ center of steaks register 115\xB0F at the thickest part for rare or 125\xB0\
+    F for medium-rare. Remove from pan, transfer to a plate, and set aside."
+  - 3. Add remaining vegetable oil to the same pan and add the mushrooms. Return to
+    medium heat and cook, stirring and tossing frequently, until mushrooms have released
+    their liquid and are just starting to brown, about 8 minutes. Add 1 tablespoon
+    butter and pearl onions and continue to cook, stirring, until onions and mushrooms
+    are softened and well browned, about 6 minutes longer.
+  - 4. Add shallots, thyme, and remaining paprika, and cook, stirring, until fragrant.
+    Add soy sauce, Worcetershire sauce, fish sauce, and mustard and cook, stirring,
+    until mostly evaporated, about 30 seconds. Add any collected juices from the plate
+    with the meat, followed by white wine. Cook until reduced to just a few tablespoons.
+  - 5. Add broth/gelatin mixture and bring to a heavy simmer. Carefully pour off liquid
+    into a heatproof cup or liquid measuring cup. Add sour cream to a medium bowl.
+    Whisking constantly, slowly pour hot liquid over sour cream and whisk until fully
+    homogenous.
+  - 6. Return sour cream mixture to pan along with remaining 2 tablespoons butter.
+    Bring to a boil over medium-high heat and season to taste with salt and pepper.
+    Return steaks to pan until barely warmed through, about 1 minute. Remove from
+    heat.
+  - 7. Cook noodles according to package directions. When cooked, drain and return
+    to pot, reserving 1 cup of pasta cooking water. Transfer steaks to a cutting board
+    and pour the sauce, mushrooms, and onions over the noodles. Stir to coat pasta,
+    adding pasta cooking water as necessary until it reaches a loose, creamy consistency.
+    Stir in half of minced parsley.
+  - 8. Thinly slice steaks. To serve, divide pasta and cream sauce evenly between
+    4 hot serving bowls. Top with sliced steak, spooning a little extra sauce over
+    them. Add a dollop of sour cream, sprinkle with remaining parsley, and serve,
+    advising guests to remove large thyme sprigs as they find them.
+  image_url: https://www.seriouseats.com/recipes/images/2014/12/20150110-beef-stroganoff-food-lab-28.jpg
+  in_trash: false
+  ingredients:
+  - 2 (.25 ounce) packets unflavored powdered gelatin (about 5 teaspoons)
+  - 2 cups homemade or store-bought low-sodium chicken stock
+  - Kosher salt and freshly ground black pepper
+  - 2 tablespoons mild paprika
+  - 4 (1 1/2- to 2-inch thick) beef tenderloin steaks, 6 to 8 ounces each (see note)
+  - 3 tablespoons canola or vegetable oil
+  - 12 ounces button mushrooms, quartered
+  - 8 ounces peeled pearl onions (about 24 onions, see note)
+  - 3 tablespoons unsalted butter, divided
+  - 1 medium shallot, thinly sliced (about 1/4 cup)
+  - 4 sprigs fresh thyme
+  - 1 teaspoon soy sauce
+  - 2 teaspoons Worcestershire sauce
+  - 1 teaspoon Asian fish sauce
+  - 2 teaspoons Dijon mustard
+  - 1 cup dry white wine
+  - 1 cup sour cream, plus more for serving
+  - 1 pound dried egg noodles
+  - 1/4 cup minced fresh parsley leaves
+  is_pinned: false
+  name: The Ultimate Beef Stroganoff
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: Serves 4
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2015/01/ultimate-beef-stroganof-recipe.html
+  total_time: ''
+  uid: BC3C4F7F-65C3-4644-A91C-D4A6EC2E7D88
+- categories: []
+  cook_time: 14-16 hours
+  created: '2020-09-04 01:11:06'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. In a large container, whisk together 2 quarts water and salt until salt has
+    dissolved. Add beans, cover, and let stand overnight at room temperature. Drain
+    and rinse beans.
+  - 2. Place a large dutch oven over medium-high heat. Add bacon and cook until fat
+    has rendered and bacon has crisped, 7-10 minutes. Transfer bacon to a paper towel-lined
+    plate, leaving as much fat in dutch oven as possible.
+  - "3. Add onion to dutch oven and cook, stirring occasionally, until onion softens\
+    \ and begins to brown around the edges, about 7 minutes. Stir in green pepper,\
+    \ jalape\xF1o, and garlic and cook until fragrant, about 1 minute. Stir in 3 cups\
+    \ of water, chicken stock, reserved bacon, and beans. Bring to a boil, then reduce\
+    \ heat to low and simmer for 1 hour. Preheat oven to 300\xB0F while beans are\
+    \ simmering."
+  - 4. Stir in ketchup, brown sugar, honey, molasses, mustard, vinegar, barbecue rub,
+    and hot sauce. Cover and transfer to oven. Cook beans for 4 hours, stirring occasionally.
+    Remove cover and cook until beans are tender throughout and sauce has thickened,
+    about 1 hour longer. Remove from oven and let cool for 15 minutes. Season with
+    salt. Serve immediately; alternatively, store in an airtight container in the
+    refrigerator for up to 1 week, or freeze. Reheat before serving.
+  image_url: https://www.seriouseats.com/recipes/images/2014/05/20140530-294420-best-bbq-beans.jpg
+  in_trash: true
+  ingredients:
+  - Water
+  - 2 tablespoons kosher salt
+  - 1 pound small dried beans, such as great northern, navy, or pinto beans, picked
+    over and rinsed
+  - 8 ounces sliced bacon, cut into 1/2-inch strips
+  - 1 1/2 cups finely minced yellow onion (about 1 large onion)
+  - "2 tablespoons finely diced seeded jalape\xF1o (about 1 medium pepper)"
+  - 1/4 cup finely diced green bell pepper
+  - 1 tablespoon minced garlic (about 3 medium cloves)
+  - 2 cups chicken stock or low-sodium broth
+  - 1 1/2 cups ketchup
+  - 2/3 cup dark brown sugar
+  - 1/3 cup honey
+  - 1/4 cup molasses
+  - 2 tablespoons yellow mustard
+  - 1 tablespoon apple cider vinegar
+  - 1 tablespoon barbecue rub
+  - 1 tablespoon hot sauce
+  is_pinned: false
+  name: The Best Barbecue Beans
+  notes: 'doubled green pepper
+
+    trippled jalapeno - just 2 peppers, but over half a cut'
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 30 minutes
+  rating: 0
+  scale: null
+  servings: Serves 6-8 as a side dish
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/06/best-barbecue-beans-recipe.html
+  total_time: ''
+  uid: BE71B4F3-F9B1-4469-81E1-EF5E398FE494
 - categories: []
   cook_time: 1 hr 10 min
   created: '2019-09-03 18:29:21'
@@ -3696,6 +5005,52 @@
   source_url: https://www.melskitchencafe.com/homemade-spaghetti-sauce-perfected/
   total_time: ''
   uid: C0AA1D8E-9FE0-4411-B794-6DDB418E0F53
+- categories:
+  - Desserts
+  cook_time: 10 mins
+  created: '2020-06-08 19:23:49'
+  description: ''
+  difficulty: ''
+  directions:
+  - "In a large bowl, sprinkle \xBD cup of sugar over all berries and let sit for\
+    \ an hour or so."
+  - 'Make Caramel Dust:'
+  - Line a rimmed baking sheet with Silpat or coat with cooking spray
+  - Bring to boil sugar over medium heat
+  - "Swirl (don\u2019t stir) in pan over high heat until sugar is dissolved, then\
+    \ cook till a caramel color, being careful not to burn"
+  - Pour onto prepared baking sheet to harden (~1hr) then break into shards
+  - Put in a food processor and pulse till finely ground, then run through a sieve
+    to make dust
+  - Whip cream to medium peaks with powdered sugar.
+  - Fold in mint and two tablespoons of Grand Marnier to berries.
+  - Place berries in a serving bowl, top with cream and dust to finish!
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 1 c each raspberries, blackberries, blueberries, strawberries
+  - "\xBD c of sugar"
+  - Handful of fresh mint leaves, julienned
+  - 2 tbl Grand Marnier
+  - 'Caramel Dust:'
+  - 1/2 c white sugar
+  - 'Cream:'
+  - 1 c heavy whipping cream
+  - "\xBC c powdered sugar"
+  is_pinned: false
+  name: Berries and Cream
+  notes: More sugar
+  nutritional_info: ''
+  on_favorites: true
+  on_grocery_list: false
+  prep_time: 2 hrs
+  rating: 3
+  scale: ''
+  servings: '6'
+  source: Thechefshow.com
+  source_url: https://thechefshow.com/recipes/berries-and-cream
+  total_time: ''
+  uid: C1F03813-4342-4FD9-8443-87BA89922544
 - categories:
   - Sides
   cook_time: ''
@@ -3779,7 +5134,6 @@
   uid: C609D14B-C2F9-4AC3-B527-39AFC078205C-64411-0000B17E4C603D13
 - categories:
   - Low Carb
-  - Pork
   cook_time: ''
   created: '2019-10-15 09:45:04'
   description: ''
@@ -3788,33 +5142,15 @@
   image_url: null
   in_trash: false
   ingredients:
-  - 35 oz  collard
-  - 1 lb.  sausage
-  - 3 lb  ground beef
-  - 1  yellow or white onion (sliced)
-  - 26 oz  chicken broth (organic with no MSG)
-  - 4 tblsp  curry powder
-  - 1 dash  pepper
-  - 1 dash  thyme
-  - Take 2 (4000 calories)
-  - 600g Collard Greens
-  - 3lb Chicken
-  - 3 lb 93% ground beef
-  - 2 medium red onions
-  - 36oz chicken broth
-  - 4 tblsp curry powder
-  - dash of pepper
-  - dash of thyme
-  - Take 3
   - 250g collard greens
-  - 200g kale
-  - 2 lb 93% ground beef [226675]
-  - 2 medium red onions
-  - 32oz chicken broth (organic with no MSG) [6413]
-  - 4 tblsp curry powder
+  - 16 oz kale
+  - 2 lb 80% ground beef
+  - 2  red onions
+  - '32oz chicken stock '
+  - 6 tbsp curry powder
   - dash of pepper
   - dash of thyme
-  - 2.8lb Chicken [72163]
+  - 3 lb Chicken
   is_pinned: false
   name: Collard Green Soup
   notes: ''
@@ -3822,7 +5158,7 @@
   on_favorites: false
   on_grocery_list: null
   prep_time: ''
-  rating: 0
+  rating: 3
   scale: null
   servings: '6'
   source: ''
@@ -3905,6 +5241,74 @@
   source_url: https://www.staceyhomemaker.com/cashew-cream-spinach-artichoke-dip/
   total_time: ''
   uid: C77EC3A0-479C-4551-A8A7-17E6A53DD0AB
+- categories: []
+  cook_time: 4 to 13 hours
+  created: '2020-09-21 16:23:17'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Place dried ancho and guajillo chilies on a microwave-safe plate and microwave
+    until pliable and toasty-smelling, 10 to 20 seconds. Transfer to the jar of a
+    blender and add chipotle peppers, orange juice, lime juice, olive oil, soy sauce,
+    fish sauce, garlic, cilantro, cumin seed, coriander seed, and brown sugar. Blend
+    until a smooth sauce has formed, about 1 minute. Season to taste with salt. Transfer
+    half of the salsa to a large bowl and the other half to a sealed container. Set
+    aside the sealed container in the refrigerator.
+  - 2. Add an extra 2 teaspoons of salt to the salsa in the bowl. It should taste
+    slightly saltier than is comfortable to taste. Add 1 piece of steak to bowl and
+    turn to coat. Transfer to a gallon-sized zipper-lock bag with the top folded over
+    to prevent excess sauce and meat juices from contaminating the seal. Repeat with
+    remaining steak, adding it all to the same bag. Pour any excess marinade over
+    the steak. Squeeze all air out of the bag and seal. Refrigerate for at least 3
+    hours and up to overnight.
+  - 3. When ready to cook, remove the extra salsa from the fridge to allow it to warm
+    up a little. Light one chimney full of charcoal. When all the charcoal is lit
+    and covered with gray ash, pour out and arrange the coals on one side of the charcoal
+    grate. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes.
+    Alternatively, set half the burners on a gas grill to the highest heat setting,
+    cover, and preheat for 10 minutes. Clean and oil the grilling grate.
+  - "4. Remove steak from marinade and wipe off excess. Place directly over the hot\
+    \ side of the grill. If using a gas grill, cover; if using a charcoal grill, leave\
+    \ exposed. Cook, turning occasionally, until steak is well charred on outside\
+    \ and center registers 110\xB0F on an instant-read thermometer, 5 to 10 minutes\
+    \ total. Transfer to a cutting board and allow to rest for 5 minutes. Slice thinly\
+    \ against the grain and serve immediately, passing extra salsa, lime wedges, avocado,\
+    \ onions, cilantro, and tortillas on the side."
+  image_url: https://www.seriouseats.com/recipes/images/2015/09/20150814-carne-asada-food-lab-kenji-01.jpg
+  in_trash: false
+  ingredients:
+  - 3 whole dried ancho chilies, stems and seeds removed (see note)
+  - 3 whole dried guajillo chilies, stems and seeds removed (see note)
+  - 2 whole chipotle peppers, canned in adobo
+  - 3/4 cup fresh juice from 2 to 3 oranges, preferably sour oranges
+  - 2 tablespoons fresh juice from 2 to 3 limes
+  - 2 tablespoons extra-virgin olive oil
+  - 2 tablespoons soy sauce
+  - 2 tablespoons Asian fish sauce, such as Red Boat
+  - 6 medium cloves garlic
+  - 1 small bunch cilantro, leaves and tender stems only, divided
+  - 1 tablespoon whole cumin seed, toasted and ground
+  - 1 teaspoon whole coriander seed, toasted and ground
+  - 2 tablespoons dark brown sugar
+  - Kosher salt
+  - 2 pounds skirt steak (2 to 3 whole skirt steaks), trimmed and cut with the grain
+    into 5- to 6-inch lengths (see note)
+  - Warm corn or flour tortillas, lime wedges, diced onion, fresh cilantro, and avocado,
+    for serving
+  is_pinned: false
+  name: The Best Carne Asada
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: Seves 6
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2015/09/carne-asada-food-lab-recipe-kenji.html
+  total_time: ''
+  uid: CEC97C65-C7CE-4A95-8D34-17F0D92FDD94
 - categories: []
   cook_time: ''
   created: '2019-08-07 00:02:20'
@@ -4044,25 +5448,79 @@
   ingredients:
   - 2 tbsp extra-virgin olive oil
   - 1.5 lbs boneless skinless breasts, halved
-  - 2 cans diced tomatoes with basil, garlic, and oregano
+  - 28 oz peeled whole tomoatoes
+  - basil
+  - oregano
+  - garlic
   - 2 cups water
   - 1 lb fettuccini pasta
   - 4 oz feta cheese
   - Finely chopped fresh basil
   is_pinned: false
   name: 5 Ingredient Chicken Feta Pasta
-  notes: ''
+  notes: 'in olive oil cook basil, oregano, garlic
+
+    top with some fresh basil'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   prep_time: 5 mins
-  rating: 4
+  rating: 3
   scale: null
   servings: "Yield: 4 \u20136 servings"
   source: Wellplated.com
   source_url: https://www.wellplated.com/chicken-feta-pasta/
   total_time: ''
   uid: D117CCB4-B53B-4679-A44C-5F0BBDC2C596
+- categories: []
+  cook_time: ''
+  created: '2020-07-29 15:33:51'
+  description: ''
+  difficulty: ''
+  directions:
+  - Preheat your grill for high heat direct cooking and rub the grates down with a
+    wadded paper towel dipped in cooking oil (set aside to use again later).
+  - Use a microplane to zest the orange and pulverize the garlic into a small bowl
+    with the fennel fronds.
+  - Slice the orange in half, rub lightly with olive oil, and place cut-side down
+    directly over the fire. Cook for a minute or two until the oranges become deeply
+    charred, then juice them into the bowl with the fennel. Stir in the white wine
+    vinegar and kosher salt, then cover and set aside at room temperature while you
+    make the burgers.
+  - "Use the bread as a guide to cut perfectly sized watermelon burger \u201Cpatties,\u201D\
+    \ then coat them well with olive oil and season them with a sprinkle of kosher\
+    \ salt. Rub the grill grates with the oily paper towel once again, then put the\
+    \ burgers directly over the flames. Cook for about 5-7 minutes per side, moving\
+    \ around the grill as needed to keep from burning."
+  - Toast the buns lightly, then top with watermelon, cheese, a few coarse cracks
+    of black pepper, and a few spoonfuls of the gremolata. Serve immediately.
+  image_url: https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jojslts0p19lj2rosxzx.jpg
+  in_trash: false
+  ingredients:
+  - 1 small orange
+  - 1 cup roughly chopped fennel fronds
+  - 1-2 fat cloves of garlic
+  - 2 Tbsp. white wine vinegar
+  - 1/4 tsp. kosher salt
+  - Freshly cracked black pepper
+  - 4 slices of watermelon, 2" thick
+  - Olive oil
+  - Chevre or whatever cheese you like (I recommend sheep and goat cheeses)
+  - 4 square ciabatta buns, or a good crusty baguette cut into sandwich-sized portions
+  is_pinned: false
+  name: Watermelon Burgers Must Be Seen (And Tasted) to Be Believed
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 4 burgers
+  source: Thetakeout.com
+  source_url: https://thetakeout.com/watermelon-burgers-with-goat-cheese-and-gremolata-a-gr-1844471871
+  total_time: ''
+  uid: D1399101-FE24-4F8F-BD5F-A94B75761F5B
 - categories: []
   cook_time: 6 hrs
   created: '2019-11-25 21:40:06'
@@ -4267,6 +5725,76 @@
   source_url: https://www.connoisseurusveg.com/vegan-spinach-puffs/
   total_time: ''
   uid: DA5CB76B-7826-4E30-8C74-E24592AE4DDC
+- categories: []
+  cook_time: 30 minutes
+  created: '2020-09-14 19:08:11'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. Pour stock into small small bowl or liquid measuring cup and evenly sprinkle
+    gelatin over surface of stock. Set aside.
+  - 2. In a large 12-inch cast iron or stainless steel skillet, heat oil over medium-high
+    heat until shimmering. Add mushrooms, season with salt and pepper, and cook, stirring
+    frequently with a wooden spoon, until moisture has evaporated and mushrooms are
+    deeply browned, 12 to 15 minutes.
+  - 3. Add shallots, garlic, and thyme and cook, stirring constantly, until fragrant
+    and shallots are softened, 30 seconds to 1 minute. Add wine or sherry, and cook,
+    swirling pan and scraping up any stuck-on bits with a wooden spoon, until wine
+    is reduced by half, about 30 seconds.
+  - 4. Add chicken stock mixture, season lightly with salt, and bring to a simmer.
+    Reduce heat to medium-low, add fish sauce (if using), and cook, stirring occasionally,
+    until mushroom mixture is thickened to a saucy consistency, about 5 minutes. Turn
+    off heat.
+  - 5. Meanwhile, in a pot of salted boiling water, cook pasta. If using dry pasta,
+    cook until just shy of al dente (1 to 2 minutes less than the package directs).
+    If using fresh pasta, cook until noodles are barely cooked through. Using either
+    a spider skimmer (for short pasta) or tongs (for long fresh pasta), transfer pasta
+    to pan with mushrooms along with 3/4 cup (180ml) pasta cooking water. Alternatively,
+    drain pasta using a colander or fine-mesh strainer, making sure to reserve at
+    least 2 cups (475ml) pasta cooking water.
+  - 6. Heat sauce and pasta over high and cook, stirring and tossing rapidly, until
+    pasta is al dente (fresh pasta will never be truly al dente) and sauce is thickened
+    and coats noodles, 1 to 2 minutes, adding more pasta cooking water in 1/4 cup
+    (60ml) increments as needed. At this point, the sauce should coat the pasta but
+    still be loose enough to pool around the edges of the pan. Add the butter, and
+    stir and toss rapidly to melt and emulsify into the sauce. Remove from heat, add
+    3/4 of grated cheese and all of the parsley, and stir rapidly to incorporate.
+    Season with salt to taste. Serve immediately, passing remaining grated cheese
+    at the table.
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 1 cup (240ml) homemade or store-bought low sodium chicken stock (see note)
+  - 1 1/2 teaspoons (4g) powdered gelatin, such as Knox
+  - 2 tablespoons (30ml) extra-virgin olive oil
+  - 1 1/2 pounds (675g) mixed mushrooms (such as shiitake, oyster, maitake, beech,
+    cremini, and chanterelles), cleaned, trimmed, and thinly sliced or torn by hand
+    (see note)
+  - Kosher salt and freshly ground black pepper
+  - 3 medium shallots, finely minced (about 3/4 cup; 120g)
+  - 2 medium (10g) garlic cloves, minced
+  - 2 tablespoons (4g) chopped fresh thyme leaves
+  - 1/2 cup (120ml) dry white wine or 1/4 cup (60ml) dry sherry
+  - 1 teaspoon (5ml) fish sauce (optional)
+  - 1 pound (450g) short dried pasta (such as casarecce or gemelli) or long fresh
+    egg-dough pasta (such as tagliatelle or fettuccine)
+  - 6 tablespoons unsalted butter (3 ounces; 85g)
+  - 3 ounces grated Parmigiano-Reggiano (1 cup; 85g)
+  - 1/4 cup (10g) chopped fresh flat-leaf parsley leaves
+  is_pinned: false
+  name: Creamy Pasta with Mushrooms (Pasta Ai Funghi)
+  notes: Rachael liked this better than my other mushroom dish
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 3
+  scale: null
+  servings: Serves 4
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2020/04/mushroom-pasta-creamy.html
+  total_time: ''
+  uid: DCFC5341-63CD-4460-B626-9BE584514770
 - categories:
   - Sides
   - Vegan
@@ -4325,7 +5853,7 @@
   - Pour dressing over vegetables and toss to coat. Adjust seasoning to taste with
     salt, pepper, and/or sugar.
   image_url: https://www.seriouseats.com/recipes/images/2014/06/20140604-294806-vinegar-slaw.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 'For the Dressing:'
   - 1 cup apple cider vinegar
@@ -4394,14 +5922,14 @@
   on_grocery_list: false
   prep_time: 10 minutes
   rating: 4
-  scale: null
+  scale: 1/2
   servings: '16'
   source: Inquiringchef.com
   source_url: https://inquiringchef.com/slow-cooker-white-chicken-chili/
   total_time: ''
   uid: E4540965-3678-4576-9F5A-2DF013D97AFD
 - categories: []
-  cook_time: 15 minutes
+  cook_time: 1 hour
   created: '2019-12-10 18:10:24'
   description: ''
   difficulty: ''
@@ -4426,23 +5954,150 @@
   - 3 cups uncooked rice
   is_pinned: false
   name: Chicken with Rosemary Butter Sauce
-  notes: ''
-  nutritional_info: 'Amount Per Serving: CALORIES: 403 TOTAL FAT: 27g SATURATED FAT:
-    15g
-
-    TRANS FAT: 1g UNSATURATED FAT: 9g CHOLESTEROL: 167mg SODIUM: 304mg
-
-    CARBOHYDRATES: 1g FIBER: 0g SUGAR: 1g PROTEIN: 38g'
+  notes: With the darker more rich sauce Rachael loved it
+  nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
-  prep_time: 5 minutes
-  rating: 4
+  prep_time: 15 mins
+  rating: 5
   scale: null
   servings: 'Yield: 4 servings'
   source: Letsdishrecipes.com
   source_url: https://letsdishrecipes.com/chicken-with-rosemary-butter-sauce
   total_time: ''
   uid: E5F429C0-B173-4EA0-AC65-DB48EDDD0BB4
+- categories: []
+  cook_time: 1 1/2 hours, plus overnight brine for chicken
+  created: '2020-06-13 18:49:30'
+  description: ''
+  difficulty: ''
+  directions:
+  - 1. With a sharp chef's knife, split chicken breasts in half horizontally. Working
+    one piece at a time, place inside a plastic zipper-lock bag and pound with a meat
+    pounder or the bottom of a skillet to an even 1/4-inch thickness. Transfer to
+    a large bowl.
+  - 2. Add 1 1/2 cups buttermilk and minced garlic to bowl. Season with 2 tablespoons
+    kosher salt and 1 teaspoon freshly ground black pepper. Turn chicken with hands
+    until salt, pepper, and garlic are evenly incorporated and all the chicken is
+    coated in buttermilk mixture. Transfer to a large zipper-lock bag, press out the
+    air, and seal. Refrigerate for at least 4 hours and up to overnight (see note).
+  - 3. Meanwhile, place bread slices on a rack set in a rimmed baking sheet. Leave
+    out on counter for at least 4 hours and up to overnight until mostly dried.
+  - 4. The next day, break bread into rough pieces (leave the wire rack in the rimmed
+    baking sheet) and combine with 4 ounces Parmesan cheese in the food processor.
+    Season with black pepper. Process until bread is finely ground, about 20 seconds.
+    Transfer mixture to a large shallow bowl or pie plate.
+  - 5. Place flour in a second shallow bowl or pie plate. Whisk eggs, 2 tablespoons
+    buttermilk, and 1 tablespoon of the flour in a third pie plate. Drizzle remaining
+    2 tablespoons buttermilk over the breadcrumb/Parmesan mixture and incorporate
+    with your fingertips. The mixture should be mealy, but hold together in clumps
+    if you squeeze it together with your hands.
+  - 6. Working one piece of chicken at a time, remove from the bag and add to flour.
+    Turn to coat, shake off excess, and add to egg mixture. Turn to coat, letting
+    excess drip off, and add to breadcrumb mixture. Turn to coat, piling crumbs on
+    top and pressing down firmly so a thick layer adheres. Transfer coated chicken
+    to the wire rack and repeat with remaining chicken breasts.
+  - "7. Preheat oven to 425\xB0F. Place sauce in a medium saucepan and heat over low\
+    \ heat, stirring occasionally, until barely simmering. Remove from heat and set\
+    \ aside."
+  - "8. Heat oil in a large non-stick or cast iron skillet over medium-high heat until\
+    \ it registers 375 to 400\xB0F on an instant read or deep-frying thermometer.\
+    \ Working in batches, carefully add chicken by lowering the cutlets away from\
+    \ you into the oil. Add as many cutlets as will fit in one layer (2 to 3)."
+  - 9. Cook, swirling pan gently and using a thin flexible metal spatula to loosen
+    chicken if it sticks, until chicken is golden-brown and crisp on bottom side,
+    about 2 minutes. Using a thin metal spatula and a fork, carefully flip chicken
+    and cook until golden brown on second side. Transfer chicken to a paper-towel
+    lined plate to drain and repeat with remaining chicken.
+  - 10. Spoon 1/3 of sauce onto the bottom of a casserole or oven-safe serving dish.
+    Shingle chicken pieces on top of sauce. Top with more sauce, forming a line down
+    the center. Combine mozzarella and remaining 1 tablespoon Parmesan cheese in a
+    large bowl and toss to coat. Lay cheese mixture over chicken in a straight line
+    down the center.
+  - 11. Transfer to the oven and cook until cheese is melted and bubbly, about 20
+    minutes. Remove from oven and immediately grate fresh Parmesan on top. Allow to
+    rest for 3 minutes, top with chopped herbs, and serve immediately.
+  image_url: https://www.seriouseats.com/recipes/images/2014/09/20140923-chicken-parm-recipe-35.jpg
+  in_trash: false
+  ingredients:
+  - 3 boneless skinless chicken breast halves
+  - 1 3/4 cups buttermilk, divided
+  - 2 medium cloves garlic, minced (about 2 teaspoons)
+  - Kosher salt and freshly ground black pepper
+  - 1/2 loaf crusty italian bread, crust removed, sliced into 1/2-inch slices
+  - 5 ounces grated Parmesan cheese, plus more for serving
+  - 1 1/2 cups all-purpose flour
+  - 2 large eggs
+  - 1/2 cup vegetable or canola oil
+  - 1 quart Italian-American red sauce (see note)
+  - 10 ounces fresh mozzarella cheese, cut into 1/2-inch chunks
+  - 2 tablespoons minced fresh parsley, basil, or a mix
+  is_pinned: false
+  name: The Best Chicken Parmesan
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 1 hour
+  rating: 0
+  scale: null
+  servings: Serves 4 to 6
+  source: Seriouseats.com
+  source_url: https://www.seriouseats.com/recipes/2014/09/the-best-chicken-parmesan-recipe.html
+  total_time: ''
+  uid: E7CB237E-2020-4855-ADF4-A8709DD9522F
+- categories: []
+  cook_time: ''
+  created: '2020-08-25 23:26:55'
+  description: ''
+  difficulty: ''
+  directions:
+  - "Preheat oven to 375\u02DAF (190\u02DAC)."
+  - Cut sweet potato into wedges. Place in large bowl.
+  - Heat up coconut oil in microwave in 15-second intervals until melted. Mix in brown
+    sugar and cinnamon.
+  - Pour mixture into large bowl of sweet potatoes wedges. Mix together until evenly
+    coated.
+  - Place on baking sheet lined with parchment paper.
+  - Bake for 30 minutes, or until soft. For best results, flip halfway.
+  - While wedges are baking, prepare dipping sauce by combining ingredients in a small
+    bowl and set aside in the refrigerator until ready to use.
+  - Enjoy!
+  image_url: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1b3ea5f92a61496f8b08230ece9c47fb/BFV17290_SweetSavorySweetPotatoWedges_FB1080SQ.jpg
+  in_trash: true
+  ingredients:
+  - 1 sweet potato
+  - 1 tablespoon coconut oil
+  - 1 tablespoon brown sugar
+  - "\xBD teaspoon cinnamon"
+  - MAPLE CINNAMON DIPPING SAUCE
+  - "\xBD cup greek yogurt"
+  - 1 tablespoon maple syrup
+  - "\xBC teaspoon cinnamon"
+  is_pinned: true
+  name: Cinnamon Brown Sugar Sweet Potato Wedges
+  notes: ''
+  nutritional_info: 'Fat: 13 grams
+
+    Calories: 539 calories
+
+    Fiber: 8 grams
+
+    Carbohydrate: 90 grams
+
+    Sugar: 50 grams
+
+    Protein: 15 grams'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 1 serving
+  source: Tasty.co
+  source_url: https://tasty.co/recipe/cinnamon-brown-sugar-sweet-potato-wedges
+  total_time: ''
+  uid: EB9E3F03-2579-475C-BF75-D2958EB4BAC0
 - categories: []
   cook_time: 20 minutes
   created: '2020-02-23 17:33:27'
@@ -4501,6 +6156,54 @@
   source_url: https://divascancook.com/easy-italian-pasta-salad-recipe/
   total_time: ''
   uid: ED791F2B-3848-4C2C-AA13-281D657D2FDA
+- categories: []
+  cook_time: 5 mins
+  created: '2020-09-29 16:38:48'
+  description: ''
+  difficulty: ''
+  directions:
+  - Add all ingredients to a blender or food processor.
+  - Blend until completely smooth, about 30 seconds.
+  - Taste and season with more salt, if necessary.
+  - Transfer to jar, cover and refrigerate for at least 1 hour, or preferably overnight,
+    before serving to help the flavors really meld together. If you don't have time
+    to let it sit, you can serve it immediately.
+  - Drizzle on salads, tacos, rice bowls or grilled meats!
+  - "ISABEL\u2019S TIPS"
+  - After blending all the ingredients together, I recommend letting the dressing
+    sit in the fridge for at least 1 hour but preferably overnight to really help
+    the flavors meld together. It makes a big difference and is worth the wait!
+  - The dressing should be pourable and not too thick. If you want it thicker, blend
+    in more plain Greek yogurt until it reaches the consistency you want.
+  - "When measuring out the cilantro for this recipe, use the stems and the leaves.\
+    \ You can remove any large excess stems (especially if they\u2019re super long),\
+    \ but you don\u2019t have to individually pluck off the cilantro leaves."
+  image_url: https://www.isabeleats.com/wp-content/uploads/2020/05/cilantro-lime-dressing-small-1.jpg
+  in_trash: false
+  ingredients:
+  - 2 cups cilantro, packed
+  - 1 cup plain Greek yogurt
+  - 6 tablespoons olive oil
+  - 1/4 cup lime juice (about the juice of 2 limes)
+  - 2 tablespoons honey
+  - 2 cloves garlic
+  - 3/4 teaspoon kosher salt, plus more to taste
+  is_pinned: false
+  name: Creamy Cilantro Lime Dressing
+  notes: ''
+  nutritional_info: 'Serving: 0.25cup Calories: 146kcal Carbohydrates: 7g Protein:
+    3g Fat: 12g Saturated Fat: 2g Cholesterol: 1mg Sodium: 262mg Potassium: 74mg Fiber:
+    1g Sugar: 6g Vitamin A: 308IU Vitamin C: 4mg Calcium: 36mg Iron: 1mg'
+  on_favorites: false
+  on_grocery_list: false
+  prep_time: 5 mins
+  rating: 0
+  scale: null
+  servings: 'Servings: 7'
+  source: Isabeleats.com
+  source_url: https://www.isabeleats.com/cilantro-lime-dressing/
+  total_time: ''
+  uid: EE34F690-F36E-41E8-A9A7-0581F22E784C
 - categories:
   - Pasta
   cook_time: 30 minutes
@@ -4552,7 +6255,11 @@
   - 16 oz pasta sauce
   is_pinned: false
   name: Baked Chicken Parmesan and Broccoli
-  notes: ''
+  notes: 'consider serious eats alternative
+
+    needs more pasta sauce
+
+    4lbs of chicken is to much'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
@@ -4599,7 +6306,7 @@
     with a final layer of parathas, and brush with a bit of ghee/butter on top. Put
     the whole thing in the oven for 10 minutes.
   image_url: https://i.kinja-img.com/gawker-media/image/upload/s--vKrIaS6d--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pb8i8f3qcr2ccojmriry.jpg
-  in_trash: false
+  in_trash: true
   ingredients:
   - 1 white onion
   - Olive oil
