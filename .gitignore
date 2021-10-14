@@ -6,3 +6,4 @@ _site/
 *.swp
 .project
 .settings
+_data/recipes_status.json

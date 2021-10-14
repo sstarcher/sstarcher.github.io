@@ -23,12 +23,10 @@ end
 desc 'Download recipe updates'
 task :recipes do
   system 'git checkout source'
-  system 'mkdir -p temp/images'
-  system 'cd temp; ~/github/paprika-exporter/export.py'
-  system 'rm -rf images/recipes'
-  system `mv temp/images images/recipes`
-  system `mv temp/recipes.yaml _data/recipes.yaml`
-  system 'rm -rf temp'
+  system 'rm -f _data/recipes_status.json'
+  system '~/github/paprika-exporter/export.py'
+  system 'rm -rf images/recipes && mv assets/images/recipes/ images/'
+  system 'rm -rf assets && rm _data/recipes_status.json'
 end
 
 desc 'Generate and publish blog to gh-pages'
