@@ -11,10 +11,12 @@ layout: page
         {% for i in (3..5) reversed %}
             {% for recipe in site.data.recipes %}
                 {% if recipe.rating == i and recipe.image_url %}
+                {% if recipe.name != "Healthy Buffalo Chickpea Dip" and recipe.name != "Slow-Cooker White Chicken Chili" %}
             <a class="image-container" href="/recipes/{{ recipe.name | downcase | replace: " ", "-" | remove: "(" | remove: ")" | remove: "'" | remove: "&" | remove: ","  }}.html">
                 <img class="photo-large" src="{{ recipe.image_url | default: "" }}">
                 <div class="bottom-left"><b><h3 class="text-hover">{{ recipe.name }}</h3></b></div>
             </a>
+                {% endif %}
     		    {% endif %}
             {% endfor %}
         {% endfor %}

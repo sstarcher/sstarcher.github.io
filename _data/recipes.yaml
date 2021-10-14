@@ -23,7 +23,7 @@
   - 1 teaspoon brown sugar
   - "\xBC teaspoon liquid smoke flavoring"
   - "\xBC teaspoon smoked paprika"
-  is_pinned: true
+  is_pinned: false
   name: Smoky Vegetarian Collard Greens
   notes: ''
   nutritional_info: 'Per Serving: 108 calories; protein 2.4g; carbohydrates 8.5g;
@@ -1847,7 +1847,7 @@
     Serve immediately.
   - '**Pesto will keep for 1 week in refrigerator if in an airtight container. Pesto
     also freezes nicely!'
-  image_url: images/recipes/B8D50E16-7DB8-48E5-8ED6-758599A7E5C2.jpg
+  image_url: null
   in_trash: false
   ingredients:
   - 4 Chicken breasts
@@ -4958,7 +4958,7 @@
   - 2 tablespoons canola oil
   - 6 ounces pepper jack cheese, grated
   - "1/2 cup finely chopped seeded fresh jalape\xF1os"
-  is_pinned: true
+  is_pinned: false
   name: "Jalape\xF1o Jack Cornbread"
   notes: ''
   nutritional_info: ''
@@ -6524,7 +6524,7 @@
   - 1/2 tsp (2g) garlic powder
   - "1/2 lb (225g) grated Gruy\xE8re cheese (see note)"
   - 1 cup panko bread crumbs (55g)
-  is_pinned: true
+  is_pinned: false
   name: "Modern Baked Mac and Cheese with Cheddar and Gruy\xE8re"
   notes: ''
   nutritional_info: ''
@@ -9705,7 +9705,7 @@
   - 1/2 cup heavy cream
   - 1/2 teaspoon freshly ground nutmeg
   - Sliced chives or scallions, for serving
-  is_pinned: true
+  is_pinned: false
   name: The Best Potato-Leek Soup
   notes: 'could be my fault, but seemed to need more potatoes '
   nutritional_info: ''
