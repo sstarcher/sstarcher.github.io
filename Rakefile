@@ -24,7 +24,7 @@ desc 'Download recipe updates'
 task :recipes do
   system 'git checkout source'
   system 'rm -f _data/recipes_status.json'
-  system '~/github/paprika-exporter/export.py'
+  system 'cd ~/github/paprika-exporter/ && pipenv run export.py'
   system 'rm -rf images/recipes && mv assets/images/recipes/ images/'
   system 'rm -rf assets && rm _data/recipes_status.json'
 end
