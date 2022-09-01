@@ -1,0 +1,206 @@
+#YUMMLY-YUM-IFRAME {
+  width: 40px;
+  height: 40px; }
+
+.photo {
+  max-width: 140px;
+  max-height: 140px;
+  width: auto;
+  height: auto; }
+
+.wide {
+  float: left;
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  width: 100%; }
+
+.button, input[type="submit"] {
+  background: #fff;
+  cursor: pointer;
+  border: 1px solid #666;
+  color: #000;
+  text-decoration: none;
+  padding: 5px 10px;
+  display: inline-flex;
+  align-items: flex-end;
+  margin: 0;
+  font-size: .8em; }
+  .button:hover, input[type="submit"]:hover {
+    background: #000;
+    color: #fff; }
+  .button:focus, input[type="submit"]:focus {
+    outline: none; }
+
+.button {
+  border-color: #000; }
+  .button a {
+    color: #000; }
+    .button a:hover {
+      color: #fff; }
+
+ol li + li {
+  margin: 20px 0 0 0; }
+
+.post h1 a {
+  color: #000;
+  text-decoration: none; }
+  .post h1 a:hover {
+    text-decoration: underline; }
+.post time {
+  padding: 0 0 20px 0;
+  display: block; }
+.post .recipe-overview {
+  padding: 0;
+  margin: 0; }
+  .post .recipe-overview svg {
+    position: relative;
+    top: 6px; }
+  .post .recipe-overview span {
+    margin: 0 18px 0 3px; }
+  .post .recipe-overview li {
+    list-style: none;
+    padding: 0;
+    margin: 0; }
+    @media (min-width: 900px) {
+      .post .recipe-overview li {
+        display: inline-block; } }
+@media (min-width: 900px) {
+  .post .recipe-contents {
+    display: flex; } }
+.post .recipe-contents ul {
+  padding: 0; }
+  .post .recipe-contents ul li {
+    list-style-type: none; }
+    .post .recipe-contents ul li:before {
+      content: '\00bb';
+      color: #ff4e4e;
+      padding-right: 0.5em; }
+.post .recipe-contents ol {
+  padding: 0; }
+  .post .recipe-contents ol li {
+    counter-increment: step-counter;
+    list-style-type: none;
+    position: relative;
+    margin-left: 34px; }
+    .post .recipe-contents ol li:before {
+      content: counter(step-counter);
+      margin-right: 0px;
+      background-color: #ff4e4e;
+      color: white;
+      /* padding: 1px 7px; */
+      font-size: .7em;
+      position: absolute;
+      left: -34px;
+      top: -2px;
+      width: 25px;
+      text-align: center; }
+.post .recipe-contents .ingredients {
+  width: 250px;
+  padding: 0 43px 0 0; }
+@media (min-width: 900px) {
+  .post .recipe-contents .directions {
+    flex: 1; } }
+
+.sharing {
+  margin: 50px 0 0 0;
+  text-align: center;
+  font-size: 0; }
+  .sharing a {
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    width: 56px;
+    display: inline-block;
+    height: 44px;
+    line-height: 0;
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center; }
+    .sharing a:hover:before {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.25);
+      content: ""; }
+    .sharing a svg {
+      fill: #fff; }
+    .sharing a.email {
+      background-color: #ff9d09; }
+    .sharing a.facebook {
+      background-color: #3b5998; }
+    .sharing a.twitter {
+      background-color: #55acee; }
+    .sharing a.google-plus {
+      background-color: #db4437; }
+    .sharing a.youtube {
+      background-color: #cd201f; }
+    .sharing a.instagram {
+      background-color: #f167f5; }
+    .sharing a.linkedin {
+      background-color: #0077b5; }
+    .sharing a.pinterest {
+      background-color: #C92228; }
+    .sharing a.pinterest-icon:hover svg {
+      fill: #bd081c; }
+
+.cta {
+  text-align: center;
+  padding: 50px 0 0 0; }
+
+.rating {
+  color: #ff4e4e; }
+
+/**
+* @license lyradesigns.com v1
+* Updated: Dec 17, 2014
+* Add pin buttons to images
+* Copyright (c) 2014 Jonas Goslow - LYRA
+* Released under the MIT license
+* https://github.com/timmywil/jquery.panzoom/blob/master/MIT-License.txt
+
+Customize these however you like.
+
+*/
+.imgPinWrap {
+  position: relative;
+  display: inline-block; }
+
+.imgPinWrap .pin {
+  opacity: 0;
+  position: absolute;
+  display: block;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out; }
+
+.imgPinWrap .pin img {
+  display: block; }
+
+.imgPinWrap .pin:hover {
+  box-shadow: 0 0 5px #fff; }
+
+.imgPinWrap:hover .pin {
+  opacity: 1; }
+
+.imgPinWrap .left {
+  left: 15px; }
+
+.imgPinWrap .right {
+  right: 15px; }
+
+.imgPinWrap .bottom {
+  bottom: 15px; }
+
+.imgPinWrap .top {
+  top: 15px; }
+
+.imgPinWrap .center {
+  left: 50%;
+  top: 50%; }
