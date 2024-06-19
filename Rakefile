@@ -41,8 +41,8 @@ task publish: [:generate] do
     system 'git init'
     system 'git add .'
     message = "Site updated at #{Time.now.utc}"
-    system "git commit -m #{message.inspect}"
-    system 'git remote add origin git@github.com-sstarcher:sstarcher/sstarcher.github.io.git'
+    system "git commit --author='Shane Starcher <shane.starcher@gmail.com>' -m #{message.inspect}"
+    system 'git remote add origin git@github.com:sstarcher/sstarcher.github.io.git'
     system 'git push origin master --force'
 
     Dir.chdir pwd
