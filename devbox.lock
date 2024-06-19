@@ -1,0 +1,208 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "ruby@3.3.1": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#ruby_3_3",
+      "source": "devbox-search",
+      "version": "3.3.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pkp3jxxrv5k2q30d7dlrhi3iavf7yx30-ruby-3.3.1",
+              "default": true
+            },
+            {
+              "name": "devdoc",
+              "path": "/nix/store/kd1jzkciy029zvr9z93flqvj5jv3p4fg-ruby-3.3.1-devdoc"
+            }
+          ],
+          "store_path": "/nix/store/pkp3jxxrv5k2q30d7dlrhi3iavf7yx30-ruby-3.3.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nz9ad6vkijjqb4a472d9wdsnr2v8zpzk-ruby-3.3.1",
+              "default": true
+            },
+            {
+              "name": "devdoc",
+              "path": "/nix/store/fdg456ic2642jzhrc2xx77930xw2zml0-ruby-3.3.1-devdoc"
+            }
+          ],
+          "store_path": "/nix/store/nz9ad6vkijjqb4a472d9wdsnr2v8zpzk-ruby-3.3.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/52f08h8gxjd0i0kf321ka6iyyfv17cyw-ruby-3.3.1",
+              "default": true
+            },
+            {
+              "name": "devdoc",
+              "path": "/nix/store/bj3s7wngp91256scm3x6x7jivncgynrx-ruby-3.3.1-devdoc"
+            }
+          ],
+          "store_path": "/nix/store/52f08h8gxjd0i0kf321ka6iyyfv17cyw-ruby-3.3.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "path": "/nix/store/nwbbnrwrzhk552p11lcxkxjfxi7z69sx-ruby-3.3.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nwbbnrwrzhk552p11lcxkxjfxi7z69sx-ruby-3.3.1"
+        }
+      }
+    },
+    "rubyPackages.eventmachine@1.2.7": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#rubyPackages.eventmachine",
+      "source": "devbox-search",
+      "version": "1.2.7",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/wjb060b303v1y2d05pf9a4vkc8151pv0-ruby3.1-eventmachine-1.2.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/wjb060b303v1y2d05pf9a4vkc8151pv0-ruby3.1-eventmachine-1.2.7"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7sqfx2895pwi09f9lp02pc0dzbmfd6k7-ruby3.1-eventmachine-1.2.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7sqfx2895pwi09f9lp02pc0dzbmfd6k7-ruby3.1-eventmachine-1.2.7"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hz8ckqvl92cl50bra45rv0r62afw9pr3-ruby3.1-eventmachine-1.2.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hz8ckqvl92cl50bra45rv0r62afw9pr3-ruby3.1-eventmachine-1.2.7"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5c5hq6n8hj5xh0429zcia6isrm5njkw7-ruby3.1-eventmachine-1.2.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5c5hq6n8hj5xh0429zcia6isrm5njkw7-ruby3.1-eventmachine-1.2.7"
+        }
+      }
+    },
+    "rubyPackages.ffi@1.16.3": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#rubyPackages.ffi",
+      "source": "devbox-search",
+      "version": "1.16.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v34yv5ysyskn31lg4074y327wsb4v374-ruby3.1-ffi-1.16.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/v34yv5ysyskn31lg4074y327wsb4v374-ruby3.1-ffi-1.16.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i42nvi69j59gkgd774wz72sc8afhfapi-ruby3.1-ffi-1.16.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i42nvi69j59gkgd774wz72sc8afhfapi-ruby3.1-ffi-1.16.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/51qih64db48b56xq6bghnqxg54f26qy9-ruby3.1-ffi-1.16.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/51qih64db48b56xq6bghnqxg54f26qy9-ruby3.1-ffi-1.16.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/76g4f4q4gy96lxv6xwm63hfrqb87l5xf-ruby3.1-ffi-1.16.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/76g4f4q4gy96lxv6xwm63hfrqb87l5xf-ruby3.1-ffi-1.16.3"
+        }
+      }
+    },
+    "rubyPackages.jekyll@3.9.5": {
+      "last_modified": "2024-05-24T22:06:51Z",
+      "resolved": "github:NixOS/nixpkgs/1a9df4f74273f90d04e621e8516777efcec2802a#rubyPackages.jekyll",
+      "source": "devbox-search",
+      "version": "3.9.5",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/99plxcnzdhbg9nk29mcs9d27gvcp0s12-ruby3.1-jekyll-3.9.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/99plxcnzdhbg9nk29mcs9d27gvcp0s12-ruby3.1-jekyll-3.9.5"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/s3a30v5y3ih1zfing8piybkgkd8v7fli-ruby3.1-jekyll-3.9.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/s3a30v5y3ih1zfing8piybkgkd8v7fli-ruby3.1-jekyll-3.9.5"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/821sy89f7211v9qy53841gzf98paqskl-ruby3.1-jekyll-3.9.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/821sy89f7211v9qy53841gzf98paqskl-ruby3.1-jekyll-3.9.5"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "path": "/nix/store/47i9zz4gwprirwbk822mvkakdhzrn23f-ruby3.1-jekyll-3.9.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/47i9zz4gwprirwbk822mvkakdhzrn23f-ruby3.1-jekyll-3.9.5"
+        }
+      }
+    }
+  }
+}
