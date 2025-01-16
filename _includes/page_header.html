@@ -14,7 +14,10 @@
         {%- if site.texture.social_links.untappd -%}
         <li><a class="icon" href="https://untappd.com/user/{{ site.texture.social_links.untappd }}"><img class="icon" src="/images/untappd.png"></a></li>
         {%- endif -%}
-        {%- if site.data.recipes == "bob" -%}
+        {%- if site.texture.social_links.discord -%}
+        <li><a class="icon" href="https://discord.com/users/{{ site.texture.social_links.discord }}"><img class="icon" src="/images/discord.png"></a></li>
+        {%- endif -%}
+	{%- if site.data.recipes == "bob" -%}
         <li><a id="tagline" href="/recipes.html"><h3>Recipes</h3></a></li>
         {%- endif -%}
     </ul>
