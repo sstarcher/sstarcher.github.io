@@ -1,7 +1,12 @@
+- org:  Bridgewater Associates
+  role: Infrastructure Software Engineer
+  location: Remote
+  when: Nov 2021 - Present
+
 - org:  Syapse
   role: Cloud Architect
   location: Remote
-  when: Nov 2017 - Present
+  when: Nov 2017 - Nov 2021
   bullets:
     - Designed and implemented the move from EC2 instances for all services to a container orchestrated system.  This migration allowed us to better utilized EC2 resources reducing our EC2 spend by 50% with a cost savings of over $500,000 a year.
     - Reviewed and redesigned the terraform structure to use a modular approach that could be versioned and automated.
