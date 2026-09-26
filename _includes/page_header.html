@@ -1,28 +1,30 @@
 <div id="header" class="container">
     <ul class="social">
         <li class="header-title"><a id="title" href="/"><h1>{{ site.texture.title }}</h1></a></li>
-        {%- if site.texture.social_links.github -%}
-        <li><a class="icon" href="https://github.com/{{ site.texture.social_links.github }}"><img class="icon" src="/images/github.png" alt="GitHub"></a></li>
-        {%- endif -%}
-        {%- if site.texture.social_links.linkedIn -%}
-        {%- assign linkedin_val = site.texture.social_links.linkedIn -%}
-        {%- if linkedin_val contains 'linkedin.com' -%}
-          {%- assign linkedin_url = linkedin_val -%}
-        {%- elsif linkedin_val contains 'in/' -%}
-          {%- assign linkedin_url = 'https://www.linkedin.com/' | append: linkedin_val -%}
-        {%- elsif linkedin_val contains 'us/' -%}
-          {%- assign linkedin_url = 'https://www.linkedin.com/in/' | append: (linkedin_val | remove_first: 'us/') -%}
-        {%- else -%}
-          {%- assign linkedin_url = 'https://www.linkedin.com/in/' | append: linkedin_val -%}
-        {%- endif -%}
-        <li><a class="icon" href="{{ linkedin_url }}"><img class="icon" src="/images/linkedin.png" alt="LinkedIn"></a></li>
-        {%- endif -%}
-        {%- if site.texture.social_links.untappd -%}
-        <li><a class="icon" href="https://untappd.com/user/{{ site.texture.social_links.untappd }}"><img class="icon" src="/images/untappd.png" alt="Untappd"></a></li>
-        {%- endif -%}
-        {%- if site.texture.social_links.discord -%}
-        <li><a class="icon" href="https://discord.com/users/{{ site.texture.social_links.discord }}"><img class="icon" src="/images/discord.png" alt="Discord"></a></li>
-        {%- endif -%}
+        <li class="header-icons">
+            {%- if site.texture.social_links.github -%}
+            <a class="icon" href="https://github.com/{{ site.texture.social_links.github }}"><img class="icon" src="/images/github.png" alt="GitHub"></a>
+            {%- endif -%}
+            {%- if site.texture.social_links.linkedIn -%}
+            {%- assign linkedin_val = site.texture.social_links.linkedIn -%}
+            {%- if linkedin_val contains 'linkedin.com' -%}
+              {%- assign linkedin_url = linkedin_val -%}
+            {%- elsif linkedin_val contains 'in/' -%}
+              {%- assign linkedin_url = 'https://www.linkedin.com/' | append: linkedin_val -%}
+            {%- elsif linkedin_val contains 'us/' -%}
+              {%- assign linkedin_url = 'https://www.linkedin.com/in/' | append: (linkedin_val | remove_first: 'us/') -%}
+            {%- else -%}
+              {%- assign linkedin_url = 'https://www.linkedin.com/in/' | append: linkedin_val -%}
+            {%- endif -%}
+            <a class="icon" href="{{ linkedin_url }}"><img class="icon" src="/images/linkedin.png" alt="LinkedIn"></a>
+            {%- endif -%}
+            {%- if site.texture.social_links.untappd -%}
+            <a class="icon" href="https://untappd.com/user/{{ site.texture.social_links.untappd }}"><img class="icon" src="/images/untappd.png" alt="Untappd"></a>
+            {%- endif -%}
+            {%- if site.texture.social_links.discord -%}
+            <a class="icon" href="https://discord.com/users/{{ site.texture.social_links.discord }}"><img class="icon" src="/images/discord.png" alt="Discord"></a>
+            {%- endif -%}
+        </li>
         <li class="header-resume"><a id="tagline" href="/resume.html"><h3>{{ site.texture.tagline }}</h3></a></li>
 	{%- if site.data.recipes == "bob" -%}
         <li><a id="tagline" href="/recipes.html"><h3>Recipes</h3></a></li>
