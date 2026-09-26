@@ -1,7 +1,10 @@
 .jekyll-metadata
+.jekyll-cache/
 .sass-cache/
 _drafts/
 _site/
+.devbox/
+vendor/
 .DS_Store
 *.swp
 .project

@@ -1,5 +1,5 @@
 ---
 ---
-@import "variables";
-@import "recipes";
-@import "pinterest";
+@use "variables" as *;
+@use "recipes" as *;
+@use "pinterest" as *;

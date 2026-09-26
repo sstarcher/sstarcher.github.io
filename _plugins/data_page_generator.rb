@@ -3,6 +3,8 @@
 # (c) 2014-2016 Adolfo Villafiorita
 # Distributed under the conditions of the MIT License
 
+require 'set'
+
 module Jekyll
 
   module Sanitizer
@@ -14,7 +16,7 @@ module Jekyll
       return name.tr(
   "ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÑñÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž",
   "AAAAAAaaaaaaAaAaAaCcCcCcCcCcDdDdDdEEEEeeeeEeEeEeEeEeGgGgGgGgHhHhIIIIiiiiIiIiIiIiIiJjKkkLlLlLlLlLlNnNnNnNnnNnNnOOOOOOooooooOoOoOoRrRrRrSsSsSsSssTtTtTtUUUUuuuuUuUuUuUuUuUuWwYyyYyYZzZzZz"
-).downcase.strip.gsub(' ', '-').gsub(/[^\w.-]/, '')
+).downcase.strip.gsub(' ', '-').gsub(/[^\w.-]/, '').gsub(/^[.-]+|[.-]+$/, '')
     end
   end
 
@@ -121,8 +123,13 @@ module Jekyll
             records = records.select { |r| r[data_spec['filter']] } if data_spec['filter']
             records = records.select { |record| eval(data_spec['filter_condition']) } if data_spec['filter_condition']
 
+            seen_pages = Set.new
             records.each do |record|
-              site.pages << DataPage.new(site, site.source, index_files_for_this_data, dir, record, name, name_expr, template, extension)
+              page = DataPage.new(site, site.source, index_files_for_this_data, dir, record, name, name_expr, template, extension)
+              page_key = "#{page.dir}/#{page.name}"
+              next if seen_pages.include?(page_key)
+              seen_pages.add(page_key)
+              site.pages << page
             end
           else
             puts "error (datapage_gen). could not find template #{template}" if not site.layouts.key? template
@@ -147,7 +154,8 @@ module Jekyll
     # Thus, if you use the `extension` feature of this plugin, you
     # need to generate the links by hand
     def datapage_url(input, dir)
-      extension = Jekyll.configuration({})['page_gen-dirs'] ? '/' : '.html'
+      site_config = (@context && @context.registers[:site]) ? @context.registers[:site].config : {}
+      extension = site_config['page_gen-dirs'] ? '/' : '.html'
       "#{dir}/#{sanitize_filename(input)}#{extension}"
     end
   end

@@ -8,8 +8,8 @@ GITHUB_REPONAME = 'sstarcher/sstarcher.github.io'.freeze
 
 desc 'Build site with Jekyll'
 task :serve, [:production] do |t, args|
-    puts 'Rakefile: Building with a development configuration.'
-    sh 'jekyll serve --trace --config _config.yml --watch --incremental'
+  puts 'Rakefile: Building with a development configuration.'
+  sh 'bundle exec jekyll serve --trace --config _config.yml --watch --incremental'
 end
 
 desc 'Generate blog files'
@@ -38,7 +38,7 @@ task publish: [:generate] do
     pwd = Dir.pwd
     Dir.chdir tmp
 
-    system 'git init'
+    system 'git init -b master'
     system 'git add .'
     message = "Site updated at #{Time.now.utc}"
     system "git commit --author='Shane Starcher <shane.starcher@gmail.com>' -m #{message.inspect}"

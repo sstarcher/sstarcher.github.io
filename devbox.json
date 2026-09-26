@@ -1,16 +1,15 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.11.1/.schema/devbox.schema.json",
   "packages": [
-    "ruby@2"
+    "ruby@3.3"
   ],
   "shell": {
     "init_hook": [
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
-      "test": [
-        "echo \"Error: no test specified\" && exit 1"
-      ]
+      "build": "bundle exec jekyll build",
+      "serve": "bundle exec jekyll serve --trace --config _config.yml --watch --incremental"
     }
   }
 }

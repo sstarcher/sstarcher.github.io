@@ -16,7 +16,16 @@ texture:
 
 # Build settings
 theme: texture
-remote_theme: thelehhman/texture
+remote_theme: samarsault/texture
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - devbox.json
+  - devbox.lock
+  - .devbox/
+  - vendor/
 
 page_gen:
   - data: recipes
