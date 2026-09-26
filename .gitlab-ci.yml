@@ -1,0 +1,17 @@
+image: ruby:3.3
+
+pages:
+  stage: deploy
+  cache:
+    paths:
+      - vendor/bundle
+  before_script:
+    - bundle config set --local path 'vendor/bundle'
+    - bundle install
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "source" || $CI_COMMIT_BRANCH == "main"

@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to GitHub Pages
+name: Build and Deploy
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -20,7 +20,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Source
         uses: actions/checkout@v4
 
       - name: Setup Ruby
@@ -33,13 +33,25 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact
+      - name: Upload artifact for GitHub Actions Pages
         uses: actions/upload-pages-artifact@v3
+        continue-on-error: true
+
+      - name: Publish to master branch (Legacy Pages branch support)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: master
+          publish_dir: ./_site
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: "Site updated by GitHub Actions: ${{ github.sha }}"
+          force_orphan: true
 
   deploy:
     environment:
@@ -51,3 +63,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
