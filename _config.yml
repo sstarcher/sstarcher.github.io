@@ -10,7 +10,7 @@ texture:
     untappd: sstarcher
     github:  sstarcher
     facebook: shanestarcher
-    linkedIn: us/sstarcher # format: locale/username
+    linkedIn: in/sstarcher # format: in/username or username
     discord: sstarcher
   analytics_id: 'UA-1959564-1'
 
