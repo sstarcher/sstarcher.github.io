@@ -64,13 +64,17 @@ ul.social {
     height: 47px;
 }
 
+.social>li.header-title {
+    padding-right: 45px;
+}
+
 a.icon {
     padding-top: 15px;
     display: block;
 }
 
 a#title {
-    padding-right: 30px;
+    display: inline-block;
 }
 
 header {
