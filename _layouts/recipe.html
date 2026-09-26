@@ -46,7 +46,6 @@ layout: page
 
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
-		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text={{ page.title | url_encode }}">{% include social-icon.html icon="Twitter" %}</a>
 		<a class="instagram" href="https://instagram.com">{% include social-icon.html icon="Instagram" %}</a>
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description | url_encode }}">{% include social-icon.html icon="Pinterest" %}</a>
