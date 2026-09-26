@@ -1,6 +1,6 @@
 <div id="header" class="container">
     <ul class="social">
-        <li class="header-title" style="margin-right: 70px;"><a id="title" href="/"><h1>{{ site.texture.title }}</h1></a></li>
+        <li class="header-title"><a id="title" href="/"><h1>{{ site.texture.title }}</h1></a></li>
         {%- if site.texture.social_links.github -%}
         <li><a class="icon" href="https://github.com/{{ site.texture.social_links.github }}"><img class="icon" src="/images/github.png" alt="GitHub"></a></li>
         {%- endif -%}
@@ -23,7 +23,7 @@
         {%- if site.texture.social_links.discord -%}
         <li><a class="icon" href="https://discord.com/users/{{ site.texture.social_links.discord }}"><img class="icon" src="/images/discord.png" alt="Discord"></a></li>
         {%- endif -%}
-        <li><a id="tagline" href="/resume.html"><h3>{{ site.texture.tagline }}</h3></a></li>
+        <li class="header-resume"><a id="tagline" href="/resume.html"><h3>{{ site.texture.tagline }}</h3></a></li>
 	{%- if site.data.recipes == "bob" -%}
         <li><a id="tagline" href="/recipes.html"><h3>Recipes</h3></a></li>
         {%- endif -%}

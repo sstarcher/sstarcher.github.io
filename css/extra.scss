@@ -65,8 +65,20 @@ ul.social {
 }
 
 .social>li.header-title {
-    margin-right: 70px;
+    margin-left: -35px;
+    margin-right: 95px;
     padding-right: 15px;
+
+    @media screen and (max-width: 768px) {
+        margin-left: 0;
+        margin-right: 20px;
+    }
+}
+
+.social>li.header-resume {
+    float: right;
+    padding-right: 0;
+    margin-right: 0;
 }
 
 a.icon {
